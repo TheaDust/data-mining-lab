@@ -1,0 +1,5 @@
+# Python 3.11; use locally installed Google Chrome, no Chromium download.
+requests==2.34.2
+beautifulsoup4==4.15.0
+playwright==1.64.1
+# Optional PDF parser: pypdf (not required for final 18 documents).

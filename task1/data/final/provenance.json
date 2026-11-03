@@ -1,0 +1,114 @@
+{
+  "source_batch": "supplement_20261103_172434_826954",
+  "raw_files_tracked": false,
+  "records": [
+    {
+      "doc_id": "gugong_official_df6c311301c59157",
+      "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+      "raw_filename": "01_gugong.html",
+      "raw_sha256": "794017e0e7bddf0b0630e0ba65b981c33c683af5cd6d82770420e1c0bd3f31c4"
+    },
+    {
+      "doc_id": "xihu_official_7a3841720cf3aaa6",
+      "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+      "raw_filename": "02_xihu_dynamic.html",
+      "raw_sha256": "c23c6721dd74c0ec554798e5d34f22183a006f7ed237123dc37eaae0ccfec0f0"
+    },
+    {
+      "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+      "url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+      "raw_filename": "03_jiuzhaigou.html",
+      "raw_sha256": "d0056012f7f517b143002555d47c8b385d6d76081ce2f28bc0d491140b46eb14"
+    },
+    {
+      "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+      "url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+      "raw_filename": "6a75c572000000002c004029.html",
+      "raw_sha256": "3ee0bbde77027078718191f6d46acad366c07879234d4033b14ad9bf21e425d5"
+    },
+    {
+      "doc_id": "gugong_user_generated_ac13633e735a71ff",
+      "url": "https://www.xiaohongshu.com/explore/6a16b53c0000000008003c9b",
+      "raw_filename": "6a16b53c0000000008003c9b.html",
+      "raw_sha256": "27e1b6989a4d37a7458f8c588bc7d32751c725df49ae4fe97277c19d9806d6d3"
+    },
+    {
+      "doc_id": "gugong_user_generated_d927127c74a320bc",
+      "url": "https://www.xiaohongshu.com/explore/69df5ab90000000021012e2a",
+      "raw_filename": "69df5ab90000000021012e2a.html",
+      "raw_sha256": "17bd3ea40670d45e535a49e2ab192f93bc1b3725e873635fcad2f8d4379f661e"
+    },
+    {
+      "doc_id": "gugong_user_generated_2641b9750708433f",
+      "url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+      "raw_filename": "6a7399c6000000000e03c801.html",
+      "raw_sha256": "747ffc038cf6928cf8858b6765fdb604bf0b575fd789f77fbdf496d86e23c049"
+    },
+    {
+      "doc_id": "gugong_user_generated_76dc90f7094090c6",
+      "url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+      "raw_filename": "694fc6e8000000001e024b65.html",
+      "raw_sha256": "d527a4d8d87f143c1d1c9d6818c9d986546169c82ba115c6304c432f59968351"
+    },
+    {
+      "doc_id": "xihu_user_generated_d439099980d19760",
+      "url": "https://www.xiaohongshu.com/explore/6ab491ba000000001400278d",
+      "raw_filename": "6ab491ba000000001400278d.html",
+      "raw_sha256": "335f5a8c26db7fb5e77c0e00fb7ad2443b2ab4760a0d05c2e961118185d976b1"
+    },
+    {
+      "doc_id": "xihu_user_generated_ddcb0707c1791565",
+      "url": "https://www.xiaohongshu.com/explore/6abf66e4000000001a029a51",
+      "raw_filename": "6abf66e4000000001a029a51.html",
+      "raw_sha256": "26b1d4a0003f34a010f35de48b0d40ec633bd9e32c6991067a785e2f9f270359"
+    },
+    {
+      "doc_id": "xihu_user_generated_059807848ba2b4a5",
+      "url": "https://www.xiaohongshu.com/explore/6ab11320000000003303aa7c",
+      "raw_filename": "6ab11320000000003303aa7c.html",
+      "raw_sha256": "4b0deb5d8a946ab464bf17afb8a90cf07045cd21f83f58e65d91d9aa7b733cf5"
+    },
+    {
+      "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+      "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+      "raw_filename": "6a86f445000000002202ca93.html",
+      "raw_sha256": "6f0859bafffd2397d8c257fd75781e313863b14c7ad21fe8800347eeb0bd155e"
+    },
+    {
+      "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+      "url": "https://www.xiaohongshu.com/explore/69ef3f53000000002301fa69",
+      "raw_filename": "69ef3f53000000002301fa69.html",
+      "raw_sha256": "4683566b61a821cacb4b61f5bd736c5a92cde191b35380924adedaeb5c022a8f"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+      "url": "https://www.xiaohongshu.com/explore/6ae2a985000000002c023fae",
+      "raw_filename": "6ae2a985000000002c023fae.html",
+      "raw_sha256": "72b5cf7bf08b483b6483a1321f914b879fff0345be368eb3502e9ac3fc5b5998"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+      "url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+      "raw_filename": "6ac66f3a000000001303e8c9.html",
+      "raw_sha256": "3721f8c2cdb749f30e27420e8e5822a2ae3709f51f77ebc236eb194be16fd312"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+      "url": "https://www.xiaohongshu.com/explore/6aba52470000000002012e4a",
+      "raw_filename": "6aba52470000000002012e4a.html",
+      "raw_sha256": "ee6ca0d318d94244518fcf88566b2a7c42c039d539e2e7443569352fa9efd84f"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+      "url": "https://www.xiaohongshu.com/explore/6ad59171000000002702312a",
+      "raw_filename": "6ad59171000000002702312a.html",
+      "raw_sha256": "ffcbba504ff7dc218a7837b4c3998eef5a90274f94a7aad2b226dcb53f8dbe61"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+      "url": "https://www.xiaohongshu.com/explore/6a6040e7000000001002af2d",
+      "raw_filename": "6a6040e7000000001002af2d.html",
+      "raw_sha256": "d415690434b45d2a110b7cbef4145a1dc3d28d57ad40c876bb94526d31fffd81"
+    }
+  ]
+}

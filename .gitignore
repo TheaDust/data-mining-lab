@@ -1,0 +1,11 @@
+AGENTS.md
+
+# Python 运行缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 本地采集原件、会话诊断和历次试验，不随正式数据发布
+/task1/crawler/results/
+*.log
+*.local.json
