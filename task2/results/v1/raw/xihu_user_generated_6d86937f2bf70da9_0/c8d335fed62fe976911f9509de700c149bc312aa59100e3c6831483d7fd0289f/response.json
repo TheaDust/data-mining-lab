@@ -1,0 +1,28 @@
+{
+  "id": "96d29e7a-e0f5-449f-8db1-ade12741ff49",
+  "object": "chat.completion",
+  "created": 1793774512,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"龙翔桥\",\"type\":\"POI\"},{\"text\":\"断桥残雪\",\"type\":\"POI\"},{\"text\":\"白堤\",\"type\":\"POI\"},{\"text\":\"平湖秋月\",\"type\":\"POI\"},{\"text\":\"孤山路\",\"type\":\"POI\"},{\"text\":\"西泠桥\",\"type\":\"POI\"},{\"text\":\"曲院风荷\",\"type\":\"POI\"},{\"text\":\"苏堤\",\"type\":\"POI\"},{\"text\":\"花港观鱼\",\"type\":\"POI\"},{\"text\":\"太子湾公园\",\"type\":\"POI\"},{\"text\":\"雷峰塔\",\"type\":\"POI\"},{\"text\":\"长桥公园\",\"type\":\"POI\"},{\"text\":\"柳浪闻莺\",\"type\":\"POI\"},{\"text\":\"龙翔桥地铁站C口\",\"type\":\"POI\"},{\"text\":\"湖滨\",\"type\":\"POI\"},{\"text\":\"凤起路\",\"type\":\"POI\"},{\"text\":\"浙江省博物馆\",\"type\":\"POI\"},{\"text\":\"西泠印社\",\"type\":\"POI\"},{\"text\":\"1314公交\",\"type\":\"TRANSPORT\"},{\"text\":\"北山街\",\"type\":\"POI\"},{\"text\":\"苏堤北口\",\"type\":\"POI\"},{\"text\":\"苏堤南口\",\"type\":\"POI\"},{\"text\":\"红鱼池\",\"type\":\"POI\"},{\"text\":\"牡丹亭\",\"type\":\"POI\"},{\"text\":\"太子湾东门\",\"type\":\"POI\"},{\"text\":\"南山路\",\"type\":\"POI\"},{\"text\":\"中山公园码头\",\"type\":\"POI\"},{\"text\":\"三潭印月\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\"},{\"text\":\"观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"徒步\",\"type\":\"TRANSPORT\"},{\"text\":\"坐船\",\"type\":\"TRANSPORT\"},{\"text\":\"手划船\",\"type\":\"TRANSPORT\"},{\"text\":\"摇橹船\",\"type\":\"TRANSPORT\"},{\"text\":\"环湖观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"15‑20分钟\",\"type\":\"TIME\"},{\"text\":\"15分钟\",\"type\":\"TIME\"},{\"text\":\"40‑50分钟\",\"type\":\"TIME\"},{\"text\":\"10‑15分钟\",\"type\":\"TIME\"},{\"text\":\"10分钟\",\"type\":\"TIME\"},{\"text\":\"3‑4月\",\"type\":\"TIME\"},{\"text\":\"10‑12公里\",\"type\":\"TIME\"},{\"text\":\"2天\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 923,
+    "completion_tokens": 526,
+    "total_tokens": 1449,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 795
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

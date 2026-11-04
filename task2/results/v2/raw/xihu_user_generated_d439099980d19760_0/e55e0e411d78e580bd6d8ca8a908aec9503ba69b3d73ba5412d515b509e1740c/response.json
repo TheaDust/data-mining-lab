@@ -1,0 +1,28 @@
+{
+  "id": "51d1a1c7-3732-4f74-8833-90fc28025b9e",
+  "object": "chat.completion",
+  "created": 1793774627,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"柳浪闻莺\",\"type\":\"POI\"},{\"text\":\"观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"雷峰塔\",\"type\":\"POI\"},{\"text\":\"净慈寺\",\"type\":\"POI\"},{\"text\":\"坐船\",\"type\":\"TRANSPORT\"},{\"text\":\"三潭印月\",\"type\":\"POI\"},{\"text\":\"花港观鱼\",\"type\":\"POI\"},{\"text\":\"曲院风荷\",\"type\":\"POI\"},{\"text\":\"断桥残雪\",\"type\":\"POI\"},{\"text\":\"西湖环湖观光小车\",\"type\":\"TRANSPORT\"},{\"text\":\"南屏晚钟\",\"type\":\"POI\"},{\"text\":\"游船联票\",\"type\":\"TRANSPORT\"},{\"text\":\"花港观鱼码头\",\"type\":\"POI\"},{\"text\":\"白堤\",\"type\":\"POI\"},{\"text\":\"断桥\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1481,
+    "completion_tokens": 196,
+    "total_tokens": 1677,
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 969
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

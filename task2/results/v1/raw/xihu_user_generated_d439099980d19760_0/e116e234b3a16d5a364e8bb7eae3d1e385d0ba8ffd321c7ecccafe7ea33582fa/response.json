@@ -1,0 +1,28 @@
+{
+  "id": "d0478643-70d8-4228-93bd-90f324625016",
+  "object": "chat.completion",
+  "created": 1793774511,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"柳浪闻莺\",\"type\":\"POI\"},{\"text\":\"观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"雷峰塔\",\"type\":\"POI\"},{\"text\":\"净慈寺\",\"type\":\"POI\"},{\"text\":\"坐船\",\"type\":\"TRANSPORT\"},{\"text\":\"三潭印月\",\"type\":\"POI\"},{\"text\":\"花港观鱼\",\"type\":\"POI\"},{\"text\":\"曲院风荷\",\"type\":\"POI\"},{\"text\":\"断桥残雪\",\"type\":\"POI\"},{\"text\":\"西湖环湖观光小车\",\"type\":\"TRANSPORT\"},{\"text\":\"游船联票\",\"type\":\"TRANSPORT\"},{\"text\":\"花港观鱼航线\",\"type\":\"TRANSPORT\"},{\"text\":\"花港观鱼码头\",\"type\":\"POI\"},{\"text\":\"白堤\",\"type\":\"POI\"},{\"text\":\"断桥\",\"type\":\"POI\"},{\"text\":\"清晨\",\"type\":\"TIME\"},{\"text\":\"傍晚\",\"type\":\"TIME\"},{\"text\":\"几分钟\",\"type\":\"TIME\"},{\"text\":\"夏天\",\"type\":\"TIME\"},{\"text\":\"秋冬\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1067,
+    "completion_tokens": 243,
+    "total_tokens": 1310,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 939
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

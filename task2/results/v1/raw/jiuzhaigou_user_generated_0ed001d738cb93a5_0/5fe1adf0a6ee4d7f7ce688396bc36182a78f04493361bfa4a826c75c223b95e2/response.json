@@ -1,0 +1,28 @@
+{
+  "id": "56ad89db-3690-4ce7-bb96-b0889449884f",
+  "object": "chat.completion",
+  "created": 1793774513,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"早上8:00\",\"type\":\"TIME\"},{\"text\":\"景区\",\"type\":\"POI\"},{\"text\":\"下午16:00\",\"type\":\"TIME\"},{\"text\":\"观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"左线\",\"type\":\"POI\"},{\"text\":\"右线\",\"type\":\"POI\"},{\"text\":\"树正沟\",\"type\":\"POI\"},{\"text\":\"观光车\",\"type\":\"TRANSPORT\",\"occurrence\":2},{\"text\":\"长海\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\"},{\"text\":\"五彩池\",\"type\":\"POI\"},{\"text\":\"诺日朗中转站\",\"type\":\"POI\"},{\"text\":\"诺日朗中转\",\"type\":\"POI\"},{\"text\":\"原始森林\",\"type\":\"POI\"},{\"text\":\"原始森林站\",\"type\":\"POI\"},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"九寨沟\",\"type\":\"POI\"},{\"text\":\"3公里的森林栈道\",\"type\":\"POI\"},{\"text\":\"栈道\",\"type\":\"POI\"},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"芳草海\",\"type\":\"POI\"},{\"text\":\"天鹅海\",\"type\":\"POI\"},{\"text\":\"五花海\",\"type\":\"POI\"},{\"text\":\"箭竹海\",\"type\":\"POI\"},{\"text\":\"五花海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"天鹅湖\",\"type\":\"POI\"},{\"text\":\"箭竹海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"五花海\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"珍珠滩\",\"type\":\"POI\"},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\"},{\"text\":\"镜海\",\"type\":\"POI\"},{\"text\":\"徒步\",\"type\":\"TRANSPORT\"},{\"text\":\"五花海\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"镜海停车场\",\"type\":\"POI\"},{\"text\":\"镜海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"观光车\",\"type\":\"TRANSPORT\",\"occurrence\":3},{\"text\":\"诺日朗\",\"type\":\"POI\"},{\"text\":\"诺日朗\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"树正寨\",\"type\":\"POI\"},{\"text\":\"犀牛海\",\"type\":\"POI\"},{\"text\":\"老虎海\",\"type\":\"POI\"},{\"text\":\"群海观景平台\",\"type\":\"POI\"},{\"text\":\"树正群海\",\"type\":\"POI\"},{\"text\":\"火花海\",\"type\":\"POI\"},{\"text\":\"双龙海\",\"type\":\"POI\"},{\"text\":\"芦苇海\",\"type\":\"POI\"},{\"text\":\"出口\",\"type\":\"POI\"},{\"text\":\"芦苇海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"右线\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"左线\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"右线\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"五花海\",\"type\":\"POI\",\"occurrence\":5},{\"text\":\"中午\",\"type\":\"TIME\"},{\"text\":\"下午\",\"type\":\"TIME\"},{\"text\":\"早上\",\"type\":\"TIME\"},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"10:00\",\"type\":\"TIME\"},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":5},{\"text\":\"徒步\",\"type\":\"TRANSPORT\",\"occurrence\":2},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"下午16:00\",\"type\":\"TIME\",\"occurrence\":2},{\"text\":\"高铁\",\"type\":\"TRANSPORT\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 892,
+    "completion_tokens": 807,
+    "total_tokens": 1699,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 764
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

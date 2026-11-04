@@ -1,0 +1,28 @@
+{
+  "id": "9e259c25-6433-4d92-ba51-3fb58911c551",
+  "object": "chat.completion",
+  "created": 1793774628,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"杭州\",\"type\":\"POI\"},{\"text\":\"断桥残雪\",\"type\":\"POI\"},{\"text\":\"白堤\",\"type\":\"POI\"},{\"text\":\"西湖\",\"type\":\"POI\"},{\"text\":\"一日游\",\"type\":\"TIME\"},{\"text\":\"自行车\",\"type\":\"TRANSPORT\"},{\"text\":\"柳浪闻莺\",\"type\":\"POI\"},{\"text\":\"雷峰塔\",\"type\":\"POI\"},{\"text\":\"太子湾公园\",\"type\":\"POI\"},{\"text\":\"双桥映月\",\"type\":\"POI\"},{\"text\":\"乌龟潭\",\"type\":\"POI\"},{\"text\":\"茅家埠\",\"type\":\"POI\"},{\"text\":\"上茅家埠茶园\",\"type\":\"POI\"},{\"text\":\"全程大约8km\",\"type\":\"TIME\"},{\"text\":\"早上\",\"type\":\"TIME\"},{\"text\":\"花港公园(南2门)\",\"type\":\"POI\"},{\"text\":\"木栈道\",\"type\":\"POI\"},{\"text\":\"坐摇橹船\",\"type\":\"TRANSPORT\"},{\"text\":\"骑行\",\"type\":\"TRANSPORT\"},{\"text\":\"上香古道\",\"type\":\"POI\"},{\"text\":\"五百多米\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1170,
+    "completion_tokens": 255,
+    "total_tokens": 1425,
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 658
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

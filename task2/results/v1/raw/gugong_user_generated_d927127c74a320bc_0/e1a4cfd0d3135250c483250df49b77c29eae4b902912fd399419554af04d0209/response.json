@@ -1,0 +1,28 @@
+{
+  "id": "73f7706d-1c16-40e0-9154-c08bd3a67aec",
+  "object": "chat.completion",
+  "created": 1793774509,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"午门\",\"type\":\"POI\"},{\"text\":\"神武门\",\"type\":\"POI\"},{\"text\":\"2.5～3小时\",\"type\":\"TIME\"},{\"text\":\"太和殿\",\"type\":\"POI\"},{\"text\":\"中和殿\",\"type\":\"POI\"},{\"text\":\"保和殿\",\"type\":\"POI\"},{\"text\":\"乾清门\",\"type\":\"POI\"},{\"text\":\"乾清宫\",\"type\":\"POI\"},{\"text\":\"交泰殿\",\"type\":\"POI\"},{\"text\":\"坤宁宫\",\"type\":\"POI\"},{\"text\":\"御花园\",\"type\":\"POI\"},{\"text\":\"珍宝馆\",\"type\":\"POI\"},{\"text\":\"钟表馆\",\"type\":\"POI\"},{\"text\":\"4～5小时\",\"type\":\"TIME\"},{\"text\":\"东六宫\",\"type\":\"POI\"},{\"text\":\"钟粹宫\",\"type\":\"POI\"},{\"text\":\"景仁宫\",\"type\":\"POI\"},{\"text\":\"延禧宫\",\"type\":\"POI\"},{\"text\":\"西六宫\",\"type\":\"POI\"},{\"text\":\"长春宫\",\"type\":\"POI\"},{\"text\":\"储秀宫\",\"type\":\"POI\"},{\"text\":\"翊坤宫\",\"type\":\"POI\"},{\"text\":\"文华殿\",\"type\":\"POI\"},{\"text\":\"书画馆\",\"type\":\"POI\"},{\"text\":\"走\",\"type\":\"TRANSPORT\"},{\"text\":\"景山公园\",\"type\":\"POI\"},{\"text\":\"故宫\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 731,
+    "completion_tokens": 322,
+    "total_tokens": 1053,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 603
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

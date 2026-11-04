@@ -1,0 +1,28 @@
+{
+  "id": "abed6ac4-9785-4f8f-a4a4-c01d6f38af13",
+  "object": "chat.completion",
+  "created": 1793774625,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"第三天\",\"type\":\"TIME\"},{\"text\":\"九寨天堂口\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 835,
+    "completion_tokens": 27,
+    "total_tokens": 862,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 707
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

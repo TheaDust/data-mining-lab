@@ -1,0 +1,28 @@
+{
+  "id": "aadf50b4-b415-4404-a351-787e393011c4",
+  "object": "chat.completion",
+  "created": 1793774625,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"杭州\",\"type\":\"POI\"},{\"text\":\"西湖\",\"type\":\"POI\"},{\"text\":\"五一假期\",\"type\":\"TIME\"},{\"text\":\"西湖十景\",\"type\":\"POI\"},{\"text\":\"南宋\",\"type\":\"TIME\"},{\"text\":\"约3小时\",\"type\":\"TIME\"},{\"text\":\"柳浪闻莺\",\"type\":\"POI\"},{\"text\":\"雷峰夕照\",\"type\":\"POI\"},{\"text\":\"南屏晚钟\",\"type\":\"POI\"},{\"text\":\"花港观鱼\",\"type\":\"POI\"},{\"text\":\"三潭印月\",\"type\":\"POI\"},{\"text\":\"双峰插云\",\"type\":\"POI\"},{\"text\":\"苏堤春晓\",\"type\":\"POI\"},{\"text\":\"曲院风荷\",\"type\":\"POI\"},{\"text\":\"平湖秋月\",\"type\":\"POI\"},{\"text\":\"断桥残雪\",\"type\":\"POI\"},{\"text\":\"孤山\",\"type\":\"POI\"},{\"text\":\"西泠印社\",\"type\":\"POI\"},{\"text\":\"文澜阁\",\"type\":\"POI\"},{\"text\":\"清行宫遗址\",\"type\":\"POI\"},{\"text\":\"舞鹤赋刻石\",\"type\":\"POI\"},{\"text\":\"林逋墓\",\"type\":\"POI\"},{\"text\":\"1925年7月3日\",\"type\":\"TIME\"},{\"text\":\"为期一个月\",\"type\":\"TIME\"},{\"text\":\"吴山\",\"type\":\"POI\"},{\"text\":\"东岳庙\",\"type\":\"POI\"},{\"text\":\"宋樟\",\"type\":\"POI\"},{\"text\":\"太岁庙\",\"type\":\"POI\"},{\"text\":\"有美堂遗址\",\"type\":\"POI\"},{\"text\":\"药王庙\",\"type\":\"POI\"},{\"text\":\"阮公祠\",\"type\":\"POI\"},{\"text\":\"青衣洞\",\"type\":\"POI\"},{\"text\":\"城隍庙遗址\",\"type\":\"POI\"},{\"text\":\"城隍阁\",\"type\":\"POI\"},{\"text\":\"周新祠\",\"type\":\"POI\"},{\"text\":\"1138年\",\"type\":\"TIME\"},{\"text\":\"约1.5小时\",\"type\":\"TIME\"},{\"text\":\"凤山水城门\",\"type\":\"POI\"},{\"text\":\"六部桥\",\"type\":\"POI\"},{\"text\":\"南宋遗址陈列馆\",\"type\":\"POI\"},{\"text\":\"南宋御街遗址\",\"type\":\"POI\"},{\"text\":\"太庙遗址公园\",\"type\":\"POI\"},{\"text\":\"鼓楼\",\"type\":\"POI\"},{\"text\":\"大井巷\",\"type\":\"POI\"},{\"text\":\"钱塘第一井\",\"type\":\"POI\"},{\"text\":\"南宋德寿宫考古遗址\",\"type\":\"POI\"},{\"text\":\"公元10世纪\",\"type\":\"TIME\"},{\"text\":\"70余年\",\"type\":\"TIME\"},{\"text\":\"凤凰山\",\"type\":\"POI\"},{\"text\":\"玉皇山\",\"type\":\"POI\"},{\"text\":\"约3-4小时\",\"type\":\"TIME\"},{\"text\":\"漫步\",\"type\":\"TRANSPORT\"},{\"text\":\"梵天寺经幢\",\"type\":\"POI\"},{\"text\":\"圣果寺遗址\",\"type\":\"POI\"},{\"text\":\"月岩\",\"type\":\"POI\"},{\"text\":\"排衙石诗刻\",\"type\":\"POI\"},{\"text\":\"吴越郊坛遗址\",\"type\":\"POI\"},{\"text\":\"天龙寺造像\",\"type\":\"POI\"},{\"text\":\"八卦田\",\"type\":\"POI\"},{\"text\":\"北山街\",\"type\":\"POI\"},{\"text\":\"约2小时\",\"type\":\"TIME\"},{\"text\":\"昭庆寺旧址\",\"type\":\"POI\"},{\"text\":\"少年宫\",\"type\":\"POI\"},{\"text\":\"蒋经国旧居\",\"type\":\"POI\"},{\"text\":\"大佛寺旧址\",\"type\":\"POI\"},{\"text\":\"宝石山造像\",\"type\":\"POI\"},{\"text\":\"静逸别墅\",\"type\":\"POI\"},{\"text\":\"抱青别墅\",\"type\":\"POI\"},{\"text\":\"西湖博览会博物馆\",\"type\":\"POI\"},{\"text\":\"玛瑙寺旧址\",\"type\":\"POI\"},{\"text\":\"连横纪念馆\",\"type\":\"POI\"},{\"text\":\"新新饭店\",\"type\":\"POI\"},{\"text\":\"秋水山庄\",\"type\":\"POI\"},{\"text\":\"五四宪法历史资料陈列馆\",\"type\":\"POI\"},{\"text\":\"北山街馆区\",\"type\":\"POI\"},{\"text\":\"白塔\",\"type\":\"POI\"},{\"text\":\"杭州铁路纪念馆\",\"type\":\"POI\"},{\"text\":\"杭州知青纪念馆\",\"type\":\"POI\"},{\"text\":\"杭州解放纪念碑\",\"type\":\"POI\"},{\"text\":\"茅以升先生像\",\"type\":\"POI\"},{\"text\":\"钱塘江大桥纪念馆\",\"type\":\"POI\"},{\"text\":\"杭州革命烈士纪念馆\",\"type\":\"POI\"},{\"text\":\"蔡永祥烈士像\",\"type\":\"POI\"},{\"text\":\"六和塔\",\"type\":\"POI\"},{\"text\":\"乘船\",\"type\":\"TRANSPORT\"},{\"text\":\"茅家埠\",\"type\":\"POI\"},{\"text\":\"法镜寺\",\"type\":\"POI\"},{\"text\":\"下天竺\",\"type\":\"POI\"},{\"text\":\"法净寺\",\"type\":\"POI\"},{\"text\":\"中天竺\",\"type\":\"POI\"},{\"text\":\"法喜寺\",\"type\":\"POI\"},{\"text\":\"上天竺\",\"type\":\"POI\"},{\"text\":\"中印禅寺\",\"type\":\"POI\"},{\"text\":\"杭州佛学院\",\"type\":\"POI\"},{\"text\":\"永福寺\",\"type\":\"POI\"},{\"text\":\"灵隐寺\",\"type\":\"POI\"},{\"text\":\"飞来峰造像\",\"type\":\"POI\"},{\"text\":\"清波街道\",\"type\":\"POI\"},{\"text\":\"吴山风景区\",\"type\":\"POI\"},{\"text\":\"清河坊历史街区\",\"type\":\"POI\"},{\"text\":\"勾山樵舍\",\"type\":\"POI\"},{\"text\":\"林徽因故居\",\"type\":\"POI\"},{\"text\":\"杨皇后宅院园林遗址\",\"type\":\"POI\"},{\"text\":\"中大吴庄\",\"type\":\"POI\"},{\"text\":\"修女院\",\"type\":\"POI\"},{\"text\":\"郭璞井\",\"type\":\"POI\"},{\"text\":\"浙江体育会摩崖题记\",\"type\":\"POI\"},{\"text\":\"吴山第一峰\",\"type\":\"POI\"},{\"text\":\"城隍庙\",\"type\":\"POI\"},{\"text\":\"有美堂\",\"type\":\"POI\"},{\"text\":\"伍公庙\",\"type\":\"POI\"},{\"text\":\"城隍山瞭望塔\",\"type\":\"POI\"},{\"text\":\"叶种德堂\",\"type\":\"POI\"},{\"text\":\"清河坊四拐角\",\"type\":\"POI\"},{\"text\":\"河坊街\",\"type\":\"POI\"},{\"text\":\"胡庆余堂\",\"type\":\"POI\"},{\"text\":\"河坊街西门\",\"type\":\"POI\"},{\"text\":\"龙井\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2413,
+    "completion_tokens": 1470,
+    "total_tokens": 3883,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 2285
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "a720e31b-8171-4cd8-b1ff-bffa87ab4cea",
+  "object": "chat.completion",
+  "created": 1793774625,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"九寨沟景区\",\"type\":\"POI\"},{\"text\":\"则查洼沟\",\"type\":\"POI\"},{\"text\":\"日则沟\",\"type\":\"POI\"},{\"text\":\"树正沟\",\"type\":\"POI\"},{\"text\":\"原始森林\",\"type\":\"POI\"},{\"text\":\"芳草海\",\"type\":\"POI\"},{\"text\":\"天鹅海\",\"type\":\"POI\"},{\"text\":\"箭竹海\",\"type\":\"POI\"},{\"text\":\"箭竹海瀑布\",\"type\":\"POI\"},{\"text\":\"熊猫海\",\"type\":\"POI\"},{\"text\":\"熊猫海瀑布\",\"type\":\"POI\"},{\"text\":\"五花海\",\"type\":\"POI\"},{\"text\":\"孔雀河道\",\"type\":\"POI\"},{\"text\":\"大小金铃海\",\"type\":\"POI\"},{\"text\":\"珍珠滩\",\"type\":\"POI\"},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\"},{\"text\":\"镜海\",\"type\":\"POI\"},{\"text\":\"诺日朗瀑布\",\"type\":\"POI\"},{\"text\":\"长海\",\"type\":\"POI\"},{\"text\":\"五彩池\",\"type\":\"POI\"},{\"text\":\"上季节海\",\"type\":\"POI\"},{\"text\":\"下季节海\",\"type\":\"POI\"},{\"text\":\"犀牛海\",\"type\":\"POI\"},{\"text\":\"老虎海\",\"type\":\"POI\"},{\"text\":\"树正瀑布\",\"type\":\"POI\"},{\"text\":\"树正磨房\",\"type\":\"POI\"},{\"text\":\"树正寨\",\"type\":\"POI\"},{\"text\":\"树正群海\",\"type\":\"POI\"},{\"text\":\"卧龙海\",\"type\":\"POI\"},{\"text\":\"花海\",\"type\":\"POI\"},{\"text\":\"双龙海\",\"type\":\"POI\"},{\"text\":\"芦苇海\",\"type\":\"POI\"},{\"text\":\"盆景滩\",\"type\":\"POI\"},{\"text\":\"沟口\",\"type\":\"POI\"},{\"text\":\"诺日朗群海\",\"type\":\"POI\"},{\"text\":\"诺日朗中心站\",\"type\":\"POI\"},{\"text\":\"游客中心\",\"type\":\"POI\"},{\"text\":\"九寨天堂口\",\"type\":\"POI\"},{\"text\":\"九寨沟县城\",\"type\":\"POI\"},{\"text\":\"九寨沟神仙池景区\",\"type\":\"POI\"},{\"text\":\"莲台映彩\",\"type\":\"POI\"},{\"text\":\"青龙海\",\"type\":\"POI\"},{\"text\":\"仙女池\",\"type\":\"POI\"},{\"text\":\"金流泛波\",\"type\":\"POI\"},{\"text\":\"莲花台\",\"type\":\"POI\"},{\"text\":\"金银滩\",\"type\":\"POI\"},{\"text\":\"瑶池\",\"type\":\"POI\"},{\"text\":\"水帘洞\",\"type\":\"POI\"},{\"text\":\"竹林幽径\",\"type\":\"POI\"},{\"text\":\"翠绿海\",\"type\":\"POI\"},{\"text\":\"万层滩\",\"type\":\"POI\"},{\"text\":\"涌莲泉\",\"type\":\"POI\"},{\"text\":\"漳扎镇\",\"type\":\"POI\"},{\"text\":\"观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\"},{\"text\":\"乘车\",\"type\":\"TRANSPORT\"},{\"text\":\"驱车\",\"type\":\"TRANSPORT\"},{\"text\":\"双层敞篷式观光大巴\",\"type\":\"TRANSPORT\"},{\"text\":\"7:00-8:10\",\"type\":\"TIME\"},{\"text\":\"一个小时车程\",\"type\":\"TIME\"},{\"text\":\"8:10-9:00\",\"type\":\"TIME\"},{\"text\":\"步行30分钟\",\"type\":\"TIME\"},{\"text\":\"20分钟\",\"type\":\"TIME\"},{\"text\":\"9:00-9:15\",\"type\":\"TIME\"},{\"text\":\"约5分钟车程\",\"type\":\"TIME\"},{\"text\":\"10分钟\",\"type\":\"TIME\"},{\"text\":\"9:15-9:45\",\"type\":\"TIME\"},{\"text\":\"约15分钟车程\",\"type\":\"TIME\"},{\"text\":\"15分钟\",\"type\":\"TIME\"},{\"text\":\"9:45-10:10\",\"type\":\"TIME\"},{\"text\":\"约10分钟车程\",\"type\":\"TIME\"},{\"text\":\"10:10-10:40\",\"type\":\"TIME\"},{\"text\":\"10:40-11:10\",\"type\":\"TIME\"},{\"text\":\"11:10-11:25\",\"type\":\"TIME\"},{\"text\":\"11:30-13:30\",\"type\":\"TIME\"},{\"text\":\"2个小时\",\"type\":\"TIME\"},{\"text\":\"13:30-14:20\",\"type\":\"TIME\"},{\"text\":\"约30分钟车程\",\"type\":\"TIME\"},{\"text\":\"14:20-14:50\",\"type\":\"TIME\"},{\"text\":\"步行15分钟\",\"type\":\"TIME\"},{\"text\":\"14:50-15:40\",\"type\":\"TIME\"},{\"text\":\"15:40-17:00\",\"type\":\"TIME\"},{\"text\":\"约1个多小时\",\"type\":\"TIME\"},{\"text\":\"17:00-17:20\",\"type\":\"TIME\"},{\"text\":\"17:00-17：35\",\"type\":\"TIME\"},{\"text\":\"第一天\",\"type\":\"TIME\"},{\"text\":\"第二天\",\"type\":\"TIME\"},{\"text\":\"晚上\",\"type\":\"TIME\"},{\"text\":\"第一日\",\"type\":\"TIME\"},{\"text\":\"Day 1\",\"type\":\"TIME\"},{\"text\":\"Day 2\",\"type\":\"TIME\"},{\"text\":\"Day 3\",\"type\":\"TIME\"},{\"text\":\"约1个半小时\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2363,
+    "completion_tokens": 1145,
+    "total_tokens": 3508,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 2235
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

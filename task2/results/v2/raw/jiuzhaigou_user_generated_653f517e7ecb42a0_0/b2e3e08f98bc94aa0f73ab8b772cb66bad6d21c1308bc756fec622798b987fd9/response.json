@@ -1,0 +1,28 @@
+{
+  "id": "e6018330-f189-4ba6-b702-e11704c2ef2a",
+  "object": "chat.completion",
+  "created": 1793774629,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"九寨沟\",\"type\":\"POI\"},{\"text\":\"8点45\",\"type\":\"TIME\"},{\"text\":\"18:10\",\"type\":\"TIME\"},{\"text\":\"观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"左线\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"长海\",\"type\":\"POI\"},{\"text\":\"五彩池\",\"type\":\"POI\"},{\"text\":\"诺日朗中转\",\"type\":\"POI\"},{\"text\":\"右线\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"芳草海\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"诺日朗\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"约1200米\",\"type\":\"TIME\"},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"芳草海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"箭竹海\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"九寨沟\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"箭竹海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"坐观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"芳草海\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":5},{\"text\":\"箭竹海\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"箭竹海\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"熊猫海\",\"type\":\"POI\"},{\"text\":\"五花海\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"珍珠滩\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"镜海\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"五花海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"珍珠滩\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"镜海停车场\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"徒步\",\"type\":\"TRANSPORT\"},{\"text\":\"镜海停车场\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"镜海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"坐观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"诺日朗\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"树正沟\",\"type\":\"POI\",\"occurrence\":1},{\"text\":\"诺日朗瀑布\",\"type\":\"POI\"},{\"text\":\"犀牛海\",\"type\":\"POI\"},{\"text\":\"树正区域\",\"type\":\"POI\"},{\"text\":\"火花海\",\"type\":\"POI\"},{\"text\":\"双龙海\",\"type\":\"POI\"},{\"text\":\"芦苇海\",\"type\":\"POI\"},{\"text\":\"18:10\",\"type\":\"TIME\"},{\"text\":\"全天\",\"type\":\"TIME\"},{\"text\":\"左线\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":5},{\"text\":\"右线\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"树正沟\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":6},{\"text\":\"箭竹海\",\"type\":\"POI\",\"occurrence\":5},{\"text\":\"珍珠滩\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"徒步\",\"type\":\"TRANSPORT\"},{\"text\":\"坐观光车\",\"type\":\"TRANSPORT\"},{\"text\":\"九寨沟\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"一日三沟\",\"type\":\"TIME\"},{\"text\":\"18:10\",\"type\":\"TIME\"},{\"text\":\"九寨沟\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"九寨沟\",\"type\":\"POI\",\"occurrence\":5},{\"text\":\"九寨沟\",\"type\":\"POI\",\"occurrence\":6},{\"text\":\"九寨沟\",\"type\":\"POI\",\"occurrence\":7},{\"text\":\"九寨沟\",\"type\":\"POI\",\"occurrence\":8}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1413,
+    "completion_tokens": 1013,
+    "total_tokens": 2426,
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 901
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

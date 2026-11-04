@@ -1,0 +1,28 @@
+{
+  "id": "b9d0c7d1-de0c-4dd7-ab0f-5674c77f3745",
+  "object": "chat.completion",
+  "created": 1793774513,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"10.17\",\"type\":\"TIME\"},{\"text\":\"6：14-7：53\",\"type\":\"TIME\"},{\"text\":\"成都东\",\"type\":\"POI\"},{\"text\":\"黄龙九寨站\",\"type\":\"POI\"},{\"text\":\"2小时\",\"type\":\"TIME\"},{\"text\":\"10：00\",\"type\":\"TIME\"},{\"text\":\"景区门口\",\"type\":\"POI\"},{\"text\":\"10：15\",\"type\":\"TIME\"},{\"text\":\"景区门口\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"摆渡车\",\"type\":\"TRANSPORT\"},{\"text\":\"10：30\",\"type\":\"TIME\"},{\"text\":\"树正寨\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\"},{\"text\":\"树正群海\",\"type\":\"POI\"},{\"text\":\"树正瀑布\",\"type\":\"POI\"},{\"text\":\"老虎海\",\"type\":\"POI\"},{\"text\":\"犀牛海\",\"type\":\"POI\"},{\"text\":\"11：10\",\"type\":\"TIME\"},{\"text\":\"犀牛海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"11：50\",\"type\":\"TIME\"},{\"text\":\"原始森林\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\",\"occurrence\":2},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"芳草海\",\"type\":\"POI\"},{\"text\":\"天鹅海\",\"type\":\"POI\"},{\"text\":\"12：45\",\"type\":\"TIME\"},{\"text\":\"天鹅海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"12：55\",\"type\":\"TIME\"},{\"text\":\"箭竹海\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\",\"occurrence\":3},{\"text\":\"箭竹海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"熊猫海\",\"type\":\"POI\"},{\"text\":\"五花海\",\"type\":\"POI\"},{\"text\":\"珍珠滩\",\"type\":\"POI\"},{\"text\":\"镜海\",\"type\":\"POI\"},{\"text\":\"15：00\",\"type\":\"TIME\"},{\"text\":\"镜海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"15：10\",\"type\":\"TIME\"},{\"text\":\"诺日朗中心\",\"type\":\"POI\"},{\"text\":\"15：35\",\"type\":\"TIME\"},{\"text\":\"长海\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\",\"occurrence\":4},{\"text\":\"长海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"五彩池\",\"type\":\"POI\"},{\"text\":\"16：05\",\"type\":\"TIME\"},{\"text\":\"五彩池\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"诺日朗\",\"type\":\"POI\"},{\"text\":\"10分钟\",\"type\":\"TIME\"},{\"text\":\"16：30\",\"type\":\"TIME\"},{\"text\":\"诺日朗\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"步行\",\"type\":\"TRANSPORT\",\"occurrence\":5},{\"text\":\"诺日朗瀑布\",\"type\":\"POI\"},{\"text\":\"16：50\",\"type\":\"TIME\"},{\"text\":\"诺日朗\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"17：00\",\"type\":\"TIME\"},{\"text\":\"火花海\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\",\"occurrence\":6},{\"text\":\"火花海\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"双龙海\",\"type\":\"POI\"},{\"text\":\"芦苇海\",\"type\":\"POI\"},{\"text\":\"盆景滩\",\"type\":\"POI\"},{\"text\":\"17：35\",\"type\":\"TIME\"},{\"text\":\"盆景滩\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"17：45\",\"type\":\"TIME\"},{\"text\":\"晚上7点前\",\"type\":\"TIME\"},{\"text\":\"华美胜地\",\"type\":\"POI\"},{\"text\":\"九寨沟\",\"type\":\"POI\"},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"原始森林\",\"type\":\"POI\",\"occurrence\":4},{\"text\":\"芳草海\",\"type\":\"POI\",\"occurrence\":2}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 894,
+    "completion_tokens": 883,
+    "total_tokens": 1777,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 766
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

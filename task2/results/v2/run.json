@@ -1,0 +1,528 @@
+{
+  "configuration": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 2400,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_sha256": "7b2fd01d1f352acf1cf772197cdcc3efb4842966fa0397bb0e4161c7494e12ba",
+  "input_sha256": "a00d04703a53c515a39a39a74582f1e6d00f7098474460eec7ecb93a722c3a65",
+  "chunks": [
+    {
+      "doc_id": "gugong_official_df6c311301c59157",
+      "scenic_spot": "北京故宫",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "北京旅游网",
+      "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+      "chunk_id": "gugong_official_df6c311301c59157_0",
+      "chunk_start": 0,
+      "chunk_end": 2398,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 2423,
+        "completion_tokens": 405,
+        "total_tokens": 2828,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 2295
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "gugong_official_df6c311301c59157",
+      "scenic_spot": "北京故宫",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "北京旅游网",
+      "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+      "chunk_id": "gugong_official_df6c311301c59157_2398",
+      "chunk_start": 2398,
+      "chunk_end": 4249,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1989,
+        "completion_tokens": 591,
+        "total_tokens": 2580,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 1861
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "xihu_official_7a3841720cf3aaa6",
+      "scenic_spot": "杭州西湖",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+      "chunk_id": "xihu_official_7a3841720cf3aaa6_0",
+      "chunk_start": 0,
+      "chunk_end": 2389,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 2413,
+        "completion_tokens": 1470,
+        "total_tokens": 3883,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 2285
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "xihu_official_7a3841720cf3aaa6",
+      "scenic_spot": "杭州西湖",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+      "chunk_id": "xihu_official_7a3841720cf3aaa6_2389",
+      "chunk_start": 2389,
+      "chunk_end": 2616,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 931,
+        "completion_tokens": 112,
+        "total_tokens": 1043,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 803
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+      "scenic_spot": "九寨沟",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "九寨沟官网",
+      "url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+      "chunk_id": "jiuzhaigou_official_88ef5cc31789dc71_0",
+      "chunk_start": 0,
+      "chunk_end": 2276,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 2363,
+        "completion_tokens": 1145,
+        "total_tokens": 3508,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 2235
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+      "scenic_spot": "九寨沟",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "九寨沟官网",
+      "url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+      "chunk_id": "jiuzhaigou_official_88ef5cc31789dc71_2276",
+      "chunk_start": 2276,
+      "chunk_end": 2404,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 835,
+        "completion_tokens": 27,
+        "total_tokens": 862,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 707
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+      "chunk_id": "gugong_user_generated_c57f5e2b6ca3c3a0_0",
+      "chunk_start": 0,
+      "chunk_end": 994,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1567,
+        "completion_tokens": 532,
+        "total_tokens": 2099,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 1439
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "gugong_user_generated_ac13633e735a71ff",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a16b53c0000000008003c9b",
+      "chunk_id": "gugong_user_generated_ac13633e735a71ff_0",
+      "chunk_start": 0,
+      "chunk_end": 966,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1393,
+        "completion_tokens": 134,
+        "total_tokens": 1527,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 1265
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "gugong_user_generated_d927127c74a320bc",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/69df5ab90000000021012e2a",
+      "chunk_id": "gugong_user_generated_d927127c74a320bc_0",
+      "chunk_start": 0,
+      "chunk_end": 454,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1145,
+        "completion_tokens": 301,
+        "total_tokens": 1446,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 633
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "gugong_user_generated_2641b9750708433f",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+      "chunk_id": "gugong_user_generated_2641b9750708433f_0",
+      "chunk_start": 0,
+      "chunk_end": 566,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1165,
+        "completion_tokens": 472,
+        "total_tokens": 1637,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 653
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "gugong_user_generated_76dc90f7094090c6",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+      "chunk_id": "gugong_user_generated_76dc90f7094090c6_0",
+      "chunk_start": 0,
+      "chunk_end": 922,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1463,
+        "completion_tokens": 281,
+        "total_tokens": 1744,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 951
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "xihu_user_generated_d439099980d19760",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ab491ba000000001400278d",
+      "chunk_id": "xihu_user_generated_d439099980d19760_0",
+      "chunk_start": 0,
+      "chunk_end": 957,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1481,
+        "completion_tokens": 196,
+        "total_tokens": 1677,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 969
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "xihu_user_generated_ddcb0707c1791565",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6abf66e4000000001a029a51",
+      "chunk_id": "xihu_user_generated_ddcb0707c1791565_0",
+      "chunk_start": 0,
+      "chunk_end": 395,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1047,
+        "completion_tokens": 199,
+        "total_tokens": 1246,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 535
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "xihu_user_generated_059807848ba2b4a5",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ab11320000000003303aa7c",
+      "chunk_id": "xihu_user_generated_059807848ba2b4a5_0",
+      "chunk_start": 0,
+      "chunk_end": 560,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1192,
+        "completion_tokens": 626,
+        "total_tokens": 1818,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 680
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+      "chunk_id": "xihu_user_generated_6d86937f2bf70da9_0",
+      "chunk_start": 0,
+      "chunk_end": 761,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1337,
+        "completion_tokens": 564,
+        "total_tokens": 1901,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 825
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/69ef3f53000000002301fa69",
+      "chunk_id": "xihu_user_generated_6322b1ddadb1b801_0",
+      "chunk_start": 0,
+      "chunk_end": 624,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1170,
+        "completion_tokens": 255,
+        "total_tokens": 1425,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 658
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ae2a985000000002c023fae",
+      "chunk_id": "jiuzhaigou_user_generated_0ed001d738cb93a5_0",
+      "chunk_start": 0,
+      "chunk_end": 816,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1306,
+        "completion_tokens": 810,
+        "total_tokens": 2116,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 794
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+      "chunk_id": "jiuzhaigou_user_generated_653f517e7ecb42a0_0",
+      "chunk_start": 0,
+      "chunk_end": 941,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1413,
+        "completion_tokens": 1013,
+        "total_tokens": 2426,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 901
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6aba52470000000002012e4a",
+      "chunk_id": "jiuzhaigou_user_generated_585b83f4b8f6452f_0",
+      "chunk_start": 0,
+      "chunk_end": 900,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1419,
+        "completion_tokens": 369,
+        "total_tokens": 1788,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 907
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ad59171000000002702312a",
+      "chunk_id": "jiuzhaigou_user_generated_292a4ed7e67255de_0",
+      "chunk_start": 0,
+      "chunk_end": 808,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1308,
+        "completion_tokens": 564,
+        "total_tokens": 1872,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 796
+      },
+      "model": "deepseek-flash"
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a6040e7000000001002af2d",
+      "chunk_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7_0",
+      "chunk_start": 0,
+      "chunk_end": 996,
+      "status": "cache",
+      "attempt_errors": [],
+      "usage": {
+        "prompt_tokens": 1447,
+        "completion_tokens": 310,
+        "total_tokens": 1757,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 935
+      },
+      "model": "deepseek-flash"
+    }
+  ],
+  "slice_checks": 1415,
+  "slice_failures": [],
+  "failed_chunks": 0,
+  "issue_counts": {
+    "overlap": 103,
+    "duplicate": 24
+  }
+}

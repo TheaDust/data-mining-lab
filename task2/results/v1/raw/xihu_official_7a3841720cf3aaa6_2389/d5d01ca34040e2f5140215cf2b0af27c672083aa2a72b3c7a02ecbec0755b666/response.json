@@ -1,0 +1,28 @@
+{
+  "id": "010e64d7-5bec-40c1-aacf-dac7aafabd16",
+  "object": "chat.completion",
+  "created": 1793774509,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"龙井\",\"type\":\"POI\"},{\"text\":\"风篁岭\",\"type\":\"POI\"},{\"text\":\"过溪亭\",\"type\":\"POI\"},{\"text\":\"方圆庵\",\"type\":\"POI\"},{\"text\":\"神运石\",\"type\":\"POI\"},{\"text\":\"涤心沼\",\"type\":\"POI\"},{\"text\":\"一片云\",\"type\":\"POI\"},{\"text\":\"龙泓涧\",\"type\":\"POI\"},{\"text\":\"翠峰阁\",\"type\":\"POI\"},{\"text\":\"龙井茶园\",\"type\":\"POI\"},{\"text\":\"西湖\",\"type\":\"POI\"},{\"text\":\"2小时\",\"type\":\"TIME\"},{\"text\":\"龙井寺\",\"type\":\"POI\"},{\"text\":\"龙井泉\",\"type\":\"POI\"},{\"text\":\"风篁亭\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 517,
+    "completion_tokens": 180,
+    "total_tokens": 697,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 389
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

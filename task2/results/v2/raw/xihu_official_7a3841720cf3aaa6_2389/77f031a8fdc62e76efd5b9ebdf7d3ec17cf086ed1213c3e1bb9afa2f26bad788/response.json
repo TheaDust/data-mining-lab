@@ -1,0 +1,28 @@
+{
+  "id": "145c33e8-f939-41ab-b77b-4d8251a0410c",
+  "object": "chat.completion",
+  "created": 1793774625,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"约2小时\",\"type\":\"TIME\"},{\"text\":\"龙井寺\",\"type\":\"POI\"},{\"text\":\"龙井泉\",\"type\":\"POI\"},{\"text\":\"神运石\",\"type\":\"POI\"},{\"text\":\"一片云\",\"type\":\"POI\"},{\"text\":\"风篁亭\",\"type\":\"POI\"},{\"text\":\"过溪亭\",\"type\":\"POI\"},{\"text\":\"涤心沼\",\"type\":\"POI\"},{\"text\":\"龙泓涧\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 931,
+    "completion_tokens": 112,
+    "total_tokens": 1043,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 803
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

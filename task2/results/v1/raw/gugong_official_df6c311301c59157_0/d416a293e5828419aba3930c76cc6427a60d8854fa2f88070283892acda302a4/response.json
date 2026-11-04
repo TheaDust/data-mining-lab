@@ -1,0 +1,28 @@
+{
+  "id": "49b77f73-b6dc-490a-b7ca-fdd6acfca72c",
+  "object": "chat.completion",
+  "created": 1793774464,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"故宫\",\"type\":\"POI\"},{\"text\":\"北京\",\"type\":\"POI\"},{\"text\":\"紫禁城\",\"type\":\"POI\"},{\"text\":\"午门\",\"type\":\"POI\"},{\"text\":\"太和殿\",\"type\":\"POI\"},{\"text\":\"中和殿\",\"type\":\"POI\"},{\"text\":\"保和殿\",\"type\":\"POI\"},{\"text\":\"乾清宫\",\"type\":\"POI\"},{\"text\":\"交泰殿\",\"type\":\"POI\"},{\"text\":\"坤宁宫\",\"type\":\"POI\"},{\"text\":\"御花园\",\"type\":\"POI\"},{\"text\":\"神武门\",\"type\":\"POI\"},{\"text\":\"承乾宫\",\"type\":\"POI\"},{\"text\":\"永和宫\",\"type\":\"POI\"},{\"text\":\"景仁宫\",\"type\":\"POI\"},{\"text\":\"延禧宫\",\"type\":\"POI\"},{\"text\":\"钟表馆\",\"type\":\"POI\"},{\"text\":\"珍宝馆\",\"type\":\"POI\"},{\"text\":\"军机处\",\"type\":\"POI\"},{\"text\":\"慈宁宫\",\"type\":\"POI\"},{\"text\":\"寿康宫\",\"type\":\"POI\"},{\"text\":\"太极殿\",\"type\":\"POI\"},{\"text\":\"翊坤宫\",\"type\":\"POI\"},{\"text\":\"储秀宫\",\"type\":\"POI\"},{\"text\":\"午门雁翅楼\",\"type\":\"POI\"},{\"text\":\"太和门\",\"type\":\"POI\"},{\"text\":\"弘义阁\",\"type\":\"POI\"},{\"text\":\"体仁阁\",\"type\":\"POI\"},{\"text\":\"内左门\",\"type\":\"POI\"},{\"text\":\"乾清门\",\"type\":\"POI\"},{\"text\":\"内右门\",\"type\":\"POI\"},{\"text\":\"钟粹宫\",\"type\":\"POI\"},{\"text\":\"景阳宫\",\"type\":\"POI\"},{\"text\":\"珍妃井\",\"type\":\"POI\"},{\"text\":\"宁寿全宫\",\"type\":\"POI\"},{\"text\":\"九龙壁\",\"type\":\"POI\"},{\"text\":\"顺贞门\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\"},{\"text\":\"一天\",\"type\":\"TIME\"},{\"text\":\"每三年\",\"type\":\"TIME\"},{\"text\":\"1900年\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2009,
+    "completion_tokens": 483,
+    "total_tokens": 2492,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2009
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

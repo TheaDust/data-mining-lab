@@ -1,0 +1,28 @@
+{
+  "id": "f82b07ad-0e81-4e02-8364-543d118d0d00",
+  "object": "chat.completion",
+  "created": 1793774509,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"北京\",\"type\":\"POI\"},{\"text\":\"紫禁城\",\"type\":\"POI\"},{\"text\":\"午门\",\"type\":\"POI\"},{\"text\":\"内金水桥\",\"type\":\"POI\"},{\"text\":\"三大殿\",\"type\":\"POI\"},{\"text\":\"乾清宫\",\"type\":\"POI\"},{\"text\":\"养心殿\",\"type\":\"POI\"},{\"text\":\"御花园\",\"type\":\"POI\"},{\"text\":\"神武门\",\"type\":\"POI\"},{\"text\":\"太和殿\",\"type\":\"POI\"},{\"text\":\"中和殿\",\"type\":\"POI\"},{\"text\":\"保和殿\",\"type\":\"POI\"},{\"text\":\"故宫\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 979,
+    "completion_tokens": 154,
+    "total_tokens": 1133,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 851
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

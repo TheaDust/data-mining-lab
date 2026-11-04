@@ -1,0 +1,401 @@
+{
+  "source": "task1/data/final/documents.jsonl",
+  "sha256": "a00d04703a53c515a39a39a74582f1e6d00f7098474460eec7ecb93a722c3a65",
+  "documents": [
+    {
+      "doc_id": "gugong_official_df6c311301c59157",
+      "scenic_spot": "北京故宫",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "北京旅游网",
+      "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+      "chars": 4249
+    },
+    {
+      "doc_id": "xihu_official_7a3841720cf3aaa6",
+      "scenic_spot": "杭州西湖",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+      "chars": 2616
+    },
+    {
+      "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+      "scenic_spot": "九寨沟",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "九寨沟官网",
+      "url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+      "chars": 2404
+    },
+    {
+      "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+      "chars": 994
+    },
+    {
+      "doc_id": "gugong_user_generated_ac13633e735a71ff",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a16b53c0000000008003c9b",
+      "chars": 966
+    },
+    {
+      "doc_id": "gugong_user_generated_d927127c74a320bc",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/69df5ab90000000021012e2a",
+      "chars": 454
+    },
+    {
+      "doc_id": "gugong_user_generated_2641b9750708433f",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+      "chars": 566
+    },
+    {
+      "doc_id": "gugong_user_generated_76dc90f7094090c6",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+      "chars": 922
+    },
+    {
+      "doc_id": "xihu_user_generated_d439099980d19760",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ab491ba000000001400278d",
+      "chars": 957
+    },
+    {
+      "doc_id": "xihu_user_generated_ddcb0707c1791565",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6abf66e4000000001a029a51",
+      "chars": 395
+    },
+    {
+      "doc_id": "xihu_user_generated_059807848ba2b4a5",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ab11320000000003303aa7c",
+      "chars": 560
+    },
+    {
+      "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+      "chars": 761
+    },
+    {
+      "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/69ef3f53000000002301fa69",
+      "chars": 624
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ae2a985000000002c023fae",
+      "chars": 816
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+      "chars": 941
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6aba52470000000002012e4a",
+      "chars": 900
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ad59171000000002702312a",
+      "chars": 808
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a6040e7000000001002af2d",
+      "chars": 996
+    }
+  ],
+  "chunks": [
+    {
+      "doc_id": "gugong_official_df6c311301c59157",
+      "scenic_spot": "北京故宫",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "北京旅游网",
+      "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+      "chunk_id": "gugong_official_df6c311301c59157_0",
+      "chunk_start": 0,
+      "chunk_end": 2398
+    },
+    {
+      "doc_id": "gugong_official_df6c311301c59157",
+      "scenic_spot": "北京故宫",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "北京旅游网",
+      "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+      "chunk_id": "gugong_official_df6c311301c59157_2398",
+      "chunk_start": 2398,
+      "chunk_end": 4249
+    },
+    {
+      "doc_id": "xihu_official_7a3841720cf3aaa6",
+      "scenic_spot": "杭州西湖",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+      "chunk_id": "xihu_official_7a3841720cf3aaa6_0",
+      "chunk_start": 0,
+      "chunk_end": 2389
+    },
+    {
+      "doc_id": "xihu_official_7a3841720cf3aaa6",
+      "scenic_spot": "杭州西湖",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+      "chunk_id": "xihu_official_7a3841720cf3aaa6_2389",
+      "chunk_start": 2389,
+      "chunk_end": 2616
+    },
+    {
+      "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+      "scenic_spot": "九寨沟",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "九寨沟官网",
+      "url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+      "chunk_id": "jiuzhaigou_official_88ef5cc31789dc71_0",
+      "chunk_start": 0,
+      "chunk_end": 2276
+    },
+    {
+      "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+      "scenic_spot": "九寨沟",
+      "source_type": "official",
+      "text_type": "official_route",
+      "source_name": "九寨沟官网",
+      "url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+      "chunk_id": "jiuzhaigou_official_88ef5cc31789dc71_2276",
+      "chunk_start": 2276,
+      "chunk_end": 2404
+    },
+    {
+      "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+      "chunk_id": "gugong_user_generated_c57f5e2b6ca3c3a0_0",
+      "chunk_start": 0,
+      "chunk_end": 994
+    },
+    {
+      "doc_id": "gugong_user_generated_ac13633e735a71ff",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a16b53c0000000008003c9b",
+      "chunk_id": "gugong_user_generated_ac13633e735a71ff_0",
+      "chunk_start": 0,
+      "chunk_end": 966
+    },
+    {
+      "doc_id": "gugong_user_generated_d927127c74a320bc",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/69df5ab90000000021012e2a",
+      "chunk_id": "gugong_user_generated_d927127c74a320bc_0",
+      "chunk_start": 0,
+      "chunk_end": 454
+    },
+    {
+      "doc_id": "gugong_user_generated_2641b9750708433f",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+      "chunk_id": "gugong_user_generated_2641b9750708433f_0",
+      "chunk_start": 0,
+      "chunk_end": 566
+    },
+    {
+      "doc_id": "gugong_user_generated_76dc90f7094090c6",
+      "scenic_spot": "北京故宫",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+      "chunk_id": "gugong_user_generated_76dc90f7094090c6_0",
+      "chunk_start": 0,
+      "chunk_end": 922
+    },
+    {
+      "doc_id": "xihu_user_generated_d439099980d19760",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ab491ba000000001400278d",
+      "chunk_id": "xihu_user_generated_d439099980d19760_0",
+      "chunk_start": 0,
+      "chunk_end": 957
+    },
+    {
+      "doc_id": "xihu_user_generated_ddcb0707c1791565",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6abf66e4000000001a029a51",
+      "chunk_id": "xihu_user_generated_ddcb0707c1791565_0",
+      "chunk_start": 0,
+      "chunk_end": 395
+    },
+    {
+      "doc_id": "xihu_user_generated_059807848ba2b4a5",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ab11320000000003303aa7c",
+      "chunk_id": "xihu_user_generated_059807848ba2b4a5_0",
+      "chunk_start": 0,
+      "chunk_end": 560
+    },
+    {
+      "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+      "chunk_id": "xihu_user_generated_6d86937f2bf70da9_0",
+      "chunk_start": 0,
+      "chunk_end": 761
+    },
+    {
+      "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+      "scenic_spot": "杭州西湖",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/69ef3f53000000002301fa69",
+      "chunk_id": "xihu_user_generated_6322b1ddadb1b801_0",
+      "chunk_start": 0,
+      "chunk_end": 624
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ae2a985000000002c023fae",
+      "chunk_id": "jiuzhaigou_user_generated_0ed001d738cb93a5_0",
+      "chunk_start": 0,
+      "chunk_end": 816
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+      "chunk_id": "jiuzhaigou_user_generated_653f517e7ecb42a0_0",
+      "chunk_start": 0,
+      "chunk_end": 941
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6aba52470000000002012e4a",
+      "chunk_id": "jiuzhaigou_user_generated_585b83f4b8f6452f_0",
+      "chunk_start": 0,
+      "chunk_end": 900
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6ad59171000000002702312a",
+      "chunk_id": "jiuzhaigou_user_generated_292a4ed7e67255de_0",
+      "chunk_start": 0,
+      "chunk_end": 808
+    },
+    {
+      "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+      "scenic_spot": "九寨沟",
+      "source_type": "user_generated",
+      "text_type": "travel_note",
+      "source_name": "小红书",
+      "url": "https://www.xiaohongshu.com/explore/6a6040e7000000001002af2d",
+      "chunk_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7_0",
+      "chunk_start": 0,
+      "chunk_end": 996
+    }
+  ]
+}

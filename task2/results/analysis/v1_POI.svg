@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="498" viewBox="0 0 880 498">
+<rect width="100%" height="100%" fill="#f4f8fc"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#182c43">
+<text x="24" y="33" font-size="22" font-weight="bold">V1 POI 高频实体（前 12）</text>
+<text x="24" y="57" font-size="14">单位：独立出现位置（次）</text>
+<text x="260" y="89" font-size="15" text-anchor="end">故宫</text>
+<rect x="278" y="72" width="460.0" height="24" rx="3" fill="#246f96"/>
+<text x="749.0" y="89" font-size="15">43</text>
+<text x="260" y="123" font-size="15" text-anchor="end">西湖</text>
+<rect x="278" y="106" width="427.90697674418607" height="24" rx="3" fill="#246f96"/>
+<text x="716.9069767441861" y="123" font-size="15">40</text>
+<text x="260" y="157" font-size="15" text-anchor="end">杭州</text>
+<rect x="278" y="140" width="256.74418604651163" height="24" rx="3" fill="#246f96"/>
+<text x="545.7441860465117" y="157" font-size="15">24</text>
+<text x="260" y="191" font-size="15" text-anchor="end">午门</text>
+<rect x="278" y="174" width="246.04651162790697" height="24" rx="3" fill="#246f96"/>
+<text x="535.046511627907" y="191" font-size="15">23</text>
+<text x="260" y="225" font-size="15" text-anchor="end">原始森林</text>
+<rect x="278" y="208" width="235.34883720930233" height="24" rx="3" fill="#246f96"/>
+<text x="524.3488372093024" y="225" font-size="15">22</text>
+<text x="260" y="259" font-size="15" text-anchor="end">五花海</text>
+<rect x="278" y="242" width="203.25581395348837" height="24" rx="3" fill="#246f96"/>
+<text x="492.25581395348837" y="259" font-size="15">19</text>
+<text x="260" y="293" font-size="15" text-anchor="end">神武门</text>
+<rect x="278" y="276" width="203.25581395348837" height="24" rx="3" fill="#246f96"/>
+<text x="492.25581395348837" y="293" font-size="15">19</text>
+<text x="260" y="327" font-size="15" text-anchor="end">箭竹海</text>
+<rect x="278" y="310" width="192.5581395348837" height="24" rx="3" fill="#246f96"/>
+<text x="481.5581395348837" y="327" font-size="15">18</text>
+<text x="260" y="361" font-size="15" text-anchor="end">五彩池</text>
+<rect x="278" y="344" width="181.86046511627907" height="24" rx="3" fill="#246f96"/>
+<text x="470.8604651162791" y="361" font-size="15">17</text>
+<text x="260" y="395" font-size="15" text-anchor="end">九寨沟</text>
+<rect x="278" y="378" width="171.1627906976744" height="24" rx="3" fill="#246f96"/>
+<text x="460.1627906976744" y="395" font-size="15">16</text>
+<text x="260" y="429" font-size="15" text-anchor="end">御花园</text>
+<rect x="278" y="412" width="171.1627906976744" height="24" rx="3" fill="#246f96"/>
+<text x="460.1627906976744" y="429" font-size="15">16</text>
+<text x="260" y="463" font-size="15" text-anchor="end">珍宝馆</text>
+<rect x="278" y="446" width="171.1627906976744" height="24" rx="3" fill="#246f96"/>
+<text x="460.1627906976744" y="463" font-size="15">16</text>
+</g></svg>

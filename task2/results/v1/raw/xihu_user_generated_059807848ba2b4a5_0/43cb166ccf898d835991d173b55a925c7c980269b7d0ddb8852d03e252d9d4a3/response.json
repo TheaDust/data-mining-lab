@@ -1,0 +1,28 @@
+{
+  "id": "b9fe1080-e274-4878-99e0-10f9e6a9386a",
+  "object": "chat.completion",
+  "created": 1793774512,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"杭州站\",\"type\":\"POI\"},{\"text\":\"杭州东\",\"type\":\"POI\"},{\"text\":\"地铁\",\"type\":\"TRANSPORT\"},{\"text\":\"西湖\",\"type\":\"POI\"},{\"text\":\"地铁 1 号线\",\"type\":\"TRANSPORT\"},{\"text\":\"龙翔桥\",\"type\":\"POI\"},{\"text\":\"凤起路\",\"type\":\"POI\"},{\"text\":\"武林广场\",\"type\":\"POI\"},{\"text\":\"西湖\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"in77\",\"type\":\"POI\"},{\"text\":\"西湖风景区\",\"type\":\"POI\"},{\"text\":\"西湖\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"飞来峰\",\"type\":\"POI\"},{\"text\":\"吴山广场\",\"type\":\"POI\"},{\"text\":\"柳浪闻莺\",\"type\":\"POI\"},{\"text\":\"钱王祠码头\",\"type\":\"POI\"},{\"text\":\"坐船\",\"type\":\"TRANSPORT\"},{\"text\":\"小瀛洲\",\"type\":\"POI\"},{\"text\":\"三潭映月\",\"type\":\"POI\"},{\"text\":\"花港观鱼\",\"type\":\"POI\"},{\"text\":\"太子湾\",\"type\":\"POI\"},{\"text\":\"净慈寺\",\"type\":\"POI\"},{\"text\":\"雷峰塔\",\"type\":\"POI\"},{\"text\":\"双投桥\",\"type\":\"POI\"},{\"text\":\"苏堤\",\"type\":\"POI\"},{\"text\":\"曲院风荷\",\"type\":\"POI\"},{\"text\":\"平湖秋月\",\"type\":\"POI\"},{\"text\":\"断桥\",\"type\":\"POI\"},{\"text\":\"岳王庙\",\"type\":\"POI\"},{\"text\":\"西泠印社\",\"type\":\"POI\"},{\"text\":\"浙博\",\"type\":\"POI\"},{\"text\":\"杭博\",\"type\":\"POI\"},{\"text\":\"乌龟潭\",\"type\":\"POI\"},{\"text\":\"杨公堤\",\"type\":\"POI\"},{\"text\":\"茅家埠\",\"type\":\"POI\"},{\"text\":\"郭庄\",\"type\":\"POI\"},{\"text\":\"51 路环湖公交\",\"type\":\"TRANSPORT\"},{\"text\":\"公交船\",\"type\":\"TRANSPORT\"},{\"text\":\"景交车\",\"type\":\"TRANSPORT\"},{\"text\":\"小红车\",\"type\":\"TRANSPORT\"},{\"text\":\"飞来峰\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"财👼庙\",\"type\":\"POI\"},{\"text\":\"11 月后\",\"type\":\"TIME\"},{\"text\":\"灵隐寺\",\"type\":\"POI\"},{\"text\":\"法喜寺\",\"type\":\"POI\"},{\"text\":\"云栖竹径\",\"type\":\"POI\"},{\"text\":\"九溪\",\"type\":\"POI\"},{\"text\":\"虎跑\",\"type\":\"POI\"},{\"text\":\"六和塔\",\"type\":\"POI\"},{\"text\":\"钱塘江\",\"type\":\"POI\"},{\"text\":\"大运河\",\"type\":\"POI\"},{\"text\":\"水上巴士\",\"type\":\"TRANSPORT\"},{\"text\":\"西溪湿地区\",\"type\":\"POI\"},{\"text\":\"良渚\",\"type\":\"POI\"},{\"text\":\"湘湖\",\"type\":\"POI\"},{\"text\":\"河坊街\",\"type\":\"POI\"},{\"text\":\"南宋御街\",\"type\":\"POI\"},{\"text\":\"大马弄\",\"type\":\"POI\"},{\"text\":\"十五奎巷\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 778,
+    "completion_tokens": 717,
+    "total_tokens": 1495,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 650
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

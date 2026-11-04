@@ -1,0 +1,28 @@
+{
+  "id": "258f1da3-a07f-4de2-935f-6da0fb1debbd",
+  "object": "chat.completion",
+  "created": 1793774629,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"下午五点半\",\"type\":\"TIME\"},{\"text\":\"长海\",\"type\":\"POI\"},{\"text\":\"五彩池\",\"type\":\"POI\"},{\"text\":\"五花海\",\"type\":\"POI\"},{\"text\":\"珍珠滩\",\"type\":\"POI\"},{\"text\":\"树正群海\",\"type\":\"POI\"},{\"text\":\"火花海\",\"type\":\"POI\"},{\"text\":\"双龙海\",\"type\":\"POI\"},{\"text\":\"诺日朗瀑布\",\"type\":\"POI\"},{\"text\":\"熊猫海\",\"type\":\"POI\"},{\"text\":\"箭竹海\",\"type\":\"POI\"},{\"text\":\"09:30前\",\"type\":\"TIME\"},{\"text\":\"九寨沟景区门口\",\"type\":\"POI\"},{\"text\":\"景区大巴\",\"type\":\"TRANSPORT\"},{\"text\":\"左线·则查洼沟\",\"type\":\"POI\"},{\"text\":\"则查洼沟\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\"},{\"text\":\"诺日朗中心换乘站\",\"type\":\"POI\"},{\"text\":\"日则沟\",\"type\":\"POI\"},{\"text\":\"原始森林\",\"type\":\"POI\"},{\"text\":\"徒步\",\"type\":\"TRANSPORT\"},{\"text\":\"诺日朗中心\",\"type\":\"POI\"},{\"text\":\"树正沟\",\"type\":\"POI\"},{\"text\":\"树正群海站点\",\"type\":\"POI\"},{\"text\":\"树正村观景台\",\"type\":\"POI\"},{\"text\":\"1km左右\",\"type\":\"TIME\"},{\"text\":\"栈道\",\"type\":\"POI\"},{\"text\":\"17:30左右\",\"type\":\"TIME\"},{\"text\":\"9:30前\",\"type\":\"TIME\"},{\"text\":\"傍晚\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1419,
+    "completion_tokens": 369,
+    "total_tokens": 1788,
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 907
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

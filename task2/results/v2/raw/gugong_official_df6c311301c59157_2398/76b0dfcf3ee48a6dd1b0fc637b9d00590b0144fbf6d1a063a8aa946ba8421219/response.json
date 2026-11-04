@@ -1,0 +1,28 @@
+{
+  "id": "707afbb8-5178-46f1-b348-966e0e5e6f2b",
+  "object": "chat.completion",
+  "created": 1793774625,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"慈宁宫\",\"type\":\"POI\"},{\"text\":\"寿康宫\",\"type\":\"POI\"},{\"text\":\"西六宫\",\"type\":\"POI\"},{\"text\":\"永寿宫\",\"type\":\"POI\"},{\"text\":\"翊坤宫\",\"type\":\"POI\"},{\"text\":\"储秀宫\",\"type\":\"POI\"},{\"text\":\"咸福宫\",\"type\":\"POI\"},{\"text\":\"长春宫\",\"type\":\"POI\"},{\"text\":\"启祥宫\",\"type\":\"POI\"},{\"text\":\"太极殿\",\"type\":\"POI\"},{\"text\":\"御花园\",\"type\":\"POI\"},{\"text\":\"神武门\",\"type\":\"POI\"},{\"text\":\"午门雁翅楼\",\"type\":\"POI\"},{\"text\":\"午门\",\"type\":\"POI\"},{\"text\":\"东雁翅楼\",\"type\":\"POI\"},{\"text\":\"西直门\",\"type\":\"POI\"},{\"text\":\"西四牌楼\",\"type\":\"POI\"},{\"text\":\"北海永安寺白塔\",\"type\":\"POI\"},{\"text\":\"北海团城\",\"type\":\"POI\"},{\"text\":\"景山\",\"type\":\"POI\"},{\"text\":\"护城河\",\"type\":\"POI\"},{\"text\":\"角楼\",\"type\":\"POI\"},{\"text\":\"西北角楼\",\"type\":\"POI\"},{\"text\":\"太和门\",\"type\":\"POI\"},{\"text\":\"东西六宫\",\"type\":\"POI\"},{\"text\":\"外东路\",\"type\":\"POI\"},{\"text\":\"珍宝馆\",\"type\":\"POI\"},{\"text\":\"钟表馆\",\"type\":\"POI\"},{\"text\":\"南侧午门\",\"type\":\"POI\"},{\"text\":\"北侧神武门\",\"type\":\"POI\"},{\"text\":\"太和殿\",\"type\":\"POI\"},{\"text\":\"乾清\",\"type\":\"POI\"},{\"text\":\"养性\",\"type\":\"POI\"},{\"text\":\"金水桥\",\"type\":\"POI\"},{\"text\":\"宁寿\",\"type\":\"POI\"},{\"text\":\"九龙壁\",\"type\":\"POI\"},{\"text\":\"爬上\",\"type\":\"TRANSPORT\"},{\"text\":\"周一下午\",\"type\":\"TIME\"},{\"text\":\"每年7月1日至8月31日\",\"type\":\"TIME\"},{\"text\":\"每周一\",\"type\":\"TIME\"},{\"text\":\"8:30-12:00\",\"type\":\"TIME\"},{\"text\":\"11:00\",\"type\":\"TIME\"},{\"text\":\"11:10\",\"type\":\"TIME\"},{\"text\":\"12:00\",\"type\":\"TIME\"},{\"text\":\"8:30-16:00\",\"type\":\"TIME\"},{\"text\":\"上午\",\"type\":\"TIME\"},{\"text\":\"下午\",\"type\":\"TIME\"},{\"text\":\"一小时\",\"type\":\"TIME\"},{\"text\":\"旺季\",\"type\":\"TIME\"},{\"text\":\"夕阳\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1989,
+    "completion_tokens": 591,
+    "total_tokens": 2580,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 1861
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

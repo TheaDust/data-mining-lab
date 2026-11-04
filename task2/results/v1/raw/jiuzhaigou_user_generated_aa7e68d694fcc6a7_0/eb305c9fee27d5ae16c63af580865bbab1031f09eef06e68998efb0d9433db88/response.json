@@ -1,0 +1,28 @@
+{
+  "id": "baaff621-4ad6-4a8a-ae77-ed8afcda58ea",
+  "object": "chat.completion",
+  "created": 1793774514,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"九寨沟景区\",\"type\":\"POI\"},{\"text\":\"右线\",\"type\":\"POI\"},{\"text\":\"左线\",\"type\":\"POI\"},{\"text\":\"中线\",\"type\":\"POI\"},{\"text\":\"沟口\",\"type\":\"POI\"},{\"text\":\"调度车\",\"type\":\"TRANSPORT\"},{\"text\":\"诺日朗中心\",\"type\":\"POI\"},{\"text\":\"日则沟\",\"type\":\"POI\"},{\"text\":\"原始森林\",\"type\":\"POI\"},{\"text\":\"箭竹海\",\"type\":\"POI\"},{\"text\":\"熊猫海\",\"type\":\"POI\"},{\"text\":\"五花海\",\"type\":\"POI\"},{\"text\":\"珍珠滩瀑布\",\"type\":\"POI\"},{\"text\":\"则查洼沟\",\"type\":\"POI\"},{\"text\":\"长海\",\"type\":\"POI\"},{\"text\":\"五彩池\",\"type\":\"POI\"},{\"text\":\"犀牛海\",\"type\":\"POI\"},{\"text\":\"火花海\",\"type\":\"POI\"},{\"text\":\"双龙海\",\"type\":\"POI\"},{\"text\":\"芦苇海\",\"type\":\"POI\"},{\"text\":\"盆景台\",\"type\":\"POI\"},{\"text\":\"徒步\",\"type\":\"TRANSPORT\"},{\"text\":\"7小时\",\"type\":\"TIME\"},{\"text\":\"10～15分钟\",\"type\":\"TIME\"},{\"text\":\"2017.8.8\",\"type\":\"TIME\"},{\"text\":\"2021.9.28\",\"type\":\"TIME\"},{\"text\":\"下午\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1033,
+    "completion_tokens": 317,
+    "total_tokens": 1350,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 905
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d8f644bf-4446-41f2-ab98-0a2ba73a5dad",
+  "object": "chat.completion",
+  "created": 1793774511,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"故宫\",\"type\":\"POI\"},{\"text\":\"午门\",\"type\":\"POI\"},{\"text\":\"东华门\",\"type\":\"POI\"},{\"text\":\"南池子大街\",\"type\":\"POI\"},{\"text\":\"地铁 1 号线\",\"type\":\"TRANSPORT\"},{\"text\":\"天安门东站\",\"type\":\"POI\"},{\"text\":\"筒子河\",\"type\":\"POI\"},{\"text\":\"午门检票口\",\"type\":\"POI\"},{\"text\":\"步行\",\"type\":\"TRANSPORT\"},{\"text\":\"打车\",\"type\":\"TRANSPORT\"},{\"text\":\"劳动人民文化宫\",\"type\":\"POI\"},{\"text\":\"文化宫东门\",\"type\":\"POI\"},{\"text\":\"汉庭酒店\",\"type\":\"POI\"},{\"text\":\"西门\",\"type\":\"POI\"},{\"text\":\"天安门\",\"type\":\"POI\"},{\"text\":\"天安门东\",\"type\":\"POI\"},{\"text\":\"天安门西站\",\"type\":\"POI\"},{\"text\":\"天安门安检口\",\"type\":\"POI\"},{\"text\":\"金水桥\",\"type\":\"POI\"},{\"text\":\"端门\",\"type\":\"POI\"},{\"text\":\"中山公园\",\"type\":\"POI\"},{\"text\":\"中山公园西门\",\"type\":\"POI\"},{\"text\":\"东门\",\"type\":\"POI\"},{\"text\":\"西华门\",\"type\":\"POI\"},{\"text\":\"南长街\",\"type\":\"POI\"},{\"text\":\"北京故宫博物院\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1049,
+    "completion_tokens": 317,
+    "total_tokens": 1366,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 921
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

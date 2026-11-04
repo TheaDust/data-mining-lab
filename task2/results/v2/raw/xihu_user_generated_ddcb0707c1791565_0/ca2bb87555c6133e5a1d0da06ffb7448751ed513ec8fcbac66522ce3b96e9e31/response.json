@@ -1,0 +1,28 @@
+{
+  "id": "c36ff452-fe5a-40e5-9d7d-94e1724f15aa",
+  "object": "chat.completion",
+  "created": 1793774627,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"凤起路地铁站F口\",\"type\":\"POI\"},{\"text\":\"断桥残雪\",\"type\":\"POI\"},{\"text\":\"白堤\",\"type\":\"POI\"},{\"text\":\"平湖秋月\",\"type\":\"POI\"},{\"text\":\"曲院风荷\",\"type\":\"POI\"},{\"text\":\"花港观鱼\",\"type\":\"POI\"},{\"text\":\"太子湾公园\",\"type\":\"POI\"},{\"text\":\"三潭印月\",\"type\":\"POI\"},{\"text\":\"乌龟潭\",\"type\":\"POI\"},{\"text\":\"坐船\",\"type\":\"TRANSPORT\"},{\"text\":\"手摇船\",\"type\":\"TRANSPORT\"},{\"text\":\"地铁\",\"type\":\"TRANSPORT\"},{\"text\":\"公交\",\"type\":\"TRANSPORT\"},{\"text\":\"自驾\",\"type\":\"TRANSPORT\"},{\"text\":\"上午\",\"type\":\"TIME\"},{\"text\":\"下午3点后\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1047,
+    "completion_tokens": 199,
+    "total_tokens": 1246,
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 535
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

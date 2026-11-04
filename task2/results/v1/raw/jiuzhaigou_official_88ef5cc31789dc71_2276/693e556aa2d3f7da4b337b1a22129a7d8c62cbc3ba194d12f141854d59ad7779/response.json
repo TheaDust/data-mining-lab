@@ -1,0 +1,28 @@
+{
+  "id": "2ce23a09-2194-4b5b-8318-49af0bca4a88",
+  "object": "chat.completion",
+  "created": 1793774509,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"第三天\",\"type\":\"TIME\"},{\"text\":\"九寨天堂口\",\"type\":\"POI\"},{\"text\":\"《藏谜》\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 421,
+    "completion_tokens": 40,
+    "total_tokens": 461,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 293
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

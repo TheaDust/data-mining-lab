@@ -1,0 +1,82 @@
+{
+  "v1": {
+    "total": 1503,
+    "by_type": {
+      "POI": 1190,
+      "TRANSPORT": 124,
+      "TIME": 189
+    },
+    "by_scenic_spot": {
+      "九寨沟": {
+        "POI": 409,
+        "TRANSPORT": 55,
+        "TIME": 106
+      },
+      "北京故宫": {
+        "POI": 398,
+        "TRANSPORT": 18,
+        "TIME": 40
+      },
+      "杭州西湖": {
+        "POI": 383,
+        "TRANSPORT": 51,
+        "TIME": 43
+      }
+    },
+    "issues": {
+      "unmatched": 5,
+      "overlap": 101,
+      "duplicate": 49
+    },
+    "successful_chunks": 21,
+    "slice_checks": 1503,
+    "slice_failures": 0,
+    "usage": {
+      "prompt_tokens": 22113,
+      "completion_tokens": 10444,
+      "prompt_cache_hit_tokens": 2560
+    }
+  },
+  "v2": {
+    "total": 1415,
+    "by_type": {
+      "POI": 1112,
+      "TRANSPORT": 121,
+      "TIME": 182
+    },
+    "by_scenic_spot": {
+      "九寨沟": {
+        "POI": 377,
+        "TRANSPORT": 50,
+        "TIME": 104
+      },
+      "北京故宫": {
+        "POI": 372,
+        "TRANSPORT": 19,
+        "TIME": 41
+      },
+      "杭州西湖": {
+        "POI": 363,
+        "TRANSPORT": 52,
+        "TIME": 37
+      }
+    },
+    "issues": {
+      "overlap": 103,
+      "duplicate": 24
+    },
+    "successful_chunks": 21,
+    "slice_checks": 1415,
+    "slice_failures": 0,
+    "usage": {
+      "prompt_tokens": 30807,
+      "completion_tokens": 10376,
+      "prompt_cache_hit_tokens": 7680
+    }
+  },
+  "span_comparison": {
+    "unchanged": 1346,
+    "v1_only": 157,
+    "v2_only": 69
+  }
+}

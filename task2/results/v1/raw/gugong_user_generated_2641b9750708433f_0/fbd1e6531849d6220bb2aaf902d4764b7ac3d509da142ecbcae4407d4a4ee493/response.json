@@ -1,0 +1,28 @@
+{
+  "id": "00981400-f580-41d0-9a8c-f76547d92400",
+  "object": "chat.completion",
+  "created": 1793774510,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"故宫\",\"type\":\"POI\"},{\"text\":\"上午票\",\"type\":\"TIME\"},{\"text\":\"上午场\",\"type\":\"TIME\"},{\"text\":\"中午12点前\",\"type\":\"TIME\"},{\"text\":\"9点\",\"type\":\"TIME\"},{\"text\":\"11点半\",\"type\":\"TIME\"},{\"text\":\"11点\",\"type\":\"TIME\"},{\"text\":\"下午场\",\"type\":\"TIME\"},{\"text\":\"下午1点左右\",\"type\":\"TIME\"},{\"text\":\"天安门\",\"type\":\"POI\"},{\"text\":\"东华门\",\"type\":\"POI\"},{\"text\":\"东华门\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"护城河\",\"type\":\"POI\"},{\"text\":\"10分钟\",\"type\":\"TIME\"},{\"text\":\"午门\",\"type\":\"POI\"},{\"text\":\"工作日中午\",\"type\":\"TIME\"},{\"text\":\"公交\",\"type\":\"TRANSPORT\"},{\"text\":\"东华门\",\"type\":\"POI\",\"occurrence\":3},{\"text\":\"劳动人民文化宫站\",\"type\":\"POI\"},{\"text\":\"5分钟\",\"type\":\"TIME\"},{\"text\":\"端门\",\"type\":\"POI\"},{\"text\":\"午门\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"太和门\",\"type\":\"POI\"},{\"text\":\"三大殿\",\"type\":\"POI\"},{\"text\":\"太和殿\",\"type\":\"POI\"},{\"text\":\"中和殿\",\"type\":\"POI\"},{\"text\":\"保和殿\",\"type\":\"POI\"},{\"text\":\"后三宫\",\"type\":\"POI\"},{\"text\":\"乾清宫\",\"type\":\"POI\"},{\"text\":\"交泰殿\",\"type\":\"POI\"},{\"text\":\"坤宁宫\",\"type\":\"POI\"},{\"text\":\"东六宫\",\"type\":\"POI\"},{\"text\":\"景仁宫\",\"type\":\"POI\"},{\"text\":\"延禧宫\",\"type\":\"POI\"},{\"text\":\"珍宝馆\",\"type\":\"POI\"},{\"text\":\"九龙壁\",\"type\":\"POI\"},{\"text\":\"皇极殿\",\"type\":\"POI\"},{\"text\":\"宁寿宫\",\"type\":\"POI\"},{\"text\":\"珍妃井\",\"type\":\"POI\"},{\"text\":\"神武门\",\"type\":\"POI\"},{\"text\":\"御花园\",\"type\":\"POI\"},{\"text\":\"故宫下午茶\",\"type\":\"POI\"},{\"text\":\"坤宁宫东院\",\"type\":\"POI\"},{\"text\":\"下午3点前\",\"type\":\"TIME\"},{\"text\":\"神武门\",\"type\":\"POI\",\"occurrence\":2},{\"text\":\"景山公园\",\"type\":\"POI\"},{\"text\":\"10分钟\",\"type\":\"TIME\",\"occurrence\":2},{\"text\":\"万春亭\",\"type\":\"POI\"},{\"text\":\"故宫官网\",\"type\":\"POI\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 751,
+    "completion_tokens": 583,
+    "total_tokens": 1334,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 623
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}

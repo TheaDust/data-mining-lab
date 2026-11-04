@@ -1,0 +1,28 @@
+{
+  "id": "e16b77e5-f848-44ef-9037-09aac8a0166a",
+  "object": "chat.completion",
+  "created": 1793774625,
+  "model": "deepseek-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"entities\":[{\"text\":\"北京故宫博物院\",\"type\":\"POI\"},{\"text\":\"故宫\",\"type\":\"POI\"},{\"text\":\"珍宝馆\",\"type\":\"POI\"},{\"text\":\"钟表馆\",\"type\":\"POI\"},{\"text\":\"东华门\",\"type\":\"POI\"},{\"text\":\"午门\",\"type\":\"POI\"},{\"text\":\"内金水桥\",\"type\":\"POI\"},{\"text\":\"家具馆\",\"type\":\"POI\"},{\"text\":\"武英殿\",\"type\":\"POI\"},{\"text\":\"断虹桥\",\"type\":\"POI\"},{\"text\":\"太和门\",\"type\":\"POI\"},{\"text\":\"太和殿\",\"type\":\"POI\"},{\"text\":\"中和殿\",\"type\":\"POI\"},{\"text\":\"保和殿\",\"type\":\"POI\"},{\"text\":\"乾清宫\",\"type\":\"POI\"},{\"text\":\"交泰殿\",\"type\":\"POI\"},{\"text\":\"坤宁宫\",\"type\":\"POI\"},{\"text\":\"储秀宫\",\"type\":\"POI\"},{\"text\":\"翊坤宫\",\"type\":\"POI\"},{\"text\":\"太极殿\",\"type\":\"POI\"},{\"text\":\"养心殿\",\"type\":\"POI\"},{\"text\":\"寿康宫\",\"type\":\"POI\"},{\"text\":\"慈宁宫&花园\",\"type\":\"POI\"},{\"text\":\"冰窖餐厅\",\"type\":\"POI\"},{\"text\":\"箭亭\",\"type\":\"POI\"},{\"text\":\"东筒子夹道\",\"type\":\"POI\"},{\"text\":\"延禧宫\",\"type\":\"POI\"},{\"text\":\"景仁宫\",\"type\":\"POI\"},{\"text\":\"御花园\",\"type\":\"POI\"},{\"text\":\"神武门\",\"type\":\"POI\"},{\"text\":\"文华殿\",\"type\":\"POI\"},{\"text\":\"景山公园\",\"type\":\"POI\"},{\"text\":\"永寿宫\",\"type\":\"POI\"},{\"text\":\"十八槐\",\"type\":\"POI\"},{\"text\":\"提前7天的20:00\",\"type\":\"TIME\"},{\"text\":\"16:30\",\"type\":\"TIME\"},{\"text\":\"1-1.5h\",\"type\":\"TIME\"},{\"text\":\"8:30-17:00\",\"type\":\"TIME\"},{\"text\":\"上午\",\"type\":\"TIME\"},{\"text\":\"1天\",\"type\":\"TIME\"},{\"text\":\"半天\",\"type\":\"TIME\"},{\"text\":\"下午\",\"type\":\"TIME\"},{\"text\":\"11:00\",\"type\":\"TIME\"},{\"text\":\"1-2小时\",\"type\":\"TIME\"},{\"text\":\"2026\",\"type\":\"TIME\"}]}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1567,
+    "completion_tokens": 532,
+    "total_tokens": 2099,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 1439
+  },
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6"
+}
