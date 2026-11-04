@@ -1,0 +1,215 @@
+﻿route_id,doc_id,scenic_spot,route_name,route_kind,step_id,day,time_text,time_period,poi,activity,activity_inferred,poi_order,visit_duration_text,travel_duration_text,source_text,start,end
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,1,,,,午门,参观,True,single,,,午门,360,362
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,2,,,,太和殿,参观,True,single,,,太和殿,363,366
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,3,,,,中和殿,参观,True,single,,,中和殿,367,370
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,4,,,,保和殿,参观,True,single,,,保和殿,371,374
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,5,,,,乾清宫,参观,True,single,,,乾清宫,375,378
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,6,,,,交泰殿,参观,True,single,,,交泰殿,379,382
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,7,,,,坤宁宫,参观,True,single,,,坤宁宫,383,386
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,8,,,,御花园,参观,True,single,,,御花园,387,390
+gugong_official_df6c311301c59157_route_01,gugong_official_df6c311301c59157,北京故宫,路线一(图中黄箭头),official_recommendation,9,,,,神武门,参观,True,single,,,神武门,391,394
+gugong_official_df6c311301c59157_route_02,gugong_official_df6c311301c59157,北京故宫,路线二(图中绿箭头),official_recommendation,1,,,,承乾宫,参观,True,single,,,承乾宫,412,415
+gugong_official_df6c311301c59157_route_02,gugong_official_df6c311301c59157,北京故宫,路线二(图中绿箭头),official_recommendation,2,,,,永和宫,参观,True,single,,,永和宫,416,419
+gugong_official_df6c311301c59157_route_02,gugong_official_df6c311301c59157,北京故宫,路线二(图中绿箭头),official_recommendation,3,,,,景仁宫,参观,True,single,,,景仁宫,420,423
+gugong_official_df6c311301c59157_route_02,gugong_official_df6c311301c59157,北京故宫,路线二(图中绿箭头),official_recommendation,4,,,,延禧宫,参观,True,single,,,延禧宫,424,427
+gugong_official_df6c311301c59157_route_02,gugong_official_df6c311301c59157,北京故宫,路线二(图中绿箭头),official_recommendation,5,,,,钟表馆,参观,True,single,,,外东路钟表馆,428,434
+gugong_official_df6c311301c59157_route_02,gugong_official_df6c311301c59157,北京故宫,路线二(图中绿箭头),official_recommendation,6,,,,珍宝馆,参观,True,single,,,珍宝馆,435,438
+gugong_official_df6c311301c59157_route_02,gugong_official_df6c311301c59157,北京故宫,路线二(图中绿箭头),official_recommendation,7,,,,御花园,参观,True,single,,,御花园,439,442
+gugong_official_df6c311301c59157_route_03,gugong_official_df6c311301c59157,北京故宫,路线三(图中蓝箭头),official_recommendation,1,,,,军机处,参观,True,single,,,军机处,458,461
+gugong_official_df6c311301c59157_route_03,gugong_official_df6c311301c59157,北京故宫,路线三(图中蓝箭头),official_recommendation,2,,,,慈宁宫,参观,True,single,,,慈宁宫,462,465
+gugong_official_df6c311301c59157_route_03,gugong_official_df6c311301c59157,北京故宫,路线三(图中蓝箭头),official_recommendation,3,,,,寿康宫,参观,True,single,,,寿康宫,466,469
+gugong_official_df6c311301c59157_route_03,gugong_official_df6c311301c59157,北京故宫,路线三(图中蓝箭头),official_recommendation,4,,,,太极殿,参观,True,single,,,太极殿,470,473
+gugong_official_df6c311301c59157_route_03,gugong_official_df6c311301c59157,北京故宫,路线三(图中蓝箭头),official_recommendation,5,,,,翊坤宫,参观,True,single,,,翊坤宫,474,477
+gugong_official_df6c311301c59157_route_03,gugong_official_df6c311301c59157,北京故宫,路线三(图中蓝箭头),official_recommendation,6,,,,储秀宫,参观,True,single,,,储秀宫,478,481
+gugong_official_df6c311301c59157_route_03,gugong_official_df6c311301c59157,北京故宫,路线三(图中蓝箭头),official_recommendation,7,,,,御花园,参观,True,single,,,御花园,482,485
+gugong_official_df6c311301c59157_route_04,gugong_official_df6c311301c59157,北京故宫,路线四(午门口紫色字),official_recommendation,1,,,,午门雁翅楼,参观,True,single,,,午门雁翅楼,517,522
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,1,,,,柳浪闻莺,参观,True,single,,,柳浪闻莺,317,321
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,2,,,,雷峰夕照,参观,True,single,,,雷峰夕照,323,327
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,3,,,,南屏晚钟,参观,True,single,,,南屏晚钟,329,333
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,4,,,,花港观鱼,参观,True,single,,,花港观鱼,335,339
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,5,,,,三潭印月,参观,True,single,,,三潭印月（远眺）,341,349
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,6,,,,双峰插云,参观,True,single,,,双峰插云（远眺）,351,359
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,7,,,,苏堤春晓,参观,True,single,,,苏堤春晓,361,365
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,8,,,,曲院风荷,参观,True,single,,,曲院风荷,367,371
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,9,,,,平湖秋月,参观,True,single,,,平湖秋月,373,377
+xihu_official_7a3841720cf3aaa6_route_01,xihu_official_7a3841720cf3aaa6,杭州西湖,“西湖十景”文化之旅,official_recommendation,10,,,,断桥残雪,参观,True,single,,,断桥残雪,379,383
+xihu_official_7a3841720cf3aaa6_route_02,xihu_official_7a3841720cf3aaa6,杭州西湖,“孤山雅赏”文化之旅,official_recommendation,1,,,,平湖秋月,参观,True,single,,,平湖秋月,520,524
+xihu_official_7a3841720cf3aaa6_route_02,xihu_official_7a3841720cf3aaa6,杭州西湖,“孤山雅赏”文化之旅,official_recommendation,2,,,,文澜阁,参观,True,single,,,文澜阁,525,528
+xihu_official_7a3841720cf3aaa6_route_02,xihu_official_7a3841720cf3aaa6,杭州西湖,“孤山雅赏”文化之旅,official_recommendation,3,,,,清行宫遗址,参观,True,single,,,清行宫遗址,529,534
+xihu_official_7a3841720cf3aaa6_route_02,xihu_official_7a3841720cf3aaa6,杭州西湖,“孤山雅赏”文化之旅,official_recommendation,4,,,,西泠印社,参观,True,single,,,西泠印社,535,539
+xihu_official_7a3841720cf3aaa6_route_02,xihu_official_7a3841720cf3aaa6,杭州西湖,“孤山雅赏”文化之旅,official_recommendation,5,,,,舞鹤赋刻石、林逋墓,参观,True,unspecified,,,舞鹤赋刻石及林逋墓,540,549
+xihu_official_7a3841720cf3aaa6_route_03,xihu_official_7a3841720cf3aaa6,杭州西湖,“跟着马尔智走读西湖”文化之旅,official_recommendation,1,,,,东岳庙,参观,True,single,,,东岳庙,727,730
+xihu_official_7a3841720cf3aaa6_route_03,xihu_official_7a3841720cf3aaa6,杭州西湖,“跟着马尔智走读西湖”文化之旅,official_recommendation,2,,,,宋樟,参观,True,single,,,宋樟（太岁庙、有美堂遗址）,731,744
+xihu_official_7a3841720cf3aaa6_route_03,xihu_official_7a3841720cf3aaa6,杭州西湖,“跟着马尔智走读西湖”文化之旅,official_recommendation,3,,,,药王庙、阮公祠,参观,True,unspecified,,,药王庙、阮公祠（青衣洞）,745,757
+xihu_official_7a3841720cf3aaa6_route_03,xihu_official_7a3841720cf3aaa6,杭州西湖,“跟着马尔智走读西湖”文化之旅,official_recommendation,4,,,,城隍庙遗址,参观,True,single,,,城隍庙遗址（城隍阁、周新祠）,759,773
+xihu_official_7a3841720cf3aaa6_route_04,xihu_official_7a3841720cf3aaa6,杭州西湖,“梦回临安”南宋文化之旅,official_recommendation,1,,,,凤山水城门,参观,True,single,,,凤山水城门,965,970
+xihu_official_7a3841720cf3aaa6_route_04,xihu_official_7a3841720cf3aaa6,杭州西湖,“梦回临安”南宋文化之旅,official_recommendation,2,,,,六部桥,参观,True,single,,,六部桥,971,974
+xihu_official_7a3841720cf3aaa6_route_04,xihu_official_7a3841720cf3aaa6,杭州西湖,“梦回临安”南宋文化之旅,official_recommendation,3,,,,南宋遗址陈列馆,参观,True,single,,,南宋遗址陈列馆（南宋御街遗址）,975,990
+xihu_official_7a3841720cf3aaa6_route_04,xihu_official_7a3841720cf3aaa6,杭州西湖,“梦回临安”南宋文化之旅,official_recommendation,4,,,,太庙遗址公园,参观,True,single,,,太庙遗址公园,991,997
+xihu_official_7a3841720cf3aaa6_route_04,xihu_official_7a3841720cf3aaa6,杭州西湖,“梦回临安”南宋文化之旅,official_recommendation,5,,,,鼓楼,参观,True,single,,,鼓楼,998,1000
+xihu_official_7a3841720cf3aaa6_route_04,xihu_official_7a3841720cf3aaa6,杭州西湖,“梦回临安”南宋文化之旅,official_recommendation,6,,,,大井巷,参观,True,single,,,大井巷（钱塘第一井）,1001,1011
+xihu_official_7a3841720cf3aaa6_route_04,xihu_official_7a3841720cf3aaa6,杭州西湖,“梦回临安”南宋文化之旅,official_recommendation,7,,,,南宋德寿宫考古遗址,参观,True,single,,,南宋德寿宫考古遗址,1012,1021
+xihu_official_7a3841720cf3aaa6_route_05,xihu_official_7a3841720cf3aaa6,杭州西湖,“凤凰山中寻佛迹”吴越文化之旅,official_recommendation,1,,,,梵天寺经幢,参观,True,single,,,梵天寺经幢,1291,1296
+xihu_official_7a3841720cf3aaa6_route_05,xihu_official_7a3841720cf3aaa6,杭州西湖,“凤凰山中寻佛迹”吴越文化之旅,official_recommendation,2,,,,圣果寺遗址,参观,True,single,,,圣果寺遗址,1297,1302
+xihu_official_7a3841720cf3aaa6_route_05,xihu_official_7a3841720cf3aaa6,杭州西湖,“凤凰山中寻佛迹”吴越文化之旅,official_recommendation,3,,,,月岩,参观,True,single,,,月岩,1303,1305
+xihu_official_7a3841720cf3aaa6_route_05,xihu_official_7a3841720cf3aaa6,杭州西湖,“凤凰山中寻佛迹”吴越文化之旅,official_recommendation,4,,,,排衙石诗刻,参观,True,single,,,排衙石诗刻,1306,1311
+xihu_official_7a3841720cf3aaa6_route_05,xihu_official_7a3841720cf3aaa6,杭州西湖,“凤凰山中寻佛迹”吴越文化之旅,official_recommendation,5,,,,吴越郊坛遗址,参观,True,single,,,吴越郊坛遗址,1312,1318
+xihu_official_7a3841720cf3aaa6_route_05,xihu_official_7a3841720cf3aaa6,杭州西湖,“凤凰山中寻佛迹”吴越文化之旅,official_recommendation,6,,,,天龙寺造像,参观,True,single,,,天龙寺造像,1319,1324
+xihu_official_7a3841720cf3aaa6_route_05,xihu_official_7a3841720cf3aaa6,杭州西湖,“凤凰山中寻佛迹”吴越文化之旅,official_recommendation,7,,,,八卦田,参观,True,single,,,八卦田,1325,1328
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,1,,,,昭庆寺旧址,参观,True,single,,,昭庆寺旧址（现少年宫）,1479,1490
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,2,,,,蒋经国旧居,参观,True,single,,,蒋经国旧居,1491,1496
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,3,,,,大佛寺旧址,参观,True,single,,,大佛寺旧址,1497,1502
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,4,,,,宝石山造像,参观,True,single,,,宝石山造像,1503,1508
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,5,,,,静逸别墅,参观,True,single,,,静逸别墅,1509,1513
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,6,,,,抱青别墅,参观,True,single,,,抱青别墅,1514,1518
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,7,,,,西湖博览会博物馆,参观,True,single,,,西湖博览会博物馆,1519,1527
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,8,,,,玛瑙寺旧址,参观,True,single,,,玛瑙寺旧址（连横纪念馆）,1528,1540
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,9,,,,新新饭店,参观,True,single,,,新新饭店,1541,1545
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,10,,,,秋水山庄,参观,True,single,,,秋水山庄,1546,1550
+xihu_official_7a3841720cf3aaa6_route_06,xihu_official_7a3841720cf3aaa6,杭州西湖,“北山梦寻”北山街民国建筑之旅,official_recommendation,11,,,,五四宪法历史资料陈列馆,参观,True,single,,,五四宪法历史资料陈列馆（北山街馆区）,1551,1569
+xihu_official_7a3841720cf3aaa6_route_07,xihu_official_7a3841720cf3aaa6,杭州西湖,西湖“红色印记”之旅,official_recommendation,1,,,,白塔,参观,True,single,,,白塔,1725,1727
+xihu_official_7a3841720cf3aaa6_route_07,xihu_official_7a3841720cf3aaa6,杭州西湖,西湖“红色印记”之旅,official_recommendation,2,,,,杭州铁路纪念馆、杭州知青纪念馆,参观,True,unspecified,,,杭州铁路纪念馆、杭州知青纪念馆,1728,1743
+xihu_official_7a3841720cf3aaa6_route_07,xihu_official_7a3841720cf3aaa6,杭州西湖,西湖“红色印记”之旅,official_recommendation,3,,,,杭州解放纪念碑,参观,True,single,,,杭州解放纪念碑,1744,1751
+xihu_official_7a3841720cf3aaa6_route_07,xihu_official_7a3841720cf3aaa6,杭州西湖,西湖“红色印记”之旅,official_recommendation,4,,,,茅以升先生像,参观,True,single,,,茅以升先生像,1752,1758
+xihu_official_7a3841720cf3aaa6_route_07,xihu_official_7a3841720cf3aaa6,杭州西湖,西湖“红色印记”之旅,official_recommendation,5,,,,钱塘江大桥纪念馆,参观,True,single,,,钱塘江大桥纪念馆,1759,1767
+xihu_official_7a3841720cf3aaa6_route_07,xihu_official_7a3841720cf3aaa6,杭州西湖,西湖“红色印记”之旅,official_recommendation,6,,,,杭州革命烈士纪念馆,参观,True,single,,,杭州革命烈士纪念馆（蔡永祥烈士像）,1768,1785
+xihu_official_7a3841720cf3aaa6_route_07,xihu_official_7a3841720cf3aaa6,杭州西湖,西湖“红色印记”之旅,official_recommendation,7,,,,六和塔,参观,True,single,,,六和塔,1786,1789
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,1,,,,法镜寺,参观,True,single,,,法镜寺（下天竺）,1889,1897
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,2,,,,法净寺,参观,True,single,,,法净寺（中天竺）,1898,1906
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,3,,,,法喜寺,参观,True,single,,,法喜寺（上天竺）,1907,1915
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,4,,,,中印禅寺,参观,True,single,,,中印禅寺,1916,1920
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,5,,,,杭州佛学院,参观,True,single,,,杭州佛学院,1921,1926
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,6,,,,永福寺,参观,True,single,,,永福寺,1927,1930
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,7,,,,灵隐寺,参观,True,single,,,灵隐寺,1931,1934
+xihu_official_7a3841720cf3aaa6_route_08,xihu_official_7a3841720cf3aaa6,杭州西湖,上香古道佛教文化之旅,official_recommendation,8,,,,飞来峰造像,参观,True,single,,,飞来峰造像,1935,1940
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,1,,,,柳浪闻莺,参观,True,single,,,柳浪闻莺,2177,2181
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,2,,,,勾山樵舍,参观,True,single,,,勾山樵舍,2182,2186
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,3,,,,林徽因故居,参观,True,single,,,林徽因故居,2187,2192
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,4,,,,杨皇后宅院园林遗址,参观,True,single,,,杨皇后宅院园林遗址（中大吴庄）,2193,2208
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,5,,,,修女院,参观,True,single,,,修女院（小螺蛳山18号）,2209,2221
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,6,,,,郭璞井,参观,True,single,,,郭璞井,2222,2225
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,7,,,,浙江体育会摩崖题记,参观,True,single,,,浙江体育会摩崖题记,2226,2235
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,8,,,,吴山第一峰,参观,True,single,,,吴山第一峰,2236,2241
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,9,,,,城隍庙,参观,True,single,,,城隍庙,2242,2245
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,10,,,,药王庙,参观,True,single,,,药王庙,2246,2249
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,11,,,,有美堂,参观,True,single,,,有美堂（宋樟）,2251,2258
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,12,,,,东岳庙,参观,True,single,,,东岳庙,2260,2263
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,13,,,,伍公庙,参观,True,single,,,伍公庙,2265,2268
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,14,,,,城隍山瞭望塔,参观,True,single,,,城隍山瞭望塔,2269,2275
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,15,,,,鼓楼,参观,True,single,,,鼓楼,2276,2278
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,16,,,,叶种德堂,参观,True,single,,,叶种德堂,2279,2283
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,17,,,,清河坊四拐角,参观,True,single,,,清河坊四拐角,2284,2290
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,18,,,,河坊街,参观,True,single,,,河坊街,2291,2294
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,19,,,,胡庆余堂,参观,True,single,,,胡庆余堂,2295,2299
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,20,,,,大井巷,参观,True,single,,,大井巷,2300,2303
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,21,,,,钱塘第一井,参观,True,single,,,钱塘第一井,2304,2309
+xihu_official_7a3841720cf3aaa6_route_09,xihu_official_7a3841720cf3aaa6,杭州西湖,“寻觅失落的文化遗珍”清波之旅,official_recommendation,22,,,,河坊街西门,参观,True,single,,,河坊街西门,2311,2316
+xihu_official_7a3841720cf3aaa6_route_10,xihu_official_7a3841720cf3aaa6,杭州西湖,龙井八景,official_recommendation,1,,,,龙井寺、龙井泉,参观,True,unspecified,,,龙井寺、龙井泉,2552,2559
+xihu_official_7a3841720cf3aaa6_route_10,xihu_official_7a3841720cf3aaa6,杭州西湖,龙井八景,official_recommendation,2,,,,神运石,参观,True,single,,,神运石,2560,2563
+xihu_official_7a3841720cf3aaa6_route_10,xihu_official_7a3841720cf3aaa6,杭州西湖,龙井八景,official_recommendation,3,,,,一片云,参观,True,single,,,一片云,2564,2567
+xihu_official_7a3841720cf3aaa6_route_10,xihu_official_7a3841720cf3aaa6,杭州西湖,龙井八景,official_recommendation,4,,,,风篁亭,参观,True,single,,,风篁亭,2568,2571
+xihu_official_7a3841720cf3aaa6_route_10,xihu_official_7a3841720cf3aaa6,杭州西湖,龙井八景,official_recommendation,5,,,,过溪亭,参观,True,single,,,过溪亭,2572,2575
+xihu_official_7a3841720cf3aaa6_route_10,xihu_official_7a3841720cf3aaa6,杭州西湖,龙井八景,official_recommendation,6,,,,涤心沼,参观,True,single,,,涤心沼,2576,2579
+xihu_official_7a3841720cf3aaa6_route_10,xihu_official_7a3841720cf3aaa6,杭州西湖,龙井八景,official_recommendation,7,,,,龙泓涧,参观,True,single,,,龙泓涧,2580,2583
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,1,1,7:00-8:10,上午,沟口 → 原始森林,乘车,False,explicit,,一个小时车程,沟口乘车→原始森林（7:00-8:10 一个小时车程）,353,380
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,2,1,8:10-9:00,上午,原始森林 → 芳草海,步行、游览,False,explicit,20分钟,步行30分钟,原始森林→芳草海（8:10-9:00 步行30分钟，游览时间20分钟）,381,416
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,3,1,9:00-9:15,上午,芳草海 → 天鹅海,换乘观光车、游览,False,explicit,10分钟,约5分钟车程,芳草海→天鹅海（9:00-9:15 换乘观光车，约5分钟车程，游览时间10分钟）,417,457
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,4,1,9:15-9:45,上午,天鹅海 → 箭竹海,换乘观光车、游览,False,explicit,15分钟,约15分钟车程,天鹅海→箭竹海（9:15-9:45 换乘观光车，约15分钟车程，游览时间15分钟）,458,499
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,5,1,9:45-10:10,上午,箭竹海 → 熊猫海,换乘观光车、游览,False,explicit,15分钟,约10分钟车程,箭竹海→熊猫海（9:45-10:10 换乘观光车，约10分钟车程，游览时间15分钟）,500,542
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,6,1,10:10-10:40,上午,熊猫海 → 五花海,换乘观光车、游览,False,explicit,20分钟,约10分钟车程,熊猫海→五花海（10:10-10:40 换乘观光车，约10分钟车程，游览时间20分钟）,543,586
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,7,1,10:40-11:10,上午,五花海 → 镜海,换乘观光车、游览,False,explicit,20分钟,约10分钟车程,五花海→镜海（10:40-11:10 换乘观光车，约10分钟车程，游览时间20分钟）,587,629
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,8,1,11:10-11:25,上午,镜海 → 诺日朗群海,换乘观光车、游览,False,explicit,10分钟,约5分钟车程,镜海→诺日朗群海（11:10-11:25 换乘观光车，约5分钟车程，游览时间10分钟）,630,673
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,9,1,11:30-13:30,中午,诺日朗群海 → 诺日朗中心站,用餐、休息,False,explicit,,,诺日朗群海→诺日朗中心站（11:30-13:30诺日朗餐厅用餐，用餐和休息时间2个小时，可观赏诺日朗瀑布）,679,732
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,10,1,13:30-14:20,下午,诺日朗中心站 → 长海,乘坐观光车、游览,False,explicit,20分钟,约30分钟车程,诺日朗中心站→长海（13:30-14:20乘坐观光车，约30分钟车程，游览时间20分钟 ）,738,783
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,11,1,14:20-14:50,下午,长海 → 五彩池,步行、游览,False,explicit,15分钟,步行15分钟,长海→五彩池（14:20-14:50步行15分钟，游览时间15分钟 ）,784,819
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,12,1,14:50-15:40,下午,五彩池 → 犀牛海,乘坐观光车、游览,False,explicit,20分钟,约30分钟车程,五彩池→犀牛海（14:50-15:40乘坐观光车，约30分钟车程，游览时间20分钟 ）,820,863
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,13,1,15:40-17:00,下午,犀牛海 → 老虎海 → 树正瀑布 → 树正磨房 → 树正寨 → 卧龙海 → 双龙海,步行、乘车、游览,False,explicit,约1个多小时,,犀牛海→老虎海→树正瀑布→树正磨房→树正寨→卧龙海→双龙海（15:40-17:00步行+乘车的方式，约1个多小时游览时间）,864,925
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,14,1,17:00-17:20,下午,双龙海 → 盆景滩,乘坐观光车、游览,False,explicit,10分钟,约10分钟车程,双龙海→盆景滩（17:00-17:20乘坐观光车，约10分钟车程，游览时间10分钟 ）,926,969
+jiuzhaigou_official_88ef5cc31789dc71_route_01,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,一日精华游,official_recommendation,15,1,17:00-17：35,下午,盆景滩 → 沟口,乘坐观光车,False,explicit,,约15分钟车程,盆景滩→沟口（17:00-17：35乘坐观光车，约15分钟车程 ）,970,1003
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,1,1,,,沟口,乘车,False,single,,,沟口乘车,1233,1237
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,2,1,,,长海,参观,True,single,,,长海,1238,1240
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,3,1,,,五彩池,参观,True,single,,,五彩池,1241,1244
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,4,1,,,诺日朗中心站,参观,True,single,,,诺日朗中心站,1245,1251
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,5,1,,,诺日朗瀑布,参观,True,single,,,诺日朗瀑布,1252,1257
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,6,1,,,犀牛海,参观,True,single,,,犀牛海,1258,1261
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,7,1,,,树正瀑布,参观,True,single,,,树正瀑布,1262,1266
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,8,1,,,树正群海,参观,True,single,,,树正群海,1267,1271
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,9,1,,,双龙海,参观,True,single,,,双龙海,1272,1275
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,10,1,,,芦苇海,参观,True,single,,,芦苇海,1276,1279
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,11,1,,,盆景滩,参观,True,single,,,盆景滩,1280,1283
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,12,1,,,出沟,出沟,False,single,,,出沟,1284,1286
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,13,2,,,游客中心,参观,True,single,,,游客中心,1425,1429
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,14,2,,,原始森林,参观,True,single,,,原始森林,1430,1434
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,15,2,,,芳草海,参观,True,single,,,芳草海,1435,1438
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,16,2,,,天鹅海,参观,True,single,,,天鹅湖,1439,1442
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,17,2,,,箭竹海,参观,True,single,,,箭竹海,1443,1446
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,18,2,,,熊猫海,参观,True,single,,,熊猫海,1447,1450
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,19,2,,,珍珠滩,参观,True,single,,,珍珠滩,1451,1454
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,20,2,,,五花海,参观,True,single,,,五花海,1455,1458
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,21,2,,,诺日朗中心站,参观,True,single,,,诺日朗中心站,1459,1465
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,22,2,,,诺日朗瀑布,参观,True,single,,,诺日朗瀑布,1466,1471
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,23,2,,,犀牛海,参观,True,single,,,犀牛海,1472,1475
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,24,2,,,树正瀑布,参观,True,single,,,树正瀑布,1476,1480
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,25,2,,,树正群海,参观,True,single,,,树正群海,1481,1485
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,26,2,,,双龙海,参观,True,single,,,双龙海,1486,1489
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,27,2,,,芦苇海,参观,True,single,,,芦苇海,1490,1493
+jiuzhaigou_official_88ef5cc31789dc71_route_02,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,二日舒适游,official_recommendation,28,2,,,盆景滩,参观,True,single,,,盆景滩,1494,1497
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,1,1,,,九寨沟县城 → 九寨沟神仙池景区,驱车,False,explicit,,约1个半小时,从九寨沟县城到九寨沟神仙池景区58公里的路程，驱车前往约1个半小时即可到达。,1794,1832
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,2,1,,,漳扎镇,游览、驱车、办理入住、休息,False,single,,,游览完神仙池景区后，您可以驱车来到九寨沟景区的漳扎镇，寻找合适的酒店，办理入住后便可以早早的休息，为第二天的行程养精蓄锐。,1940,2001
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,3,2,,,沟口,乘车,False,single,,,沟口乘车,2010,2014
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,4,2,,,长海,参观,True,single,,,长海,2015,2017
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,5,2,,,五彩池,参观,True,single,,,五彩池,2018,2021
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,6,2,,,诺日朗中心站,参观,True,single,,,诺日朗中心站,2022,2028
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,7,2,,,诺日朗瀑布,参观,True,single,,,诺日朗瀑布,2029,2034
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,8,2,,,犀牛海,参观,True,single,,,犀牛海,2035,2038
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,9,2,,,树正瀑布,参观,True,single,,,树正瀑布,2039,2043
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,10,2,,,树正群海,参观,True,single,,,树正群海,2044,2048
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,11,2,,,双龙海,参观,True,single,,,双龙海,2049,2052
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,12,2,,,芦苇海,参观,True,single,,,芦苇海,2053,2056
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,13,2,,,盆景滩,参观,True,single,,,盆景滩,2057,2060
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,14,2,,,出沟,出沟,False,single,,,出沟,2061,2063
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,15,3,,,游客中心,参观,True,single,,,游客中心,2203,2207
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,16,3,,,原始森林,参观,True,single,,,原始森林,2208,2212
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,17,3,,,芳草海,参观,True,single,,,芳草海,2213,2216
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,18,3,,,天鹅海,参观,True,single,,,天鹅湖,2217,2220
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,19,3,,,箭竹海,参观,True,single,,,箭竹海,2221,2224
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,20,3,,,熊猫海,参观,True,single,,,熊猫海,2225,2228
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,21,3,,,珍珠滩,参观,True,single,,,珍珠滩,2229,2232
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,22,3,,,五花海,参观,True,single,,,五花海,2233,2236
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,23,3,,,诺日朗中心站,参观,True,single,,,诺日朗中心站,2237,2243
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,24,3,,,诺日朗瀑布,参观,True,single,,,诺日朗瀑布,2244,2249
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,25,3,,,犀牛海,参观,True,single,,,犀牛海,2250,2253
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,26,3,,,树正瀑布,参观,True,single,,,树正瀑布,2254,2258
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,27,3,,,树正群海,参观,True,single,,,树正群海,2259,2263
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,28,3,,,双龙海,参观,True,single,,,双龙海,2264,2267
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,29,3,,,芦苇海,参观,True,single,,,芦苇海,2268,2271
+jiuzhaigou_official_88ef5cc31789dc71_route_03,jiuzhaigou_official_88ef5cc31789dc71,九寨沟,三日多彩游,official_recommendation,30,3,,,盆景滩,参观,True,single,,,盆景滩,2272,2275
+gugong_user_generated_d927127c74a320bc_route_01,gugong_user_generated_d927127c74a320bc,北京故宫,游客攻略：半天精华线,visitor_recommendation,1,1,,,午门,安检检票,False,explicit,,,1. 午门进 ➡️ 安检检票👮,62,77
+gugong_user_generated_d927127c74a320bc_route_01,gugong_user_generated_d927127c74a320bc,北京故宫,游客攻略：半天精华线,visitor_recommendation,2,1,,,太和殿 → 中和殿 → 保和殿,参观,True,explicit,,,2. 沿中轴线走：太和殿 ➡️ 中和殿 ➡️ 保和殿🏯,78,105
+gugong_user_generated_d927127c74a320bc_route_01,gugong_user_generated_d927127c74a320bc,北京故宫,游客攻略：半天精华线,visitor_recommendation,3,1,,,乾清门 → 乾清宫 → 交泰殿 → 坤宁宫,参观,True,explicit,,,3. 乾清门 ➡️ 乾清宫 ➡️ 交泰殿 ➡️ 坤宁宫🏺,106,134
+gugong_user_generated_d927127c74a320bc_route_01,gugong_user_generated_d927127c74a320bc,北京故宫,游客攻略：半天精华线,visitor_recommendation,4,1,,,御花园,拍照、休息,False,single,,,4. 御花园逛一圈，拍照休息🌸,135,150
+gugong_user_generated_d927127c74a320bc_route_01,gugong_user_generated_d927127c74a320bc,北京故宫,游客攻略：半天精华线,visitor_recommendation,5,1,,,珍宝馆 → 钟表馆,参观,True,explicit,,,5. 往东走：珍宝馆（必看）💎 ➡️ 钟表馆⏰,151,174
+gugong_user_generated_d927127c74a320bc_route_01,gugong_user_generated_d927127c74a320bc,北京故宫,游客攻略：半天精华线,visitor_recommendation,6,1,,,神武门,参观,True,single,,,6. 最后从神武门出🚪,175,186
+xihu_user_generated_d439099980d19760_route_01,xihu_user_generated_d439099980d19760,杭州西湖,游客攻略：观光车与坐船精华线,visitor_recommendation,1,1,,,柳浪闻莺,参观,True,single,,,柳浪闻莺,72,76
+xihu_user_generated_d439099980d19760_route_01,xihu_user_generated_d439099980d19760,杭州西湖,游客攻略：观光车与坐船精华线,visitor_recommendation,2,1,,,雷峰塔,观光车,False,single,,,观光车直达雷峰塔,79,87
+xihu_user_generated_d439099980d19760_route_01,xihu_user_generated_d439099980d19760,杭州西湖,游客攻略：观光车与坐船精华线,visitor_recommendation,3,1,,,净慈寺,参观,True,single,,,净慈寺,90,93
+xihu_user_generated_d439099980d19760_route_01,xihu_user_generated_d439099980d19760,杭州西湖,游客攻略：观光车与坐船精华线,visitor_recommendation,4,1,,,三潭印月,坐船,False,single,,,坐船游三潭印月,96,103
+xihu_user_generated_d439099980d19760_route_01,xihu_user_generated_d439099980d19760,杭州西湖,游客攻略：观光车与坐船精华线,visitor_recommendation,5,1,,,花港观鱼,登岸,False,single,,,花港观鱼登岸,106,112
+xihu_user_generated_d439099980d19760_route_01,xihu_user_generated_d439099980d19760,杭州西湖,游客攻略：观光车与坐船精华线,visitor_recommendation,6,1,,,曲院风荷,参观,True,single,,,曲院风荷,115,119
+xihu_user_generated_d439099980d19760_route_01,xihu_user_generated_d439099980d19760,杭州西湖,游客攻略：观光车与坐船精华线,visitor_recommendation,7,1,,,断桥残雪,参观,True,single,,,断桥残雪,122,126
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,1,1,10：00,上午,,到达景区,False,single,,,10：00 到达景区，自助寄存、检票,88,106
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,2,1,10：15,上午,,摆渡车,False,single,,,10：15 上景区门口摆渡车,107,121
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,3,1,10：30,上午,树正寨 → 树正群海 → 树正瀑布 → 老虎海 → 犀牛海,下车、步行,False,explicit,,,10：30 被分配到树正寨下车，⭐步行树正群海-树正瀑布-老虎海-犀牛海（中线上段）,122,164
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,4,1,11：10,上午,犀牛海,上车,False,single,,,11：10 犀牛海上车，分配到右线,165,182
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,5,1,11：50,中午,原始森林 → 原始森林 → 芳草海 → 天鹅海,下车、步行,False,explicit,,,11：50 原始森林下车，⭐步行原始森林-芳草海-天鹅海（右线上段）,183,217
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,6,1,12：45,中午,天鹅海,上车,False,single,,,12：45 天鹅海上车,218,229
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,7,1,12：55,中午,箭竹海 → 箭竹海 → 熊猫海 → 五花海 → 珍珠滩 → 镜海,下车、步行,False,explicit,,,12：55 箭竹海下车，⭐步行箭竹海-熊猫海-五花海-珍珠滩-镜海（右线下段）,230,269
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,8,1,15：00,下午,镜海,上车,False,single,,,15：00 镜海上车，右线结束,270,285
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,9,1,15：10,下午,诺日朗中心站,换车,False,single,,,15：10 诺日朗中心换车，去左线,286,303
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,10,1,15：35,下午,长海 → 长海 → 五彩池,下车、步行,False,explicit,,,15：35 长海下车，⭐步行长海-五彩池（左线）,304,328
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,11,1,16：05,下午,五彩池 → 诺日朗,上车,False,explicit,,,16：05 五彩池等车回诺日朗，此时左线返程高峰，等了10分钟上车,329,362
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,12,1,16：30,下午,诺日朗 → 诺日朗瀑布,下车、步行,False,explicit,,,16：30 诺日朗下车，⭐步行诺日朗瀑布,363,383
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,13,1,16：50,下午,诺日朗,上车,False,single,,,16：50 诺日朗上车,384,395
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,14,1,17：00,下午,火花海 → 火花海 → 双龙海 → 芦苇海 → 盆景滩,下车、步行,False,explicit,,,17：00 火花海下车，⭐步行火花海-双龙海-芦苇海-盆景滩（中线下段）,396,432
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,15,1,17：35,下午,盆景滩,上车,False,single,,,17：35 盆景滩上车,433,444
+jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,16,1,17：45,下午,,出景区,False,single,,,17：45 出景区,445,454

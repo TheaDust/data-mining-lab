@@ -1,0 +1,678 @@
+[
+  {
+    "mapping_id": "map_72df7c7484fbb00a",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "对历史感兴趣的大神们",
+    "advice": "二、东线参观-故宫三大殿、探访顺治与董鄂妃的生死之恋以及珍妃井的秘密",
+    "relation": "suitable_option",
+    "context": "二、东线参观-故宫三大殿、探访顺治与董鄂妃的生死之恋以及珍妃井的秘密",
+    "occurrences": [
+      "adv_c5501c30a9666d82"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_d1a7295bad620679",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "对甄嬛传百看不厌的小主贝勒王爷们",
+    "advice": "三、西线参观-探秘电视剧《甄嬛传》的小主们生活的地方",
+    "relation": "suitable_option",
+    "context": "三、西线参观-探秘电视剧《甄嬛传》的小主们生活的地方",
+    "occurrences": [
+      "adv_e4d487b90baee9a4"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_4412c3d21bbf11df",
+    "scenic_spot": "北京故宫",
+    "condition_type": "crowd",
+    "condition_types": [
+      "crowd"
+    ],
+    "condition": "旅游旺季参观时",
+    "advice": "可以在网上提前订票，到时候可直接刷身份证进入，不需要排队",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_758e8703f52ee18d"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_1314174ce4f947ec",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "是带小朋友或者是带婴儿车的游客",
+    "advice": "比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_6d216d23e6c557fa"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_01d00cbfc85ad660",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "带老人小孩",
+    "advice": "慎选",
+    "relation": "recommendation",
+    "context": "🗺️路线 1（省心避人流｜红线）：东华门→午门",
+    "occurrences": [
+      "adv_3085117882955572"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_e65548061c16e97b",
+    "scenic_spot": "北京故宫",
+    "condition_type": "time",
+    "condition_types": [
+      "time"
+    ],
+    "condition": "赶时间",
+    "advice": "慎选",
+    "relation": "recommendation",
+    "context": "🗺️路线 4（小众舒适｜蓝线）：中山公园→午门",
+    "occurrences": [
+      "adv_8059fa64123f56c4"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_e0179f9ce5ab0fc2",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type",
+      "physical_condition"
+    ],
+    "condition": "体力好的年轻人",
+    "advice": "🗺️路线 5",
+    "relation": "suitable_option",
+    "context": "🗺️路线 5（人少清净｜紫线）：西华门→午门",
+    "occurrences": [
+      "adv_83985ee17f13ba0a"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_5c369b41681fe1c8",
+    "scenic_spot": "北京故宫",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition",
+      "time"
+    ],
+    "condition": "赶时间想省腿",
+    "advice": "选路线 3（记得早点去避安检高峰）",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_47a27b0838af7e86"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_c436d22896efe554",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "带娃 / 带父母",
+    "advice": "选路线 2 或 4（距离适中不折腾）",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_c1cf947718bd660f"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_92d3a391943a6fe3",
+    "scenic_spot": "北京故宫",
+    "condition_type": "crowd",
+    "condition_types": [
+      "crowd"
+    ],
+    "condition": "怕人多想清净",
+    "advice": "选路线 1 或 5（人少体验感拉满）",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_7ba817bb576c0253"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_19872dc5eb92ad7f",
+    "scenic_spot": "北京故宫",
+    "condition_type": "budget",
+    "condition_types": [
+      "budget"
+    ],
+    "condition": "想省钱不花额外门票",
+    "advice": "选路线 1/3/5",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_912ce36a58f54c13"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_a8d7dc5e4b467c06",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "带娃",
+    "advice": "可以细讲：这里是皇帝的办公室，看似自由的皇权，实则被规矩牢牢束缚",
+    "relation": "recommendation",
+    "context": "乾清宫｜帝王日常",
+    "occurrences": [
+      "adv_f705dd5cefba510e"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_4db31905640dff2e",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "亲子",
+    "advice": "养心殿",
+    "relation": "suitable_option",
+    "context": "养心殿｜真正生活的地方",
+    "occurrences": [
+      "adv_f522f6baf0c7b6d5"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_5098711e2e391877",
+    "scenic_spot": "北京故宫",
+    "condition_type": "transport",
+    "condition_types": [
+      "transport"
+    ],
+    "condition": "没约上",
+    "advice": "可到展馆门口买",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_74af1859a2212a5c"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_6ffc32adefa5190b",
+    "scenic_spot": "北京故宫",
+    "condition_type": "time",
+    "condition_types": [
+      "time"
+    ],
+    "condition": "时间有限",
+    "advice": "选珍宝馆",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_4bf4d7184c4ed98f"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_ab97258cb0c5ea3e",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "第一次来",
+    "advice": "一定留1天",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_4638fcd92237562a"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_60d0467107a34fb8",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "初次来",
+    "advice": "不建议为了省几步路中轴线和东西宫来回穿梭",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_e6661c99c07e314a"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_933116a571949fa3",
+    "scenic_spot": "北京故宫",
+    "condition_type": "weather",
+    "condition_types": [
+      "weather"
+    ],
+    "condition": "晴天",
+    "advice": "带伞",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_2dcf2b1fe40cee8d"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_f4cf9268846f0ec6",
+    "scenic_spot": "北京故宫",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type",
+      "time"
+    ],
+    "condition": "带娃/赶时间",
+    "advice": "一、半天精华线",
+    "relation": "suitable_option",
+    "context": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+    "occurrences": [
+      "adv_a131dd9c19df5017"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_08bda3ac3c7fa082",
+    "scenic_spot": "九寨沟",
+    "condition_type": "time",
+    "condition_types": [
+      "time"
+    ],
+    "condition": "一天时间相对紧凑",
+    "advice": "建议早上早点出发进入景区，全程须采用观光车+步行的方式进行游览",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_225e91dcf0d7cf5e"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_1764e15489160cf7",
+    "scenic_spot": "九寨沟",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "初入高原的朋友",
+    "advice": "建议第一日尽量不进行剧烈的运动",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_9d9abb1c4118008f"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_09e920478603d5d3",
+    "scenic_spot": "九寨沟",
+    "condition_type": "time",
+    "condition_types": [
+      "time"
+    ],
+    "condition": "您时间充足",
+    "advice": "三天的时间您可以把九寨沟县城、九寨沟神仙池景区一并游览完",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_bdbcd9b910f146d4"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_724f69954993a3bd",
+    "scenic_spot": "九寨沟",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition"
+    ],
+    "condition": "远的路段",
+    "advice": "千万别硬走，乖乖坐车",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_556f220f80c503f5"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_8a526fe4ef0c3b2a",
+    "scenic_spot": "九寨沟",
+    "condition_type": "route",
+    "condition_types": [
+      "route"
+    ],
+    "condition": "是分配到右线开始",
+    "advice": "这边是建议放弃左线，深度玩右线",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_3ac63d92df13fa76"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_5ce68452cef81005",
+    "scenic_spot": "九寨沟",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "新手",
+    "advice": "可以直接抄",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_88053a47eebabfe8"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_693a68cf341a2d5d",
+    "scenic_spot": "九寨沟",
+    "condition_type": "time",
+    "condition_types": [
+      "time"
+    ],
+    "condition": "时间充裕",
+    "advice": "可顺带打卡：诺日朗瀑布、熊猫海、箭竹海",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_cae274c438640365"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_72b468cb9ab1b7cc",
+    "scenic_spot": "九寨沟",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition"
+    ],
+    "condition": "长距离",
+    "advice": "一定坐车",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_e795d1e0c9b25c70"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_94125f6382922c0e",
+    "scenic_spot": "九寨沟",
+    "condition_type": "route",
+    "condition_types": [
+      "route"
+    ],
+    "condition": "天鹅海→箭竹海",
+    "advice": "不建议徒步",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_1610e73b1e6184bf",
+      "adv_31b7996196214b7e"
+    ],
+    "dedup_method": "normalized_exact"
+  },
+  {
+    "mapping_id": "map_a5d68a31787783e6",
+    "scenic_spot": "九寨沟",
+    "condition_type": "route",
+    "condition_types": [
+      "route"
+    ],
+    "condition": "原始森林→芳草海→天鹅海",
+    "advice": "可以走，天鹅海结束直接坐车去箭竹海",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_e9356d04d1563899"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_731e3cc32a25eee1",
+    "scenic_spot": "九寨沟",
+    "condition_type": "route",
+    "condition_types": [
+      "route"
+    ],
+    "condition": "珍珠滩→珍珠滩瀑布",
+    "advice": "强烈推荐徒步",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_6f96a99966df6a3f"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_dbee2afa13823199",
+    "scenic_spot": "九寨沟",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition"
+    ],
+    "condition": "大距离移动",
+    "advice": "该坐观光车就坐",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_23f67f6e32c54c3c"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_9b74264f50f49bab",
+    "scenic_spot": "九寨沟",
+    "condition_type": "time",
+    "condition_types": [
+      "time"
+    ],
+    "condition": "不赶时间",
+    "advice": "慢慢走也可以",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_e4a3681f9f8f2bc2"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_b950d0ffdd323e0e",
+    "scenic_spot": "九寨沟",
+    "condition_type": "time",
+    "condition_types": [
+      "time"
+    ],
+    "condition": "下午的话",
+    "advice": "一定做好防晒，太阳很大，会比较晒",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_6daf96ec59b19ef1"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_f01a532ebadebcca",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "route",
+    "condition_types": [
+      "route"
+    ],
+    "condition": "漫步群山之余",
+    "advice": "千万注意脚下安全",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_f9df3994267a414f"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_a6c1739787de3358",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "weather",
+    "condition_types": [
+      "weather"
+    ],
+    "condition": "光线偏暗",
+    "advice": "建议穿浅色衣服",
+    "relation": "recommendation",
+    "context": "1️⃣ 柳浪闻莺（p1",
+    "occurrences": [
+      "adv_644d66fe0645a36d"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_4a2846f300f03e55",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "visitor_type",
+    "condition_types": [
+      "visitor_type"
+    ],
+    "condition": "想安安静静欣赏风景的人",
+    "advice": "5️⃣茅家埠",
+    "relation": "suitable_option",
+    "context": "5️⃣茅家埠（p8-10",
+    "occurrences": [
+      "adv_4461292cde131e17"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_64ff8aa7e4cbaa1d",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition"
+    ],
+    "condition": "还有力气",
+    "advice": "可以再走五百多米，就可以到上茅家埠茶园拍逛逛",
+    "relation": "recommendation",
+    "context": "6️⃣上茅家埠茶园（p11-12",
+    "occurrences": [
+      "adv_75f5af21a31b1566"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_de2bb27ad807b399",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition"
+    ],
+    "condition": "不想走路",
+    "advice": "直接坐观光车，单程20元",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_76cf6a077154f034"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_bd716ebec42ede3f",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "season",
+    "condition_types": [
+      "season"
+    ],
+    "condition": "每年3‑4月郁金香展",
+    "advice": "入园需要提前预约",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_8d1e81bf79ed30c7"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_5959be3ed642d791",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition"
+    ],
+    "condition": "体力一般",
+    "advice": "建议坐环湖观光车，或者分成2天慢慢玩",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_45774d293ee1f9d3"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_8ecfed26eb22f68e",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "transport",
+    "condition_types": [
+      "transport"
+    ],
+    "condition": "打算坐船",
+    "advice": "出门前留意天气预报",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_cdb9e23435460bc3"
+    ],
+    "dedup_method": "single"
+  },
+  {
+    "mapping_id": "map_97746c20d7334868",
+    "scenic_spot": "杭州西湖",
+    "condition_type": "physical_condition",
+    "condition_types": [
+      "physical_condition"
+    ],
+    "condition": "不想走路",
+    "advice": "直接坐西湖环湖观光小车",
+    "relation": "recommendation",
+    "context": null,
+    "occurrences": [
+      "adv_cbe744faa74f625d"
+    ],
+    "dedup_method": "single"
+  }
+]

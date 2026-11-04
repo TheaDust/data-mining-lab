@@ -1,0 +1,63 @@
+{
+  "inputs": {
+    "task1/data/final/documents.jsonl": "a00d04703a53c515a39a39a74582f1e6d00f7098474460eec7ecb93a722c3a65",
+    "task2/results/v2/entities.json": "ba18804ef40693ea6cd676a8facab9e97f598c9e74a2c0d842b3a732578fe87e",
+    "task3/samples.json": "3cfeb4fa08328c4b29231a86797a8e3a591a9677a1ec3fbd61a99d393a9cd359"
+  },
+  "official": {
+    "北京故宫": {
+      "routes": 4,
+      "steps": 24,
+      "timed_steps": 0,
+      "time_unspecified_steps": 24
+    },
+    "杭州西湖": {
+      "routes": 10,
+      "steps": 88,
+      "timed_steps": 0,
+      "time_unspecified_steps": 88
+    },
+    "九寨沟": {
+      "routes": 3,
+      "steps": 73,
+      "timed_steps": 15,
+      "time_unspecified_steps": 58
+    }
+  },
+  "visitor": {
+    "北京故宫": {
+      "routes": 1,
+      "steps": 6,
+      "timed_steps": 0,
+      "time_unspecified_steps": 6
+    },
+    "杭州西湖": {
+      "routes": 1,
+      "steps": 7,
+      "timed_steps": 0,
+      "time_unspecified_steps": 7
+    },
+    "九寨沟": {
+      "routes": 1,
+      "steps": 16,
+      "timed_steps": 16,
+      "time_unspecified_steps": 0
+    }
+  },
+  "slice_checks": 618,
+  "slice_failures": 0,
+  "issues": {
+    "unexpanded_component": 2,
+    "overlapping_time_ranges": 1,
+    "unordered_inventory": 1,
+    "ambiguous_poi": 3
+  },
+  "aliases": {
+    "北京故宫": {},
+    "杭州西湖": {},
+    "九寨沟": {
+      "天鹅湖": "天鹅海",
+      "诺日朗中心": "诺日朗中心站"
+    }
+  }
+}

@@ -1,0 +1,1712 @@
+[
+  {
+    "route_id": "gugong_user_generated_d927127c74a320bc_route_01",
+    "doc_id": "gugong_user_generated_d927127c74a320bc",
+    "scenic_spot": "北京故宫",
+    "source_type": "user_generated",
+    "url": "https://www.xiaohongshu.com/explore/69df5ab90000000021012e2a",
+    "route_name": "游客攻略：半天精华线",
+    "route_kind": "visitor_recommendation",
+    "duration_text": "2.5～3小时",
+    "duration_evidence": {
+      "text": "2.5～3小时",
+      "start": 43,
+      "end": 50
+    },
+    "components": [],
+    "steps": [
+      {
+        "step_id": 1,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "午门",
+        "pois": [
+          {
+            "text": "午门",
+            "start": 65,
+            "end": 67,
+            "name": "午门",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 65,
+              "end": 67,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "安检检票",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "1. 午门进 ➡️ 安检检票👮",
+          "start": 62,
+          "end": 77
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 2,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "太和殿 → 中和殿 → 保和殿",
+        "pois": [
+          {
+            "text": "太和殿",
+            "start": 87,
+            "end": 90,
+            "name": "太和殿",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 87,
+              "end": 90,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "中和殿",
+            "start": 94,
+            "end": 97,
+            "name": "中和殿",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 94,
+              "end": 97,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "保和殿",
+            "start": 101,
+            "end": 104,
+            "name": "保和殿",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 101,
+              "end": 104,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "2. 沿中轴线走：太和殿 ➡️ 中和殿 ➡️ 保和殿🏯",
+          "start": 78,
+          "end": 105
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 3,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "乾清门 → 乾清宫 → 交泰殿 → 坤宁宫",
+        "pois": [
+          {
+            "text": "乾清门",
+            "start": 109,
+            "end": 112,
+            "name": "乾清门",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 109,
+              "end": 112,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "乾清宫",
+            "start": 116,
+            "end": 119,
+            "name": "乾清宫",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 116,
+              "end": 119,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "交泰殿",
+            "start": 123,
+            "end": 126,
+            "name": "交泰殿",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 123,
+              "end": 126,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "坤宁宫",
+            "start": 130,
+            "end": 133,
+            "name": "坤宁宫",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 130,
+              "end": 133,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "3. 乾清门 ➡️ 乾清宫 ➡️ 交泰殿 ➡️ 坤宁宫🏺",
+          "start": 106,
+          "end": 134
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 4,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "御花园",
+        "pois": [
+          {
+            "text": "御花园",
+            "start": 138,
+            "end": 141,
+            "name": "御花园",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 138,
+              "end": 141,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "拍照、休息",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "4. 御花园逛一圈，拍照休息🌸",
+          "start": 135,
+          "end": 150
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 5,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "珍宝馆 → 钟表馆",
+        "pois": [
+          {
+            "text": "珍宝馆",
+            "start": 158,
+            "end": 161,
+            "name": "珍宝馆",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 158,
+              "end": 161,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "钟表馆",
+            "start": 170,
+            "end": 173,
+            "name": "钟表馆",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 170,
+              "end": 173,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "5. 往东走：珍宝馆（必看）💎 ➡️ 钟表馆⏰",
+          "start": 151,
+          "end": 174
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 6,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "神武门",
+        "pois": [
+          {
+            "text": "神武门",
+            "start": 181,
+            "end": 184,
+            "name": "神武门",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 181,
+              "end": 184,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "6. 最后从神武门出🚪",
+          "start": 175,
+          "end": 186
+        },
+        "visit_mode": "unspecified"
+      }
+    ],
+    "issues": [],
+    "selection": {
+      "doc_id": "gugong_user_generated_d927127c74a320bc",
+      "route_name": "游客攻略：半天精华线",
+      "route_kind": "visitor_recommendation",
+      "mode": "numbered",
+      "start_marker": "一、半天精华线",
+      "end_marker": "二、全天深度线",
+      "comparison_reason": "与官方路线一比较中轴线覆盖和访问顺序；该文是游客发布的推荐攻略，未证明为实际轨迹。"
+    },
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_user_generated_d439099980d19760_route_01",
+    "doc_id": "xihu_user_generated_d439099980d19760",
+    "scenic_spot": "杭州西湖",
+    "source_type": "user_generated",
+    "url": "https://www.xiaohongshu.com/explore/6ab491ba000000001400278d",
+    "route_name": "游客攻略：观光车与坐船精华线",
+    "route_kind": "visitor_recommendation",
+    "duration_text": null,
+    "duration_evidence": null,
+    "components": [],
+    "steps": [
+      {
+        "step_id": 1,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "柳浪闻莺",
+        "pois": [
+          {
+            "text": "柳浪闻莺",
+            "start": 72,
+            "end": 76,
+            "name": "柳浪闻莺",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 72,
+              "end": 76,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "柳浪闻莺",
+          "start": 72,
+          "end": 76
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 2,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "雷峰塔",
+        "pois": [
+          {
+            "text": "雷峰塔",
+            "start": 84,
+            "end": 87,
+            "name": "雷峰塔",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 84,
+              "end": 87,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "观光车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "观光车直达雷峰塔",
+          "start": 79,
+          "end": 87
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 3,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "净慈寺",
+        "pois": [
+          {
+            "text": "净慈寺",
+            "start": 90,
+            "end": 93,
+            "name": "净慈寺",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 90,
+              "end": 93,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "净慈寺",
+          "start": 90,
+          "end": 93
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 4,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "三潭印月",
+        "pois": [
+          {
+            "text": "三潭印月",
+            "start": 99,
+            "end": 103,
+            "name": "三潭印月",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 99,
+              "end": 103,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "坐船",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "坐船游三潭印月",
+          "start": 96,
+          "end": 103
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 5,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "花港观鱼",
+        "pois": [
+          {
+            "text": "花港观鱼",
+            "start": 106,
+            "end": 110,
+            "name": "花港观鱼",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 106,
+              "end": 110,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "登岸",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "花港观鱼登岸",
+          "start": 106,
+          "end": 112
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 6,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "曲院风荷",
+        "pois": [
+          {
+            "text": "曲院风荷",
+            "start": 115,
+            "end": 119,
+            "name": "曲院风荷",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 115,
+              "end": 119,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "曲院风荷",
+          "start": 115,
+          "end": 119
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 7,
+        "day": 1,
+        "time_text": null,
+        "time_period": null,
+        "time_evidence": null,
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": null,
+        "poi": "断桥残雪",
+        "pois": [
+          {
+            "text": "断桥残雪",
+            "start": 122,
+            "end": 126,
+            "name": "断桥残雪",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 122,
+              "end": 126,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "参观",
+        "activity_inferred": true,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "断桥残雪",
+          "start": 122,
+          "end": 126
+        },
+        "visit_mode": "unspecified"
+      }
+    ],
+    "issues": [],
+    "selection": {
+      "doc_id": "xihu_user_generated_d439099980d19760",
+      "route_name": "游客攻略：观光车与坐船精华线",
+      "route_kind": "visitor_recommendation",
+      "mode": "chain",
+      "start_marker": "全程路线：",
+      "end_marker": "🌿【第一站",
+      "comparison_reason": "与官方西湖十景文化线比较；两者均围绕环湖精华景观。游客文字按推荐路线处理，不当作定位轨迹。"
+    },
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "jiuzhaigou_user_generated_292a4ed7e67255de_route_01",
+    "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+    "scenic_spot": "九寨沟",
+    "source_type": "user_generated",
+    "url": "https://www.xiaohongshu.com/explore/6ad59171000000002702312a",
+    "route_name": "游客实走：九寨沟全线一日速通",
+    "route_kind": "visitor_actual",
+    "duration_text": null,
+    "duration_evidence": null,
+    "components": [],
+    "steps": [
+      {
+        "step_id": 1,
+        "day": 1,
+        "time_text": "10：00",
+        "time_period": "上午",
+        "time_evidence": {
+          "text": "10：00",
+          "start": 88,
+          "end": 93
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 600,
+        "poi": "",
+        "pois": [],
+        "poi_order": "single",
+        "activity": "到达景区",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "10：00 到达景区，自助寄存、检票",
+          "start": 88,
+          "end": 106
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 2,
+        "day": 1,
+        "time_text": "10：15",
+        "time_period": "上午",
+        "time_evidence": {
+          "text": "10：15",
+          "start": 107,
+          "end": 112
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 615,
+        "poi": "",
+        "pois": [],
+        "poi_order": "single",
+        "activity": "摆渡车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "10：15 上景区门口摆渡车",
+          "start": 107,
+          "end": 121
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 3,
+        "day": 1,
+        "time_text": "10：30",
+        "time_period": "上午",
+        "time_evidence": {
+          "text": "10：30",
+          "start": 122,
+          "end": 127
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 630,
+        "poi": "树正寨 → 树正群海 → 树正瀑布 → 老虎海 → 犀牛海",
+        "pois": [
+          {
+            "text": "树正寨",
+            "start": 132,
+            "end": 135,
+            "name": "树正寨",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 132,
+              "end": 135,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "树正群海",
+            "start": 141,
+            "end": 145,
+            "name": "树正群海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 141,
+              "end": 145,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "树正瀑布",
+            "start": 146,
+            "end": 150,
+            "name": "树正瀑布",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 146,
+              "end": 150,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "老虎海",
+            "start": 151,
+            "end": 154,
+            "name": "老虎海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 151,
+              "end": 154,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "犀牛海",
+            "start": 155,
+            "end": 158,
+            "name": "犀牛海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 155,
+              "end": 158,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "下车、步行",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "10：30 被分配到树正寨下车，⭐步行树正群海-树正瀑布-老虎海-犀牛海（中线上段）",
+          "start": 122,
+          "end": 164
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 4,
+        "day": 1,
+        "time_text": "11：10",
+        "time_period": "上午",
+        "time_evidence": {
+          "text": "11：10",
+          "start": 165,
+          "end": 170
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 670,
+        "poi": "犀牛海",
+        "pois": [
+          {
+            "text": "犀牛海",
+            "start": 171,
+            "end": 174,
+            "name": "犀牛海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 171,
+              "end": 174,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "上车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "11：10 犀牛海上车，分配到右线",
+          "start": 165,
+          "end": 182
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 5,
+        "day": 1,
+        "time_text": "11：50",
+        "time_period": "中午",
+        "time_evidence": {
+          "text": "11：50",
+          "start": 183,
+          "end": 188
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 710,
+        "poi": "原始森林 → 原始森林 → 芳草海 → 天鹅海",
+        "pois": [
+          {
+            "text": "原始森林",
+            "start": 189,
+            "end": 193,
+            "name": "原始森林",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 189,
+              "end": 193,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "原始森林",
+            "start": 199,
+            "end": 203,
+            "name": "原始森林",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 199,
+              "end": 203,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "芳草海",
+            "start": 204,
+            "end": 207,
+            "name": "芳草海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 204,
+              "end": 207,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "天鹅海",
+            "start": 208,
+            "end": 211,
+            "name": "天鹅海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 208,
+              "end": 211,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "下车、步行",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "11：50 原始森林下车，⭐步行原始森林-芳草海-天鹅海（右线上段）",
+          "start": 183,
+          "end": 217
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 6,
+        "day": 1,
+        "time_text": "12：45",
+        "time_period": "中午",
+        "time_evidence": {
+          "text": "12：45",
+          "start": 218,
+          "end": 223
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 765,
+        "poi": "天鹅海",
+        "pois": [
+          {
+            "text": "天鹅海",
+            "start": 224,
+            "end": 227,
+            "name": "天鹅海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 224,
+              "end": 227,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "上车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "12：45 天鹅海上车",
+          "start": 218,
+          "end": 229
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 7,
+        "day": 1,
+        "time_text": "12：55",
+        "time_period": "中午",
+        "time_evidence": {
+          "text": "12：55",
+          "start": 230,
+          "end": 235
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 775,
+        "poi": "箭竹海 → 箭竹海 → 熊猫海 → 五花海 → 珍珠滩 → 镜海",
+        "pois": [
+          {
+            "text": "箭竹海",
+            "start": 236,
+            "end": 239,
+            "name": "箭竹海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 236,
+              "end": 239,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "箭竹海",
+            "start": 245,
+            "end": 248,
+            "name": "箭竹海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 245,
+              "end": 248,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "熊猫海",
+            "start": 249,
+            "end": 252,
+            "name": "熊猫海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 249,
+              "end": 252,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "五花海",
+            "start": 253,
+            "end": 256,
+            "name": "五花海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 253,
+              "end": 256,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "珍珠滩",
+            "start": 257,
+            "end": 260,
+            "name": "珍珠滩",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 257,
+              "end": 260,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "镜海",
+            "start": 261,
+            "end": 263,
+            "name": "镜海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 261,
+              "end": 263,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "下车、步行",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "12：55 箭竹海下车，⭐步行箭竹海-熊猫海-五花海-珍珠滩-镜海（右线下段）",
+          "start": 230,
+          "end": 269
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 8,
+        "day": 1,
+        "time_text": "15：00",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "15：00",
+          "start": 270,
+          "end": 275
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 900,
+        "poi": "镜海",
+        "pois": [
+          {
+            "text": "镜海",
+            "start": 276,
+            "end": 278,
+            "name": "镜海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 276,
+              "end": 278,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "上车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "15：00 镜海上车，右线结束",
+          "start": 270,
+          "end": 285
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 9,
+        "day": 1,
+        "time_text": "15：10",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "15：10",
+          "start": 286,
+          "end": 291
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 910,
+        "poi": "诺日朗中心站",
+        "pois": [
+          {
+            "text": "诺日朗中心",
+            "start": 292,
+            "end": 297,
+            "name": "诺日朗中心站",
+            "normalized": true,
+            "kind": "station",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 292,
+              "end": 297,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "换车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "15：10 诺日朗中心换车，去左线",
+          "start": 286,
+          "end": 303
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 10,
+        "day": 1,
+        "time_text": "15：35",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "15：35",
+          "start": 304,
+          "end": 309
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 935,
+        "poi": "长海 → 长海 → 五彩池",
+        "pois": [
+          {
+            "text": "长海",
+            "start": 310,
+            "end": 312,
+            "name": "长海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 310,
+              "end": 312,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "长海",
+            "start": 318,
+            "end": 320,
+            "name": "长海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 318,
+              "end": 320,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "五彩池",
+            "start": 321,
+            "end": 324,
+            "name": "五彩池",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 321,
+              "end": 324,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "下车、步行",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "15：35 长海下车，⭐步行长海-五彩池（左线）",
+          "start": 304,
+          "end": 328
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 11,
+        "day": 1,
+        "time_text": "16：05",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "16：05",
+          "start": 329,
+          "end": 334
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 965,
+        "poi": "五彩池 → 诺日朗",
+        "pois": [
+          {
+            "text": "五彩池",
+            "start": 335,
+            "end": 338,
+            "name": "五彩池",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 335,
+              "end": 338,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "诺日朗",
+            "start": 341,
+            "end": 344,
+            "name": "诺日朗",
+            "normalized": false,
+            "kind": "unresolved",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 341,
+              "end": 344,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "上车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "16：05 五彩池等车回诺日朗，此时左线返程高峰，等了10分钟上车",
+          "start": 329,
+          "end": 362
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 12,
+        "day": 1,
+        "time_text": "16：30",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "16：30",
+          "start": 363,
+          "end": 368
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 990,
+        "poi": "诺日朗 → 诺日朗瀑布",
+        "pois": [
+          {
+            "text": "诺日朗",
+            "start": 369,
+            "end": 372,
+            "name": "诺日朗",
+            "normalized": false,
+            "kind": "unresolved",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 369,
+              "end": 372,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "诺日朗瀑布",
+            "start": 378,
+            "end": 383,
+            "name": "诺日朗瀑布",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 378,
+              "end": 383,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "下车、步行",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "16：30 诺日朗下车，⭐步行诺日朗瀑布",
+          "start": 363,
+          "end": 383
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 13,
+        "day": 1,
+        "time_text": "16：50",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "16：50",
+          "start": 384,
+          "end": 389
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 1010,
+        "poi": "诺日朗",
+        "pois": [
+          {
+            "text": "诺日朗",
+            "start": 390,
+            "end": 393,
+            "name": "诺日朗",
+            "normalized": false,
+            "kind": "unresolved",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 390,
+              "end": 393,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "上车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "16：50 诺日朗上车",
+          "start": 384,
+          "end": 395
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 14,
+        "day": 1,
+        "time_text": "17：00",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "17：00",
+          "start": 396,
+          "end": 401
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 1020,
+        "poi": "火花海 → 火花海 → 双龙海 → 芦苇海 → 盆景滩",
+        "pois": [
+          {
+            "text": "火花海",
+            "start": 402,
+            "end": 405,
+            "name": "火花海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 402,
+              "end": 405,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "火花海",
+            "start": 411,
+            "end": 414,
+            "name": "火花海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 411,
+              "end": 414,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "双龙海",
+            "start": 415,
+            "end": 418,
+            "name": "双龙海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 415,
+              "end": 418,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "芦苇海",
+            "start": 419,
+            "end": 422,
+            "name": "芦苇海",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 419,
+              "end": 422,
+              "type": "POI"
+            }
+          },
+          {
+            "text": "盆景滩",
+            "start": 423,
+            "end": 426,
+            "name": "盆景滩",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 423,
+              "end": 426,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "explicit",
+        "activity": "下车、步行",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "17：00 火花海下车，⭐步行火花海-双龙海-芦苇海-盆景滩（中线下段）",
+          "start": 396,
+          "end": 432
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 15,
+        "day": 1,
+        "time_text": "17：35",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "17：35",
+          "start": 433,
+          "end": 438
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 1055,
+        "poi": "盆景滩",
+        "pois": [
+          {
+            "text": "盆景滩",
+            "start": 439,
+            "end": 442,
+            "name": "盆景滩",
+            "normalized": false,
+            "kind": "poi",
+            "scope": "scenic_area",
+            "entity_ref": {
+              "start": 439,
+              "end": 442,
+              "type": "POI"
+            }
+          }
+        ],
+        "poi_order": "single",
+        "activity": "上车",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "17：35 盆景滩上车",
+          "start": 433,
+          "end": 444
+        },
+        "visit_mode": "unspecified"
+      },
+      {
+        "step_id": 16,
+        "day": 1,
+        "time_text": "17：45",
+        "time_period": "下午",
+        "time_evidence": {
+          "text": "17：45",
+          "start": 445,
+          "end": 450
+        },
+        "time_heading": null,
+        "clock_range_minutes": null,
+        "clock_point_minutes": 1065,
+        "poi": "",
+        "pois": [],
+        "poi_order": "single",
+        "activity": "出景区",
+        "activity_inferred": false,
+        "visit_duration_text": null,
+        "visit_duration_evidence": null,
+        "travel_duration_text": null,
+        "travel_duration_evidence": null,
+        "evidence": {
+          "text": "17：45 出景区",
+          "start": 445,
+          "end": 454
+        },
+        "visit_mode": "unspecified"
+      }
+    ],
+    "issues": [
+      {
+        "code": "ambiguous_poi",
+        "step_id": 11,
+        "message": "“诺日朗”单独出现时未消歧，保留原始提及，但不参与景点对比。"
+      },
+      {
+        "code": "ambiguous_poi",
+        "step_id": 12,
+        "message": "“诺日朗”单独出现时未消歧，保留原始提及，但不参与景点对比。"
+      },
+      {
+        "code": "ambiguous_poi",
+        "step_id": 13,
+        "message": "“诺日朗”单独出现时未消歧，保留原始提及，但不参与景点对比。"
+      }
+    ],
+    "selection": {
+      "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+      "route_name": "游客实走：九寨沟全线一日速通",
+      "route_kind": "visitor_actual",
+      "mode": "clock",
+      "start_marker": "10：00 到达景区",
+      "end_marker": "一日速通关键：",
+      "comparison_reason": "与官方一日精华游比较；作者明确记录实走时刻。只取入园至出园，排除成都至景区的外部接驳。"
+    },
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": "上午",
+            "step_ids": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "time_period": "中午",
+            "step_ids": [
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "time_period": "下午",
+            "step_ids": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

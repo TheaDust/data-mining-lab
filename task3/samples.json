@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "gugong_user_generated_d927127c74a320bc",
+    "route_name": "游客攻略：半天精华线",
+    "route_kind": "visitor_recommendation",
+    "mode": "numbered",
+    "start_marker": "一、半天精华线",
+    "end_marker": "二、全天深度线",
+    "comparison_reason": "与官方路线一比较中轴线覆盖和访问顺序；该文是游客发布的推荐攻略，未证明为实际轨迹。"
+  },
+  {
+    "doc_id": "xihu_user_generated_d439099980d19760",
+    "route_name": "游客攻略：观光车与坐船精华线",
+    "route_kind": "visitor_recommendation",
+    "mode": "chain",
+    "start_marker": "全程路线：",
+    "end_marker": "🌿【第一站",
+    "comparison_reason": "与官方西湖十景文化线比较；两者均围绕环湖精华景观。游客文字按推荐路线处理，不当作定位轨迹。"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+    "route_name": "游客实走：九寨沟全线一日速通",
+    "route_kind": "visitor_actual",
+    "mode": "clock",
+    "start_marker": "10：00 到达景区",
+    "end_marker": "一日速通关键：",
+    "comparison_reason": "与官方一日精华游比较；作者明确记录实走时刻。只取入园至出园，排除成都至景区的外部接驳。"
+  }
+]

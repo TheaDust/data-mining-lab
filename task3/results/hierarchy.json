@@ -1,0 +1,626 @@
+[
+  {
+    "route_id": "gugong_official_df6c311301c59157_route_01",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "route_name": "路线一(图中黄箭头)",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "gugong_official_df6c311301c59157_route_02",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "route_name": "路线二(图中绿箭头)",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "gugong_official_df6c311301c59157_route_03",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "route_name": "路线三(图中蓝箭头)",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "gugong_official_df6c311301c59157_route_04",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "route_name": "路线四(午门口紫色字)",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_01",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "“西湖十景”文化之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_02",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "“孤山雅赏”文化之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_03",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "“跟着马尔智走读西湖”文化之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_04",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "“梦回临安”南宋文化之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_05",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "“凤凰山中寻佛迹”吴越文化之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_06",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "“北山梦寻”北山街民国建筑之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_07",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "西湖“红色印记”之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_08",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "上香古道佛教文化之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_09",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "“寻觅失落的文化遗珍”清波之旅",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_official_7a3841720cf3aaa6_route_10",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "route_name": "龙井八景",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "jiuzhaigou_official_88ef5cc31789dc71_route_01",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "route_name": "一日精华游",
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": "上午",
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "time_period": "中午",
+            "step_ids": [
+              9
+            ]
+          },
+          {
+            "time_period": "下午",
+            "step_ids": [
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "jiuzhaigou_official_88ef5cc31789dc71_route_02",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "route_name": "二日舒适游",
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "jiuzhaigou_official_88ef5cc31789dc71_route_03",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "route_name": "三日多彩游",
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "gugong_user_generated_d927127c74a320bc_route_01",
+    "doc_id": "gugong_user_generated_d927127c74a320bc",
+    "scenic_spot": "北京故宫",
+    "route_name": "游客攻略：半天精华线",
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_user_generated_d439099980d19760_route_01",
+    "doc_id": "xihu_user_generated_d439099980d19760",
+    "scenic_spot": "杭州西湖",
+    "route_name": "游客攻略：观光车与坐船精华线",
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "jiuzhaigou_user_generated_292a4ed7e67255de_route_01",
+    "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+    "scenic_spot": "九寨沟",
+    "route_name": "游客实走：九寨沟全线一日速通",
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": "上午",
+            "step_ids": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "time_period": "中午",
+            "step_ids": [
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "time_period": "下午",
+            "step_ids": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

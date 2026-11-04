@@ -1,0 +1,941 @@
+[
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节，就可以开启自己的穿越之旅了。",
+    "start": 215,
+    "end": 266,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "走下保和殿后的丹陛，就可以看到内左门、乾清门、内右门，三道门内便是皇帝和家眷们居住的内廷，也就是\"后宫\"。",
+    "start": 932,
+    "end": 985,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "【适合人群】：对历史感兴趣的大神们",
+    "start": 1273,
+    "end": 1290,
+    "proposed_ids": [
+      "adv_c5501c30a9666d82"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "【适合人群】：对甄嬛传百看不厌的小主贝勒王爷们。",
+    "start": 2302,
+    "end": 2326,
+    "proposed_ids": [
+      "adv_e4d487b90baee9a4"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "逛完西六宫的三个小院落，向北可以进入御花园，出了神武门也就算离宫了。",
+    "start": 2927,
+    "end": 2961,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "在下卷描绘的西直门到神武门的庆寿图景里，可以逐一找到北京城重要的地理坐标，例如西四牌楼、北海永安寺白塔、北海团城等。",
+    "start": 3178,
+    "end": 3236,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "2.还有就是护城河边的角楼也是摄影爱好者的\"长枪短炮\"必到之地，在夕阳的映衬下，角楼倒映在旁边的护城河里，出神武门往东往西各有一个角楼，建议去西北角楼。",
+    "start": 3346,
+    "end": 3422,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队。",
+    "start": 3594,
+    "end": 3667,
+    "proposed_ids": [
+      "adv_758e8703f52ee18d"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪。",
+    "start": 3667,
+    "end": 3714,
+    "proposed_ids": [
+      "adv_6d216d23e6c557fa"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。",
+    "start": 3867,
+    "end": 3942,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。",
+    "start": 3943,
+    "end": 3972,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_spot": "北京故宫",
+    "text": "如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。",
+    "start": 4027,
+    "end": 4110,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_spot": "杭州西湖",
+    "text": "线路以探寻西湖南面凤凰山、玉皇山中的佛教石刻为主题，全程约3-4小时，漫步群山之余千万注意脚下安全。",
+    "start": 1237,
+    "end": 1287,
+    "proposed_ids": [
+      "adv_f9df3994267a414f"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "由于一天时间相对紧凑，建议早上早点出发进入景区，全程须采用观光车+步行的方式进行游览。",
+    "start": 297,
+    "end": 340,
+    "proposed_ids": [
+      "adv_225e91dcf0d7cf5e"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "一天的游览对体能有所要求，因此来到九寨沟的第一天晚上可以好好休息，第二天游览完景区之后，可以去观赏九寨沟藏羌原生态的《藏谜》表演，体验不一样的民族风情。",
+    "start": 1004,
+    "end": 1080,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "两天的时间对于游览九寨沟来说恰到好处，初入高原的朋友，建议第一日尽量不进行剧烈的运动，所以第一天是适应期，主要游览则渣洼沟和树正沟，第二天则是徒步居多，主要游览九寨沟的精华日则沟。",
+    "start": 1134,
+    "end": 1224,
+    "proposed_ids": [
+      "adv_9d9abb1c4118008f"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "第一天的游览时间很宽松，不会感到很疲惫，因此可以体验到丰富的娱乐活动，这里推荐您走进景区外的藏家乐，您能品尝到具有藏羌特色的地道饮食餐品：烤全羊，青稞酒，酥油茶，奶茶，手抓肉，羊排，牦牛肉等，前半场在藏家室内吃喝看表演，后半场在室外跳篝火锅庄，过程趣味十足。",
+    "start": 1287,
+    "end": 1416,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "第二天游览完后可以去到九寨天堂口，这里有特色藏羌歌舞、抛彩球、藏族傩戏、民间绝技等演出，还可以在此购买旅游纪念品，您也可以安排一场富有九寨沟藏羌民族原生态的《藏谜》表演，在一场气势恢宏的演出中体会到九寨原汁原味的文化，感受传承千年的故事和美丽的九寨沟传说。",
+    "start": 1498,
+    "end": 1626,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "如果您时间充足，那么三天的时间您可以把九寨沟县城、九寨沟神仙池景区一并游览完。",
+    "start": 1633,
+    "end": 1672,
+    "proposed_ids": [
+      "adv_bdbcd9b910f146d4"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "九寨沟县城比较小，可以悠闲地逛逛街，享受高原的时光；",
+    "start": 1672,
+    "end": 1698,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "您可以选择乘坐景区双层敞篷式观光大巴，一览雪山、红叶、碧水、绿草，化旅途劳顿为轻松休闲。",
+    "start": 1895,
+    "end": 1939,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "游览完神仙池景区后，您可以驱车来到九寨沟景区的漳扎镇，寻找合适的酒店，办理入住后便可以早早的休息，为第二天的行程养精蓄锐。",
+    "start": 1940,
+    "end": 2001,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "一天的游览时间很宽松，不会感到很疲惫，因此可以体验到丰富的娱乐活动，景区外有众多藏家乐可供选择，在这里您能品尝到具有藏羌特色的地道饮食餐品：烤全羊，青稞酒，酥油茶，奶茶，手抓肉，羊排，牦牛肉等，前半场在藏家室内吃喝看表演，后半场在室外跳篝火锅庄，过程趣味十足。",
+    "start": 2064,
+    "end": 2194,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_spot": "九寨沟",
+    "text": "第三天游览完后可以去到九寨天堂口，这里有特色藏羌歌舞、抛彩球、藏族傩戏、民间绝技等演出，还可以在此购买旅游纪念品，您也可以安排一场富有九寨沟藏羌民族原生态的《藏谜》表演，在一场气势恢宏的演出中体会到九寨原汁原味的文化，感受传承千年的故事和美丽的九寨沟传说。",
+    "start": 2276,
+    "end": 2404,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_spot": "北京故宫",
+    "text": "没约上可到展馆门口买（时间有限选珍宝馆！",
+    "start": 203,
+    "end": 223,
+    "proposed_ids": [
+      "adv_74af1859a2212a5c",
+      "adv_4bf4d7184c4ed98f"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_spot": "北京故宫",
+    "text": "第一次来一定留1天！",
+    "start": 274,
+    "end": 284,
+    "proposed_ids": [
+      "adv_4638fcd92237562a"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_spot": "北京故宫",
+    "text": "不推荐1-2小时的快速路线",
+    "start": 311,
+    "end": 324,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_spot": "北京故宫",
+    "text": "路线推荐】",
+    "start": 370,
+    "end": 375,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_spot": "北京故宫",
+    "text": "➠回到太和门沿中轴线一路向北感受大殿的气派（初次来不建议为了省几步路中轴线和东西宫来回穿梭！",
+    "start": 571,
+    "end": 617,
+    "proposed_ids": [
+      "adv_e6661c99c07e314a"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_spot": "北京故宫",
+    "text": "晴天带伞！",
+    "start": 819,
+    "end": 824,
+    "proposed_ids": [
+      "adv_2dcf2b1fe40cee8d"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_spot": "北京故宫",
+    "text": "冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里",
+    "start": 848,
+    "end": 873,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "scenic_spot": "北京故宫",
+    "text": "➡️带娃驻足可以告诉他：这里不是刑场，是六百年皇权的开端，也是溥仪一生浮沉的起点。",
+    "start": 271,
+    "end": 312,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "scenic_spot": "北京故宫",
+    "text": "➡️相较于游客只看建筑，带娃可以细讲：这里是皇帝的办公室，看似自由的皇权，实则被规矩牢牢束缚。",
+    "start": 497,
+    "end": 544,
+    "proposed_ids": [
+      "adv_f705dd5cefba510e"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "scenic_spot": "北京故宫",
+    "text": "➡️这里最适合亲子慢逛，没有拥挤人潮，能静静感受皇家生活的平淡与束缚。",
+    "start": 607,
+    "end": 642,
+    "proposed_ids": [
+      "adv_f522f6baf0c7b6d5"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_d927127c74a320bc",
+    "scenic_spot": "北京故宫",
+    "text": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+    "start": 35,
+    "end": 61,
+    "proposed_ids": [
+      "adv_a131dd9c19df5017"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_d927127c74a320bc",
+    "scenic_spot": "北京故宫",
+    "text": "三、实用小建议💡",
+    "start": 280,
+    "end": 288,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_spot": "北京故宫",
+    "text": "❌ 缺点：步行距离稍远，带老人小孩慎选",
+    "start": 191,
+    "end": 210,
+    "proposed_ids": [
+      "adv_3085117882955572"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_spot": "北京故宫",
+    "text": "❌ 缺点：中山公园 3 元门票，部分路段需绕路，赶时间慎选",
+    "start": 590,
+    "end": 619,
+    "proposed_ids": [
+      "adv_8059fa64123f56c4"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_spot": "北京故宫",
+    "text": "❌ 缺点：步行距离最远，适合体力好的年轻人",
+    "start": 728,
+    "end": 749,
+    "proposed_ids": [
+      "adv_83985ee17f13ba0a"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_spot": "北京故宫",
+    "text": "✅ 赶时间想省腿→选路线 3（记得早点去避安检高峰）",
+    "start": 766,
+    "end": 792,
+    "proposed_ids": [
+      "adv_47a27b0838af7e86"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_spot": "北京故宫",
+    "text": "✅ 带娃 / 带父母→选路线 2 或 4（距离适中不折腾）",
+    "start": 793,
+    "end": 822,
+    "proposed_ids": [
+      "adv_c1cf947718bd660f"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_spot": "北京故宫",
+    "text": "✅ 怕人多想清净→选路线 1 或 5（人少体验感拉满）",
+    "start": 823,
+    "end": 850,
+    "proposed_ids": [
+      "adv_7ba817bb576c0253"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_spot": "北京故宫",
+    "text": "✅ 想省钱不花额外门票→选路线 1/3/5",
+    "start": 851,
+    "end": 872,
+    "proposed_ids": [
+      "adv_912ce36a58f54c13"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_d439099980d19760",
+    "scenic_spot": "杭州西湖",
+    "text": "不想走路直接坐西湖环湖观光小车",
+    "start": 211,
+    "end": 226,
+    "proposed_ids": [
+      "adv_cbe744faa74f625d"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_d439099980d19760",
+    "scenic_spot": "杭州西湖",
+    "text": "可以简单祈福、拍照，人比灵隐寺少很多，超好出片！",
+    "start": 340,
+    "end": 364,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_spot": "杭州西湖",
+    "text": "花港观鱼可以喂锦鲤，带小朋友喜欢",
+    "start": 138,
+    "end": 154,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_spot": "杭州西湖",
+    "text": "平湖秋月人少清幽，可以坐下来吃吃东西吹吹风",
+    "start": 155,
+    "end": 176,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_spot": "杭州西湖",
+    "text": "坐船建议：",
+    "start": 177,
+    "end": 182,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_spot": "杭州西湖",
+    "text": "船身平稳不容易晕，还可以伸手碰湖水🫧",
+    "start": 188,
+    "end": 206,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_spot": "杭州西湖",
+    "text": "推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～",
+    "start": 207,
+    "end": 242,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "走完白堤就到，有空可以逛浙江省博物馆、西泠印社",
+    "start": 212,
+    "end": 235,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "不想走路直接坐观光车，单程20元",
+    "start": 342,
+    "end": 358,
+    "proposed_ids": [
+      "adv_76cf6a077154f034"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "⚠️每年3‑4月郁金香展，入园需要提前预约！",
+    "start": 412,
+    "end": 434,
+    "proposed_ids": [
+      "adv_8d1e81bf79ed30c7"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "按船收费，可以找人拼船；",
+    "start": 565,
+    "end": 577,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "花港观鱼、中山公园码头可以坐船去三潭印月",
+    "start": 577,
+    "end": 597,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+    "start": 630,
+    "end": 652,
+    "proposed_ids": [
+      "adv_45774d293ee1f9d3"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+    "start": 653,
+    "end": 680,
+    "proposed_ids": [
+      "adv_cdb9e23435460bc3"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_spot": "杭州西湖",
+    "text": "3️⃣ 这条路线也可以反向走",
+    "start": 681,
+    "end": 695,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "来杭州旅游，比起挤满人从众的断桥残雪、白堤更推荐大家走另一半西湖，以下点位都不需要门票，而且可以避开人流打卡到更多高颜值小众景点，轻松舒服的打开西湖一日游！",
+    "start": 0,
+    "end": 78,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "这个机位在公园里面，早上人很少还是蛮推荐大家去拍照的，光线偏暗建议穿浅色衣服。",
+    "start": 192,
+    "end": 231,
+    "proposed_ids": [
+      "adv_644d66fe0645a36d"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "前往太子湾公园会顺路看见雷峰塔，不建议大家花钱进去，就在西湖边拍个照就够了",
+    "start": 239,
+    "end": 276,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "花港公园(南2门)马路对面的小路走进去，就可以看到p2这个景点机位了。",
+    "start": 291,
+    "end": 326,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "之后沿着右手边木栈道就可以依次看到我拍的这些照片啦～",
+    "start": 326,
+    "end": 352,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "坐摇橹船游乌龟潭实在是太多人排队了，节假日很难抢到，大家可以骑行路过乌龟潭，也可以看到很好的风景，顺手拍一张摇橹船缓缓驶过的照片",
+    "start": 365,
+    "end": 429,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "一个冷门的宝藏景点，就在西湖的西侧是曾经的上香古道，景区人非常少，很适合想安安静静欣赏风景的人",
+    "start": 443,
+    "end": 490,
+    "proposed_ids": [
+      "adv_4461292cde131e17"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "scenic_spot": "杭州西湖",
+    "text": "如果还有力气可以再走五百多米，就可以到上茅家埠茶园拍逛逛，阴雨天的时候特别有氛围感",
+    "start": 508,
+    "end": 549,
+    "proposed_ids": [
+      "adv_75f5af21a31b1566"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_spot": "九寨沟",
+    "text": "核心思路：左线快速打卡 + 右线慢慢逛 + 最后树正沟顺路收尾，远的路段千万别硬走，乖乖坐车！",
+    "start": 52,
+    "end": 99,
+    "proposed_ids": [
+      "adv_556f220f80c503f5"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_spot": "九寨沟",
+    "text": "左线必须速刷，景色很普，看完就撤，留体力和时间给更好看的右线。",
+    "start": 161,
+    "end": 192,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_spot": "九寨沟",
+    "text": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道，美景尽收眼底，很推荐！",
+    "start": 215,
+    "end": 271,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_spot": "九寨沟",
+    "text": "树正群海 → 火花海 → 双龙海 → 芦苇海，一路往出口方向慢慢逛，其中芦苇海很绝，可以多加停留。",
+    "start": 578,
+    "end": 627,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_spot": "九寨沟",
+    "text": "如果是分配到右线开始：",
+    "start": 628,
+    "end": 639,
+    "proposed_ids": [
+      "adv_3ac63d92df13fa76"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_spot": "九寨沟",
+    "text": "这边是建议放弃左线，深度玩右线，因为五花海很吃光线，最佳观赏时间是中午和下午，所以早上就在原始森林慢悠悠的逛，然后10:00大概阳光出来了就开始从原始森林徒步到天鹅海。",
+    "start": 640,
+    "end": 724,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_spot": "九寨沟",
+    "text": "网上火的那些打卡点都能看到，新手可以直接抄。",
+    "start": 748,
+    "end": 770,
+    "proposed_ids": [
+      "adv_88053a47eebabfe8"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "实测：可以！",
+    "start": 12,
+    "end": 18,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "左线速通＋右线深玩＋树正沟收尾，长距离一定坐车！",
+    "start": 77,
+    "end": 101,
+    "proposed_ids": [
+      "adv_e795d1e0c9b25c70"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "左线我们选择速通，核心看完长海和五彩池就撤，把时间和体力留给右线。",
+    "start": 149,
+    "end": 182,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "原始森林我们没有走120米短线，而是选了约1200米森林栈道，个人很推荐！",
+    "start": 213,
+    "end": 250,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "⚠️这里特别提醒：天鹅海→箭竹海不建议徒步！",
+    "start": 312,
+    "end": 334,
+    "proposed_ids": [
+      "adv_1610e73b1e6184bf"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。",
+    "start": 352,
+    "end": 392,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+    "start": 393,
+    "end": 426,
+    "proposed_ids": [
+      "adv_e9356d04d1563899"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "尤其推荐：",
+    "start": 505,
+    "end": 510,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "📌如果让我重新走一次",
+    "start": 698,
+    "end": 708,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "❌ 天鹅海→箭竹海：距离远，不建议徒步",
+    "start": 754,
+    "end": 773,
+    "proposed_ids": [
+      "adv_31b7996196214b7e"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "✅ 珍珠滩→珍珠滩瀑布：强烈推荐徒步",
+    "start": 774,
+    "end": 792,
+    "proposed_ids": [
+      "adv_6f96a99966df6a3f"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "text": "🚌 大距离移动：该坐观光车就坐",
+    "start": 793,
+    "end": 808,
+    "proposed_ids": [
+      "adv_23f67f6e32c54c3c"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+    "scenic_spot": "九寨沟",
+    "text": "时间充裕可顺带打卡：诺日朗瀑布、熊猫海、箭竹海",
+    "start": 71,
+    "end": 94,
+    "proposed_ids": [
+      "adv_cae274c438640365"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+    "scenic_spot": "九寨沟",
+    "text": "可以顺路打卡看一看，但整体观赏性比较常规",
+    "start": 476,
+    "end": 496,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+    "scenic_spot": "九寨沟",
+    "text": "层层叠叠的海子清澈透亮，步步皆景，超级治愈，非常推荐慢慢逛",
+    "start": 602,
+    "end": 631,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+    "scenic_spot": "九寨沟",
+    "text": "体力消耗适中，游玩体验特别舒服！",
+    "start": 672,
+    "end": 688,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+    "scenic_spot": "九寨沟",
+    "text": "少背东西能节约大量体力！",
+    "start": 519,
+    "end": 531,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "scenic_spot": "九寨沟",
+    "text": "从这里都可以选择去任何一条线的～",
+    "start": 98,
+    "end": 114,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "scenic_spot": "九寨沟",
+    "text": "正好在有体力的时候先走完～",
+    "start": 142,
+    "end": 155,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "scenic_spot": "九寨沟",
+    "text": "看个人体力，这条的特点是芦苇搭配一条碧蓝色的溪流，我个人很喜欢～",
+    "start": 906,
+    "end": 938,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "scenic_spot": "九寨沟",
+    "text": "不赶时间慢慢走也可以，下午的话一定做好防晒，太阳很大，会比较晒～",
+    "start": 938,
+    "end": 970,
+    "proposed_ids": [
+      "adv_e4a3681f9f8f2bc2",
+      "adv_6daf96ec59b19ef1"
+    ],
+    "reason": "rule_proposal"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "scenic_spot": "九寨沟",
+    "text": "大多数站点都可停车，希望可以帮助到大家",
+    "start": 970,
+    "end": 989,
+    "proposed_ids": [],
+    "reason": "no_supported_condition_advice_pair"
+  }
+]
