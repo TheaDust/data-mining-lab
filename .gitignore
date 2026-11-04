@@ -9,3 +9,5 @@ __pycache__/
 /task1/crawler/results/
 *.log
 *.local.json
+
+.env
