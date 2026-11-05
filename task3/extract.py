@@ -9,7 +9,9 @@ ALIASES = {
     '九寨沟': {'天鹅湖': '天鹅海', '诺日朗中心': '诺日朗中心站'},
 }
 SURROUNDING = {'九寨沟县城', '九寨沟神仙池景区', '漳扎镇'}
-BOUNDARIES = {'沟口', '出沟', '游客中心'}
+BOUNDARIES = {'沟口', '出沟', '游客中心', '进景区'}
+COLLECTIVES = {'北京故宫': {'三大殿'}, '杭州西湖': set(), '九寨沟': {'树正区域'}}
+STATIONS = {'诺日朗中心站', '诺日朗中转', '镜海停车场'}
 CLOCK = re.compile(r'(?<!\d)([0-2]?\d)[：:]([0-5]\d)(?!\d)')
 RANGE = re.compile(r'(?<!\d)([0-2]?\d)[：:]([0-5]\d)\s*[-—–~～]\s*([0-2]?\d)[：:]([0-5]\d)(?!\d)')
 SPLIT = re.compile(r'➡\ufe0f?|→|—+|-')
@@ -57,7 +59,7 @@ def poi(doc, text, start, entities):
     return {
         **evidence(doc['clean_text'], start, end), 'name': name,
         'normalized': name != text,
-        'kind': 'boundary' if text in BOUNDARIES else 'station' if name == '诺日朗中心站' else 'unresolved' if name == '诺日朗' else 'poi',
+        'kind': 'boundary' if text in BOUNDARIES else 'station' if name in STATIONS else 'collective' if text in COLLECTIVES[doc['scenic_spot']] else 'unresolved' if name == '诺日朗' else 'poi',
         'scope': 'surrounding' if name in SURROUNDING else 'scenic_area',
         'entity_ref': next(({'start': start, 'end': end, 'type': 'POI'} for e in entities
                             if e['type'] == 'POI' and e['start'] == start and e['end'] == end), None),
@@ -106,7 +108,7 @@ def add_step(route, doc, value, offset, pois, day=None, period=None, time_headin
     if period is None and point is not None:
         period = period_at(point)
     time_ev = evidence(doc['clean_text'], offset + timing.start(), offset + timing.end()) if timing else None
-    actions = [m.group() for m in re.finditer(r'安检检票|换乘观光车|乘坐观光车|观光车|摆渡车|坐船|登岸|步行|乘车|用餐|休息|拍照|驱车|办理入住|游览|到达景区|出沟|出景区|上车|下车|换车', value)]
+    actions = [m.group() for m in re.finditer(r'安检检票|换乘观光车|乘坐观光车|观光车|摆渡车|坐船|登岸|步行|乘车|用餐|休息|拍照|驱车|办理入住|游览|到达景区|进景区|出沟|出景区|上车|下车|换车', value)]
     # Preserve travel vs visit durations; never divide one shared window among POIs.
     visit = re.search(r'游览时间(?P<duration>约?\d+(?:个多)?分钟)|(?P<duration2>约?\d+个多小时)游览时间', value)
     travel = re.search(r'约?\d+(?:个半)?分钟车程|约?\d+个半小时|约?\d+(?:个)?小时车程|一个小时车程|步行\d+分钟', value)
@@ -283,12 +285,24 @@ def visitor_routes(documents, entities, officials, selections):
         local_entities = [e for e in entities if e['doc_id'] == doc['doc_id']]
         route = new_route(doc, selection['route_name'], 1, selection['route_kind'])
         route['selection'] = selection
+        experience = selection.get('experience')
+        if experience:
+            field, quote = experience['field'], experience['text']
+            quote_start = doc[field].index(quote)
+            route['experience_evidence'] = ({**evidence(doc[field], quote_start, quote_start + len(quote)), 'field': field}
+                                            if field == 'clean_text' else {'field': field, 'text': quote})
         vocabulary = {p['text'] for r in officials if r['scenic_spot'] == doc['scenic_spot'] for s in r['steps'] for p in s['pois']}
         vocabulary.update(ALIASES[doc['scenic_spot']])
+        vocabulary.update(COLLECTIVES[doc['scenic_spot']])
+        vocabulary.update(BOUNDARIES)
+        vocabulary.update(STATIONS if doc['scenic_spot'] == '九寨沟' else ())
         text = doc['clean_text']
         start = text.index(selection['start_marker'])
         end = text.index(selection['end_marker'], start) if selection.get('end_marker') else len(text)
         block = text[start:end]
+        selected_lines = set(selection.get('include_lines', []))
+        matched_lines = set()
+        day = selection.get('day', 1)
         duration = re.search(r'(\d+(?:\.\d+)?[～~-]\d+(?:\.\d+)?小时)', block.split('\n', 1)[0])
         if duration:
             route['duration_text'] = duration[1]
@@ -296,6 +310,9 @@ def visitor_routes(documents, entities, officials, selections):
         for value, local in lines(block):
             offset = start + local
             mode = selection['mode']
+            if selected_lines and value not in selected_lines:
+                continue
+            matched_lines.add(value)
             if mode == 'numbered' and not re.match(r'\d+\.', value):
                 continue
             if mode == 'chain' and '→' not in value:
@@ -305,19 +322,25 @@ def visitor_routes(documents, entities, officials, selections):
             if mode == 'chain':
                 for fragment, pos in split_top(value, SPLIT):
                     fragment, a = trim(fragment, offset + pos)
-                    pois = match_pois(doc, fragment, a, local_entities, vocabulary)
+                    head = re.split(r'[（(]', fragment, maxsplit=1)[0]
+                    pois = match_pois(doc, head, a, local_entities, vocabulary)
                     if not pois:
                         route['issues'].append({'code': 'unmatched_route_node', 'evidence': evidence(text, a, a + len(fragment))})
-                    add_step(route, doc, fragment, a, pois, 1)
+                    add_step(route, doc, fragment, a, pois, day)
             else:
                 pois = match_pois(doc, value, offset, local_entities, vocabulary)
                 # Keep timed entry/exit and movement actions even without a named POI.
-                step = add_step(route, doc, value, offset, pois, 1)
+                step = add_step(route, doc, value, offset, pois, day)
                 if mode == 'clock' and len(pois) > 1:
                     step['poi_order'] = 'explicit'
                     step['poi'] = ' → '.join(p['name'] for p in pois)
-                if any(p['kind'] == 'unresolved' for p in pois):
-                    route['issues'].append({'code': 'ambiguous_poi', 'step_id': step['step_id'], 'message': '“诺日朗”单独出现时未消歧，保留原始提及，但不参与景点对比。'})
+        if selected_lines - matched_lines:
+            raise ValueError(f"Selected route lines not found: {selection['doc_id']}")
+        for step in route['steps']:
+            if any(p['kind'] == 'unresolved' for p in step['pois']):
+                route['issues'].append({'code': 'ambiguous_poi', 'step_id': step['step_id'], 'message': '“诺日朗”单独出现时未消歧，保留原始提及，但不参与景点对比。'})
+            if any(p['kind'] == 'collective' for p in step['pois']):
+                route['issues'].append({'code': 'unexpanded_collective', 'step_id': step['step_id'], 'message': '区域或集合节点保留原文，不展开为有序子景点；不参与具体景点覆盖指标。'})
         add_hierarchy(route)
         time_issues(route)
         routes.append(route)
@@ -376,6 +399,7 @@ def comparisons(officials, visitors):
             'scenic_spot': visitor['scenic_spot'],
             'official_route_id': official['route_id'], 'visitor_route_id': visitor['route_id'],
             'visitor_route_kind': visitor['route_kind'],
+            'visitor_route_name': visitor['route_name'],
             'selection_reason': visitor['selection']['comparison_reason'],
             'strict': metrics(sequence(official, False), sequence(visitor, False)),
             'normalized': metrics(sequence(official), sequence(visitor)),

@@ -104,7 +104,7 @@ class RouteTests(unittest.TestCase):
         self.assertIn('雷峰塔', xihu['normalized']['visitor_only'])
 
     def test_visitor_sample_scope_and_source_kind(self):
-        self.assertEqual([r['route_kind'] for r in self.visitors], ['visitor_recommendation', 'visitor_recommendation', 'visitor_actual'])
+        self.assertEqual([r['route_kind'] for r in self.visitors], ['visitor_recommendation', 'visitor_recommendation', 'visitor_actual', 'visitor_actual', 'visitor_actual', 'visitor_actual'])
         actual = self.visitors[2]
         self.assertEqual(len(actual['steps']), 16)
         self.assertEqual(actual['steps'][0]['time_text'], '10：00')
@@ -153,12 +153,62 @@ class RouteTests(unittest.TestCase):
 
     def test_three_way_comparison_and_elapsed_time(self):
         compared = comparisons(self.officials, self.visitors)
-        self.assertEqual(len(compared), 3)
+        self.assertEqual(len(compared), 6)
         self.assertEqual(compared[0]['normalized']['official_coverage'], 1)
         self.assertEqual(compared[1]['normalized']['official_coverage'], 0.5)
         self.assertEqual(compared[2]['time_comparison']['official_elapsed_minutes'], 635)
         self.assertEqual(compared[2]['time_comparison']['visitor_elapsed_minutes'], 465)
         self.assertEqual(compared[2]['time_comparison']['visitor_explicit_visit_durations'], 0)
+
+    def test_self_reported_samples_have_source_evidence(self):
+        by_id = {d['doc_id']: d for d in self.docs}
+        for route in self.visitors:
+            if route['route_kind'] == 'visitor_actual':
+                proof = route['experience_evidence']
+                self.assertIn(proof['text'], by_id[route['doc_id']][proof['field']])
+        self.assertEqual(self.visitors[4]['experience_evidence']['field'], 'title')
+        broken = copy.deepcopy(self.visitors[4])
+        broken['experience_evidence']['text'] = '不存在的实走证明'
+        with self.assertRaises(ValueError):
+            validate([broken], self.docs)
+
+    def test_parenthetical_landmark_is_not_a_visit(self):
+        route = self.visitors[4]
+        self.assertEqual(len(route['steps']), 6)
+        self.assertNotIn('太子湾公园', [p['text'] for s in route['steps'] for p in s['pois']])
+        step = next(s for s in route['steps'] if s['poi'] == '花港观鱼')
+        self.assertIn('对面就是太子湾公园', step['evidence']['text'])
+
+    def test_collective_nodes_are_not_expanded_into_leaf_visits(self):
+        palace = self.visitors[3]
+        collective = next(p for s in palace['steps'] for p in s['pois'] if p['text'] == '三大殿')
+        self.assertEqual(collective['kind'], 'collective')
+        self.assertNotIn('三大殿', sequence(palace))
+        self.assertFalse({'太和殿', '中和殿', '保和殿'} & set(sequence(palace)))
+        tree_region = next(p for s in self.visitors[5]['steps'] for p in s['pois'] if p['text'] == '树正区域')
+        self.assertEqual(tree_region['kind'], 'collective')
+
+    def test_selected_main_chains_exclude_warnings_and_repeated_highlights(self):
+        route = self.visitors[5]
+        text = next(d['clean_text'] for d in self.docs if d['doc_id'] == route['doc_id'])
+        spans = [(text.index(line), text.index(line) + len(line)) for line in route['selection']['include_lines']]
+        self.assertEqual(len(spans), 5)
+        self.assertTrue(all(any(a <= s['evidence']['start'] < s['evidence']['end'] <= b for a, b in spans) for s in route['steps']))
+        self.assertFalse(any('不建议' in s['evidence']['text'] or '尤其推荐' in s['evidence']['text'] for s in route['steps']))
+        self.assertEqual(sequence(route).count('箭竹海'), 1)
+        self.assertEqual(route['steps'][0]['pois'][0]['kind'], 'boundary')
+
+    def test_missing_selected_line_fails_instead_of_silently_shortening_route(self):
+        selection = copy.deepcopy(self.visitors[5]['selection'])
+        selection['include_lines'].append('原文中不存在的行程链')
+        with self.assertRaises(ValueError):
+            visitor_routes(self.docs, self.entities, self.officials, [selection])
+
+    def test_added_samples_do_not_invent_clock_periods_or_dates(self):
+        added = self.visitors[3:]
+        self.assertTrue(all(s['time_period'] is None for r in added for s in r['steps']))
+        self.assertTrue(all(s['day'] is None for r in added[:2] for s in r['steps']))
+        self.assertEqual(sum(s['time_period'] is not None for r in self.officials + self.visitors for s in r['steps']), 31)
 
 
 if __name__ == '__main__':

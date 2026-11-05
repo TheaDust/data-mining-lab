@@ -7,8 +7,10 @@ from pathlib import Path
 
 if __package__:
     from .extract import ALIASES, comparisons, official_routes, visitor_routes
+    from .figures import write_hierarchy_diagram
 else:
     from extract import ALIASES, comparisons, official_routes, visitor_routes
+    from figures import write_hierarchy_diagram
 
 
 ROOT = Path(__file__).resolve().parent
@@ -42,11 +44,15 @@ def check_evidence(value, text):
 
 def validate(routes, documents):
     by_id = {d['doc_id']: d['clean_text'] for d in documents}
+    source_docs = {d['doc_id']: d for d in documents}
     ids = [r['route_id'] for r in routes]
     if len(set(ids)) != len(ids):
         raise ValueError('Duplicate route IDs')
     anchors = 0
     for route in routes:
+        experience = route.get('experience_evidence')
+        if experience and experience['text'] not in source_docs[route['doc_id']][experience['field']]:
+            raise ValueError('Self-report evidence differs from its source field')
         steps = route['steps']
         if not steps or [s['step_id'] for s in steps] != list(range(1, len(steps) + 1)):
             raise ValueError(f"Empty or unordered steps: {route['route_id']}")
@@ -120,16 +126,18 @@ def write_quality(path, officials, visitors, comparisons_, anchors):
         '- 九寨沟一日游保存 15 个原文移动/活动段；15:40–17:00 的多站共用一个时间窗，不均分成各站时长。',
         '- 九寨沟末两段原文分别为 17:00–17:20 和 17:00–17：35，标记重叠，原值不改。',
         '- 二日、三日方案按 Day 标记组织；三日方案第一天含县城→神仙池→漳扎镇，外围节点保留 surrounding 范围；神仙池景点清单不当作访问顺序。',
-        '- 故宫和西湖游客样本是攻略推荐，九寨沟样本是作者自述实走；不能把三篇都视为实测轨迹。',
+        '- 六篇游客样本包含两篇推荐攻略和四篇作者自述；自述证据保存在 experience_evidence，标题中的“亲测”也明确标注来源字段，不等于独立验证的轨迹。',
+        '- 新增西湖家庭路线中“对面就是太子湾公园”只是方位说明，未生成访问节点；故宫“三大殿”和九寨沟“树正区域”按集合节点保留，不推断内部访问顺序。',
         '- 西湖“雷峰夕照/雷峰塔”“南屏晚钟/净慈寺”保持不同名称；景观主题与具体建筑不直接合并。',
         '- 只在明确路线片段中匹配 POI，V2 未识别的官方路线节点由结构规则补取；不把全文实体顺序用作路线。',
         '', '## 对比结果', '',
-        '| 景区 | 官方景点覆盖率 | 景点集合 Jaccard | 顺序相似度 |',
-        '|---|---:|---:|---:|',
+        '| 景区 | 游客样本 | 性质 | 官方景点覆盖率 | 景点集合 Jaccard | 顺序相似度 |',
+        '|---|---|---|---:|---:|---:|',
     ]
     for c in comparisons_:
         m = c['normalized']
-        content.append(f"| {c['scenic_spot']} | {m['official_coverage']:.1%} | {m['poi_jaccard']:.3f} | {m['order_similarity']:.3f} |")
+        kind = '作者自述' if c['visitor_route_kind'] == 'visitor_actual' else '推荐攻略'
+        content.append(f"| {c['scenic_spot']} | {c['visitor_route_name']} | {kind} | {m['official_coverage']:.1%} | {m['poi_jaccard']:.3f} | {m['order_similarity']:.3f} |")
     content += ['', '指标受样本、推荐主题和名称口径影响；不是抽取准确率，也不代表路线质量。公式与样本边界见 README.md。', '']
     path.write_text('\n'.join(content), encoding='utf-8')
 
@@ -155,6 +163,7 @@ def main():
     dump(out / 'visitor_routes.json', visitors)
     dump(out / 'hierarchy.json', [{k: r[k] for k in ('route_id', 'doc_id', 'scenic_spot', 'route_name', 'hierarchy')} for r in officials + visitors])
     write_hierarchy(out / 'hierarchy.md', officials + visitors)
+    write_hierarchy_diagram(out / 'hierarchy-overview.drawio', officials)
     dump(out / 'comparison.json', compared)
     fields = ('route_id', 'doc_id', 'scenic_spot', 'route_name', 'route_kind', 'step_id', 'day', 'time_text', 'time_period', 'poi', 'activity', 'activity_inferred', 'poi_order', 'visit_duration_text', 'travel_duration_text', 'source_text', 'start', 'end')
     with (out / 'steps.csv').open('w', encoding='utf-8-sig', newline='') as stream:
@@ -170,6 +179,13 @@ def main():
         'slice_checks': anchors, 'slice_failures': 0,
         'issues': dict(Counter(i['code'] for r in officials + visitors for i in r['issues'])),
         'aliases': ALIASES,
+        'visitor_kinds': dict(Counter(r['route_kind'] for r in visitors)),
+        'temporal_coverage': {
+            'total_steps': sum(len(r['steps']) for r in officials + visitors),
+            'known_period_steps': sum(s['time_period'] is not None for r in officials + visitors for s in r['steps']),
+            'unknown_period_steps': sum(s['time_period'] is None for r in officials + visitors for s in r['steps']),
+            'dated_steps': sum(s['day'] is not None for r in officials + visitors for s in r['steps']),
+        },
     }
     dump(out / 'summary.json', stats)
     write_quality(out / 'QUALITY.md', officials, visitors, compared, anchors)

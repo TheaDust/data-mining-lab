@@ -4,6 +4,7 @@
     "official_route_id": "gugong_official_df6c311301c59157_route_01",
     "visitor_route_id": "gugong_user_generated_d927127c74a320bc_route_01",
     "visitor_route_kind": "visitor_recommendation",
+    "visitor_route_name": "游客攻略：半天精华线",
     "selection_reason": "与官方路线一比较中轴线覆盖和访问顺序；该文是游客发布的推荐攻略，未证明为实际轨迹。",
     "strict": {
       "official_sequence": [
@@ -116,6 +117,7 @@
     "official_route_id": "xihu_official_7a3841720cf3aaa6_route_01",
     "visitor_route_id": "xihu_user_generated_d439099980d19760_route_01",
     "visitor_route_kind": "visitor_recommendation",
+    "visitor_route_name": "游客攻略：观光车与坐船精华线",
     "selection_reason": "与官方西湖十景文化线比较；两者均围绕环湖精华景观。游客文字按推荐路线处理，不当作定位轨迹。",
     "strict": {
       "official_sequence": [
@@ -222,6 +224,7 @@
     "official_route_id": "jiuzhaigou_official_88ef5cc31789dc71_route_01",
     "visitor_route_id": "jiuzhaigou_user_generated_292a4ed7e67255de_route_01",
     "visitor_route_kind": "visitor_actual",
+    "visitor_route_name": "游客实走：九寨沟全线一日速通",
     "selection_reason": "与官方一日精华游比较；作者明确记录实走时刻。只取入园至出园，排除成都至景区的外部接驳。",
     "strict": {
       "official_sequence": [
@@ -382,6 +385,373 @@
       "visitor_duration_text": null,
       "official_elapsed_minutes": 635,
       "visitor_elapsed_minutes": 465,
+      "official_explicit_visit_durations": 12,
+      "visitor_explicit_visit_durations": 0,
+      "note": "首末时刻差只表示所选片段的经过时间；不由到站时刻推算停留时长。官方原文时间冲突见路线 issues。"
+    }
+  },
+  {
+    "scenic_spot": "北京故宫",
+    "official_route_id": "gugong_official_df6c311301c59157_route_01",
+    "visitor_route_id": "gugong_user_generated_ac13633e735a71ff_route_01",
+    "visitor_route_kind": "visitor_actual",
+    "visitor_route_name": "游客自述：亲子历史主题线",
+    "selection_reason": "作者自述本次带孩子走进紫禁城，紧接着给出路线；与官方路线一比较。三大殿作为集合保留，不替作者推断三个殿的访问顺序。自述不等于独立核实的轨迹。",
+    "strict": {
+      "official_sequence": [
+        "午门",
+        "太和殿",
+        "中和殿",
+        "保和殿",
+        "乾清宫",
+        "交泰殿",
+        "坤宁宫",
+        "御花园",
+        "神武门"
+      ],
+      "visitor_sequence": [
+        "午门",
+        "内金水桥",
+        "乾清宫",
+        "养心殿",
+        "御花园",
+        "神武门"
+      ],
+      "shared_pois": [
+        "乾清宫",
+        "午门",
+        "御花园",
+        "神武门"
+      ],
+      "official_only": [
+        "中和殿",
+        "交泰殿",
+        "保和殿",
+        "坤宁宫",
+        "太和殿"
+      ],
+      "visitor_only": [
+        "养心殿",
+        "内金水桥"
+      ],
+      "official_coverage": 0.4444444444444444,
+      "poi_jaccard": 0.36363636363636365,
+      "lcs_length": 4,
+      "order_similarity": 0.5333333333333333
+    },
+    "normalized": {
+      "official_sequence": [
+        "午门",
+        "太和殿",
+        "中和殿",
+        "保和殿",
+        "乾清宫",
+        "交泰殿",
+        "坤宁宫",
+        "御花园",
+        "神武门"
+      ],
+      "visitor_sequence": [
+        "午门",
+        "内金水桥",
+        "乾清宫",
+        "养心殿",
+        "御花园",
+        "神武门"
+      ],
+      "shared_pois": [
+        "乾清宫",
+        "午门",
+        "御花园",
+        "神武门"
+      ],
+      "official_only": [
+        "中和殿",
+        "交泰殿",
+        "保和殿",
+        "坤宁宫",
+        "太和殿"
+      ],
+      "visitor_only": [
+        "养心殿",
+        "内金水桥"
+      ],
+      "official_coverage": 0.4444444444444444,
+      "poi_jaccard": 0.36363636363636365,
+      "lcs_length": 4,
+      "order_similarity": 0.5333333333333333
+    },
+    "time_comparison": {
+      "official_duration_text": null,
+      "visitor_duration_text": null,
+      "official_elapsed_minutes": null,
+      "visitor_elapsed_minutes": null,
+      "official_explicit_visit_durations": 0,
+      "visitor_explicit_visit_durations": 0,
+      "note": "首末时刻差只表示所选片段的经过时间；不由到站时刻推算停留时长。官方原文时间冲突见路线 issues。"
+    }
+  },
+  {
+    "scenic_spot": "杭州西湖",
+    "official_route_id": "xihu_official_7a3841720cf3aaa6_route_01",
+    "visitor_route_id": "xihu_user_generated_ddcb0707c1791565_route_01",
+    "visitor_route_kind": "visitor_actual",
+    "visitor_route_name": "游客自述：亲测家庭省力线",
+    "selection_reason": "标题明确声称亲测，正文给出家庭路线，按作者自述行程对比；未提供逐站时刻或轨迹。只取明确游览链，排除外部地铁接驳及括号中仅作方位说明的太子湾公园。",
+    "strict": {
+      "official_sequence": [
+        "柳浪闻莺",
+        "雷峰夕照",
+        "南屏晚钟",
+        "花港观鱼",
+        "三潭印月",
+        "双峰插云",
+        "苏堤春晓",
+        "曲院风荷",
+        "平湖秋月",
+        "断桥残雪"
+      ],
+      "visitor_sequence": [
+        "断桥残雪",
+        "白堤",
+        "平湖秋月",
+        "曲院风荷",
+        "花港观鱼",
+        "三潭印月"
+      ],
+      "shared_pois": [
+        "三潭印月",
+        "平湖秋月",
+        "断桥残雪",
+        "曲院风荷",
+        "花港观鱼"
+      ],
+      "official_only": [
+        "南屏晚钟",
+        "双峰插云",
+        "柳浪闻莺",
+        "苏堤春晓",
+        "雷峰夕照"
+      ],
+      "visitor_only": [
+        "白堤"
+      ],
+      "official_coverage": 0.5,
+      "poi_jaccard": 0.45454545454545453,
+      "lcs_length": 2,
+      "order_similarity": 0.25
+    },
+    "normalized": {
+      "official_sequence": [
+        "柳浪闻莺",
+        "雷峰夕照",
+        "南屏晚钟",
+        "花港观鱼",
+        "三潭印月",
+        "双峰插云",
+        "苏堤春晓",
+        "曲院风荷",
+        "平湖秋月",
+        "断桥残雪"
+      ],
+      "visitor_sequence": [
+        "断桥残雪",
+        "白堤",
+        "平湖秋月",
+        "曲院风荷",
+        "花港观鱼",
+        "三潭印月"
+      ],
+      "shared_pois": [
+        "三潭印月",
+        "平湖秋月",
+        "断桥残雪",
+        "曲院风荷",
+        "花港观鱼"
+      ],
+      "official_only": [
+        "南屏晚钟",
+        "双峰插云",
+        "柳浪闻莺",
+        "苏堤春晓",
+        "雷峰夕照"
+      ],
+      "visitor_only": [
+        "白堤"
+      ],
+      "official_coverage": 0.5,
+      "poi_jaccard": 0.45454545454545453,
+      "lcs_length": 2,
+      "order_similarity": 0.25
+    },
+    "time_comparison": {
+      "official_duration_text": "约3小时",
+      "visitor_duration_text": null,
+      "official_elapsed_minutes": null,
+      "visitor_elapsed_minutes": null,
+      "official_explicit_visit_durations": 0,
+      "visitor_explicit_visit_durations": 0,
+      "note": "首末时刻差只表示所选片段的经过时间；不由到站时刻推算停留时长。官方原文时间冲突见路线 issues。"
+    }
+  },
+  {
+    "scenic_spot": "九寨沟",
+    "official_route_id": "jiuzhaigou_official_88ef5cc31789dc71_route_01",
+    "visitor_route_id": "jiuzhaigou_user_generated_653f517e7ecb42a0_route_01",
+    "visitor_route_kind": "visitor_actual",
+    "visitor_route_name": "游客自述：一日三沟实测线",
+    "selection_reason": "作者明确标注实际路线，并记录实测进出园信息。提取五条主行程链，排除提醒、重复强调的局部路段及假设重游方案；未把首尾时刻分配给中间步骤。",
+    "strict": {
+      "official_sequence": [
+        "原始森林",
+        "芳草海",
+        "天鹅海",
+        "箭竹海",
+        "熊猫海",
+        "五花海",
+        "镜海",
+        "诺日朗群海",
+        "长海",
+        "五彩池",
+        "犀牛海",
+        "老虎海",
+        "树正瀑布",
+        "树正磨房",
+        "树正寨",
+        "卧龙海",
+        "双龙海",
+        "盆景滩"
+      ],
+      "visitor_sequence": [
+        "长海",
+        "五彩池",
+        "原始森林",
+        "芳草海",
+        "天鹅海",
+        "箭竹海",
+        "熊猫海",
+        "五花海",
+        "珍珠滩",
+        "珍珠滩瀑布",
+        "镜海",
+        "诺日朗瀑布",
+        "犀牛海",
+        "火花海",
+        "双龙海",
+        "芦苇海"
+      ],
+      "shared_pois": [
+        "五彩池",
+        "五花海",
+        "原始森林",
+        "双龙海",
+        "天鹅海",
+        "熊猫海",
+        "犀牛海",
+        "箭竹海",
+        "芳草海",
+        "镜海",
+        "长海"
+      ],
+      "official_only": [
+        "卧龙海",
+        "树正寨",
+        "树正瀑布",
+        "树正磨房",
+        "盆景滩",
+        "老虎海",
+        "诺日朗群海"
+      ],
+      "visitor_only": [
+        "火花海",
+        "珍珠滩",
+        "珍珠滩瀑布",
+        "芦苇海",
+        "诺日朗瀑布"
+      ],
+      "official_coverage": 0.6111111111111112,
+      "poi_jaccard": 0.4782608695652174,
+      "lcs_length": 9,
+      "order_similarity": 0.5294117647058824
+    },
+    "normalized": {
+      "official_sequence": [
+        "原始森林",
+        "芳草海",
+        "天鹅海",
+        "箭竹海",
+        "熊猫海",
+        "五花海",
+        "镜海",
+        "诺日朗群海",
+        "长海",
+        "五彩池",
+        "犀牛海",
+        "老虎海",
+        "树正瀑布",
+        "树正磨房",
+        "树正寨",
+        "卧龙海",
+        "双龙海",
+        "盆景滩"
+      ],
+      "visitor_sequence": [
+        "长海",
+        "五彩池",
+        "原始森林",
+        "芳草海",
+        "天鹅海",
+        "箭竹海",
+        "熊猫海",
+        "五花海",
+        "珍珠滩",
+        "珍珠滩瀑布",
+        "镜海",
+        "诺日朗瀑布",
+        "犀牛海",
+        "火花海",
+        "双龙海",
+        "芦苇海"
+      ],
+      "shared_pois": [
+        "五彩池",
+        "五花海",
+        "原始森林",
+        "双龙海",
+        "天鹅海",
+        "熊猫海",
+        "犀牛海",
+        "箭竹海",
+        "芳草海",
+        "镜海",
+        "长海"
+      ],
+      "official_only": [
+        "卧龙海",
+        "树正寨",
+        "树正瀑布",
+        "树正磨房",
+        "盆景滩",
+        "老虎海",
+        "诺日朗群海"
+      ],
+      "visitor_only": [
+        "火花海",
+        "珍珠滩",
+        "珍珠滩瀑布",
+        "芦苇海",
+        "诺日朗瀑布"
+      ],
+      "official_coverage": 0.6111111111111112,
+      "poi_jaccard": 0.4782608695652174,
+      "lcs_length": 9,
+      "order_similarity": 0.5294117647058824
+    },
+    "time_comparison": {
+      "official_duration_text": null,
+      "visitor_duration_text": null,
+      "official_elapsed_minutes": 635,
+      "visitor_elapsed_minutes": null,
       "official_explicit_visit_durations": 12,
       "visitor_explicit_visit_durations": 0,
       "note": "首末时刻差只表示所选片段的经过时间；不由到站时刻推算停留时长。官方原文时间冲突见路线 issues。"

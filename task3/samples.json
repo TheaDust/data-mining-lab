@@ -24,6 +24,46 @@
     "mode": "clock",
     "start_marker": "10：00 到达景区",
     "end_marker": "一日速通关键：",
+    "experience": {"field": "clean_text", "text": "直到我去了九寨沟"},
     "comparison_reason": "与官方一日精华游比较；作者明确记录实走时刻。只取入园至出园，排除成都至景区的外部接驳。"
+  },
+  {
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "route_name": "游客自述：亲子历史主题线",
+    "route_kind": "visitor_actual",
+    "mode": "chain",
+    "day": null,
+    "start_marker": "📍路线：",
+    "end_marker": "午门｜溥仪的人生开篇",
+    "experience": {"field": "clean_text", "text": "这一次带着孩子走进紫禁城"},
+    "comparison_reason": "作者自述本次带孩子走进紫禁城，紧接着给出路线；与官方路线一比较。三大殿作为集合保留，不替作者推断三个殿的访问顺序。自述不等于独立核实的轨迹。"
+  },
+  {
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "route_name": "游客自述：亲测家庭省力线",
+    "route_kind": "visitor_actual",
+    "mode": "chain",
+    "day": null,
+    "start_marker": "断桥残雪→白堤",
+    "end_marker": "✅ 为什么这条路线全家走都很轻松",
+    "experience": {"field": "title", "text": "亲测带上老小都很轻松"},
+    "comparison_reason": "标题明确声称亲测，正文给出家庭路线，按作者自述行程对比；未提供逐站时刻或轨迹。只取明确游览链，排除外部地铁接驳及括号中仅作方位说明的太子湾公园。"
+  },
+  {
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "route_name": "游客自述：一日三沟实测线",
+    "route_kind": "visitor_actual",
+    "mode": "chain",
+    "start_marker": "📍我们的实际路线：",
+    "end_marker": "最后一路往出口方向玩，18:10正式出沟。",
+    "include_lines": [
+      "进景区 → 🚌长海 → 五彩池 → 🚌诺日朗中转",
+      "诺日朗 → 🚌原始森林",
+      "原始森林 → 芳草海 → 天鹅海 → 🚌箭竹海",
+      "箭竹海 → 熊猫海 → 五花海 → 珍珠滩 → 珍珠滩瀑布 → 镜海",
+      "诺日朗瀑布 → 犀牛海 → 树正区域 → 火花海 → 双龙海 → 芦苇海 → 出沟"
+    ],
+    "experience": {"field": "clean_text", "text": "实测：可以！我们最后接近3万步，8点45进园区18:10才出沟。"},
+    "comparison_reason": "作者明确标注实际路线，并记录实测进出园信息。提取五条主行程链，排除提醒、重复强调的局部路段及假设重游方案；未把首尾时刻分配给中间步骤。"
   }
 ]

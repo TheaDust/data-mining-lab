@@ -213,3 +213,39 @@ jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_29
 jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,14,1,17：00,下午,火花海 → 火花海 → 双龙海 → 芦苇海 → 盆景滩,下车、步行,False,explicit,,,17：00 火花海下车，⭐步行火花海-双龙海-芦苇海-盆景滩（中线下段）,396,432
 jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,15,1,17：35,下午,盆景滩,上车,False,single,,,17：35 盆景滩上车,433,444
 jiuzhaigou_user_generated_292a4ed7e67255de_route_01,jiuzhaigou_user_generated_292a4ed7e67255de,九寨沟,游客实走：九寨沟全线一日速通,visitor_actual,16,1,17：45,下午,,出景区,False,single,,,17：45 出景区,445,454
+gugong_user_generated_ac13633e735a71ff_route_01,gugong_user_generated_ac13633e735a71ff,北京故宫,游客自述：亲子历史主题线,visitor_actual,1,,,,午门,参观,True,single,,,📍路线：午门,160,166
+gugong_user_generated_ac13633e735a71ff_route_01,gugong_user_generated_ac13633e735a71ff,北京故宫,游客自述：亲子历史主题线,visitor_actual,2,,,,内金水桥,参观,True,single,,,内金水桥,167,171
+gugong_user_generated_ac13633e735a71ff_route_01,gugong_user_generated_ac13633e735a71ff,北京故宫,游客自述：亲子历史主题线,visitor_actual,3,,,,三大殿,参观,True,single,,,三大殿,172,175
+gugong_user_generated_ac13633e735a71ff_route_01,gugong_user_generated_ac13633e735a71ff,北京故宫,游客自述：亲子历史主题线,visitor_actual,4,,,,乾清宫,参观,True,single,,,乾清宫,176,179
+gugong_user_generated_ac13633e735a71ff_route_01,gugong_user_generated_ac13633e735a71ff,北京故宫,游客自述：亲子历史主题线,visitor_actual,5,,,,养心殿,参观,True,single,,,养心殿,181,184
+gugong_user_generated_ac13633e735a71ff_route_01,gugong_user_generated_ac13633e735a71ff,北京故宫,游客自述：亲子历史主题线,visitor_actual,6,,,,御花园,参观,True,single,,,御花园,185,188
+gugong_user_generated_ac13633e735a71ff_route_01,gugong_user_generated_ac13633e735a71ff,北京故宫,游客自述：亲子历史主题线,visitor_actual,7,,,,神武门,参观,True,single,,,神武门,189,192
+xihu_user_generated_ddcb0707c1791565_route_01,xihu_user_generated_ddcb0707c1791565,杭州西湖,游客自述：亲测家庭省力线,visitor_actual,1,,,,断桥残雪,参观,True,single,,,断桥残雪,58,62
+xihu_user_generated_ddcb0707c1791565_route_01,xihu_user_generated_ddcb0707c1791565,杭州西湖,游客自述：亲测家庭省力线,visitor_actual,2,,,,白堤,参观,True,single,,,白堤,63,65
+xihu_user_generated_ddcb0707c1791565_route_01,xihu_user_generated_ddcb0707c1791565,杭州西湖,游客自述：亲测家庭省力线,visitor_actual,3,,,,平湖秋月,参观,True,single,,,平湖秋月,66,70
+xihu_user_generated_ddcb0707c1791565_route_01,xihu_user_generated_ddcb0707c1791565,杭州西湖,游客自述：亲测家庭省力线,visitor_actual,4,,,,曲院风荷,参观,True,single,,,曲院风荷,71,75
+xihu_user_generated_ddcb0707c1791565_route_01,xihu_user_generated_ddcb0707c1791565,杭州西湖,游客自述：亲测家庭省力线,visitor_actual,5,,,,花港观鱼,参观,True,single,,,花港观鱼（对面就是太子湾公园）,76,91
+xihu_user_generated_ddcb0707c1791565_route_01,xihu_user_generated_ddcb0707c1791565,杭州西湖,游客自述：亲测家庭省力线,visitor_actual,6,,,,三潭印月,坐船,False,single,,,然后坐船看三潭印月,92,101
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,1,1,,,进景区,进景区,False,single,,,进景区,124,127
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,2,1,,,长海,参观,True,single,,,🚌长海,130,133
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,3,1,,,五彩池,参观,True,single,,,五彩池,136,139
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,4,1,,,诺日朗中转,参观,True,single,,,🚌诺日朗中转,142,148
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,5,1,,,诺日朗,参观,True,single,,,诺日朗,201,204
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,6,1,,,原始森林,参观,True,single,,,🚌原始森林,207,212
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,7,1,,,原始森林,参观,True,single,,,原始森林,255,259
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,8,1,,,芳草海,参观,True,single,,,芳草海,262,265
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,9,1,,,天鹅海,参观,True,single,,,天鹅海,268,271
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,10,1,,,箭竹海,参观,True,single,,,🚌箭竹海,274,278
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,11,1,,,箭竹海,参观,True,single,,,箭竹海,442,445
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,12,1,,,熊猫海,参观,True,single,,,熊猫海,448,451
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,13,1,,,五花海,参观,True,single,,,五花海,454,457
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,14,1,,,珍珠滩,参观,True,single,,,珍珠滩,460,463
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,15,1,,,珍珠滩瀑布,参观,True,single,,,珍珠滩瀑布,466,471
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,16,1,,,镜海,参观,True,single,,,镜海,474,476
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,17,1,,,诺日朗瀑布,参观,True,single,,,诺日朗瀑布,624,629
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,18,1,,,犀牛海,参观,True,single,,,犀牛海,632,635
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,19,1,,,树正区域,参观,True,single,,,树正区域,638,642
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,20,1,,,火花海,参观,True,single,,,火花海,645,648
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,21,1,,,双龙海,参观,True,single,,,双龙海,651,654
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,22,1,,,芦苇海,参观,True,single,,,芦苇海,657,660
+jiuzhaigou_user_generated_653f517e7ecb42a0_route_01,jiuzhaigou_user_generated_653f517e7ecb42a0,九寨沟,游客自述：一日三沟实测线,visitor_actual,23,1,,,出沟,出沟,False,single,,,出沟,663,665

@@ -622,5 +622,95 @@
         ]
       }
     ]
+  },
+  {
+    "route_id": "gugong_user_generated_ac13633e735a71ff_route_01",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "scenic_spot": "北京故宫",
+    "route_name": "游客自述：亲子历史主题线",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "xihu_user_generated_ddcb0707c1791565_route_01",
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_spot": "杭州西湖",
+    "route_name": "游客自述：亲测家庭省力线",
+    "hierarchy": [
+      {
+        "day": null,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route_id": "jiuzhaigou_user_generated_653f517e7ecb42a0_route_01",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_spot": "九寨沟",
+    "route_name": "游客自述：一日三沟实测线",
+    "hierarchy": [
+      {
+        "day": 1,
+        "periods": [
+          {
+            "time_period": null,
+            "step_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
