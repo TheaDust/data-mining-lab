@@ -1,0 +1,175 @@
+{
+  "input": {
+    "documents": 18,
+    "documents_sha256": "a00d04703a53c515a39a39a74582f1e6d00f7098474460eec7ecb93a722c3a65",
+    "entities_sha256": "ba18804ef40693ea6cd676a8facab9e97f598c9e74a2c0d842b3a732578fe87e",
+    "annotations_sha256": "19635032720e6227d944962c4ff9cc2658aafdf2acb95d1c02596e6f13fc1458",
+    "selected_documents": [
+      "gugong_user_generated_ac13633e735a71ff",
+      "jiuzhaigou_user_generated_653f517e7ecb42a0",
+      "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+      "xihu_user_generated_6322b1ddadb1b801",
+      "xihu_user_generated_ddcb0707c1791565"
+    ],
+    "annotated_documents": [
+      "gugong_user_generated_ac13633e735a71ff",
+      "jiuzhaigou_user_generated_653f517e7ecb42a0",
+      "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+      "xihu_user_generated_6322b1ddadb1b801",
+      "xihu_user_generated_ddcb0707c1791565"
+    ]
+  },
+  "detection": {
+    "mentions": 162,
+    "by_type": {
+      "person_third": 14,
+      "place": 32,
+      "demonstrative": 19,
+      "person_reflexive": 3,
+      "person_generic": 8,
+      "object": 4,
+      "discourse": 12,
+      "determiner": 32,
+      "person_second": 9,
+      "person_first": 29
+    },
+    "by_kind": {
+      "pronoun": 101,
+      "demonstrative": 19,
+      "discourse": 10,
+      "determiner": 32
+    },
+    "by_status": {
+      "no_antecedent": 24,
+      "resolved": 55,
+      "out_of_scope": 49,
+      "ambiguous": 11,
+      "non_entity": 23
+    },
+    "pronoun_surfaces": {
+      "她": 9,
+      "那里": 1,
+      "这": 36,
+      "自己": 3,
+      "这里": 29,
+      "大家": 8,
+      "他们": 1,
+      "它": 3,
+      "这些": 5,
+      "你": 9,
+      "那": 2,
+      "我们": 18,
+      "这个": 7,
+      "那样": 1,
+      "其": 3,
+      "他": 4,
+      "我": 11,
+      "这种": 1,
+      "此": 4,
+      "该": 2,
+      "它们": 1,
+      "这样": 1,
+      "那边": 1,
+      "这边": 1,
+      "那些": 1
+    },
+    "documents_with_mentions": 16
+  },
+  "resolution": {
+    "resolved": 55,
+    "no_antecedent": 24,
+    "ambiguous": 11,
+    "non_entity": 23,
+    "out_of_scope": 49,
+    "antecedent_types": {
+      "POI": 56,
+      "PERSON": 1,
+      "ROUTE_SEGMENT": 7,
+      "ROUTE": 1,
+      "TRANSPORT": 1
+    }
+  },
+  "evaluation": {
+    "annotated_total": 28,
+    "clear_total": 26,
+    "no_antecedent_total": 2,
+    "detection_misses": 0,
+    "resolved_total": 26,
+    "correct_resolved": 26,
+    "correct_abstention": 2,
+    "coverage": 1.0,
+    "accuracy_resolved": 1.0,
+    "accuracy_overall": 1.0,
+    "false_resolutions": 0,
+    "by_type": {
+      "demonstrative": {
+        "annotated": 4,
+        "clear": 4,
+        "no_antecedent": 0,
+        "resolved": 4,
+        "correct": 4,
+        "accuracy_overall": 1.0,
+        "accuracy_resolved": 1.0,
+        "coverage": 1.0
+      },
+      "determiner": {
+        "annotated": 12,
+        "clear": 11,
+        "no_antecedent": 1,
+        "resolved": 11,
+        "correct": 12,
+        "accuracy_overall": 1.0,
+        "accuracy_resolved": 1.0,
+        "coverage": 1.0
+      },
+      "person_third": {
+        "annotated": 1,
+        "clear": 1,
+        "no_antecedent": 0,
+        "resolved": 1,
+        "correct": 1,
+        "accuracy_overall": 1.0,
+        "accuracy_resolved": 1.0,
+        "coverage": 1.0
+      },
+      "place": {
+        "annotated": 11,
+        "clear": 10,
+        "no_antecedent": 1,
+        "resolved": 10,
+        "correct": 11,
+        "accuracy_overall": 1.0,
+        "accuracy_resolved": 1.0,
+        "coverage": 1.0
+      }
+    }
+  },
+  "checks": {
+    "documents": 18,
+    "entities": 1415,
+    "annotations": 28,
+    "selected_documents": 5,
+    "entity_errors": 0,
+    "annotation_errors": 0
+  },
+  "candidates_by_doc": {
+    "gugong_official_df6c311301c59157": 183,
+    "xihu_official_7a3841720cf3aaa6": 196,
+    "jiuzhaigou_official_88ef5cc31789dc71": 191,
+    "gugong_user_generated_c57f5e2b6ca3c3a0": 72,
+    "gugong_user_generated_ac13633e735a71ff": 34,
+    "gugong_user_generated_d927127c74a320bc": 32,
+    "gugong_user_generated_2641b9750708433f": 40,
+    "gugong_user_generated_76dc90f7094090c6": 75,
+    "xihu_user_generated_d439099980d19760": 58,
+    "xihu_user_generated_ddcb0707c1791565": 23,
+    "xihu_user_generated_059807848ba2b4a5": 61,
+    "xihu_user_generated_6d86937f2bf70da9": 64,
+    "xihu_user_generated_6322b1ddadb1b801": 38,
+    "jiuzhaigou_user_generated_0ed001d738cb93a5": 63,
+    "jiuzhaigou_user_generated_653f517e7ecb42a0": 81,
+    "jiuzhaigou_user_generated_585b83f4b8f6452f": 52,
+    "jiuzhaigou_user_generated_292a4ed7e67255de": 52,
+    "jiuzhaigou_user_generated_aa7e68d694fcc6a7": 35
+  }
+}

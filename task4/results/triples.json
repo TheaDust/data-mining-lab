@@ -1,0 +1,497 @@
+[
+  {
+    "subject": "故宫",
+    "predicate": "referred_by_pronoun",
+    "object": "那里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0005",
+    "sentence": "故宫之美，不单美在她无以伦比的建筑和她留下的珍贵古玩，更美在那里曾经住过的人、发生过的事儿，深宫里的人虽然已经不在了，但故事还在，到故宫去，就是为了去寻找紫禁城沉淀的600年记忆。",
+    "confidence": 0.674
+  },
+  {
+    "subject": "故宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0006",
+    "sentence": "故宫的占地面积72万平方米，建筑面积约15万平方米，有大小宫殿七十多座，这么大的故宫，想要好好的逛这皇帝的居所，就给自己一天的时间吧。",
+    "confidence": 0.76
+  },
+  {
+    "subject": "故宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0009",
+    "sentence": "但是诺大的故宫博物院游览路线繁多，在这里给大家分享一下常规走的四条参观路线：\n",
+    "confidence": 0.754
+  },
+  {
+    "subject": "保和殿",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0012",
+    "sentence": "保和殿-天下读书人向往的地方，明清时期，每三年在这里会举行一次隆重的殿试活动，钦点\"天子门生\"。",
+    "confidence": 0.681
+  },
+  {
+    "subject": "钟粹宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0019",
+    "sentence": "①钟粹宫：慈安皇太后曾经在这里居住过，慈禧是谁你一定知道，那么慈安和慈禧又是什么关系呢?",
+    "confidence": 0.99
+  },
+  {
+    "subject": "承乾宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0027",
+    "sentence": "③承乾宫：清顺治帝孝献皇后董鄂氏曾在这里居住，《孝庄皇后》里面，舒畅把董鄂妃演的深入人心，历史的帝王里，除了杨玉环和李隆基的绝世爱情，顺治和董鄂妃的生死恋情同样让人感到凄美。",
+    "confidence": 0.99
+  },
+  {
+    "subject": "永和宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0028",
+    "sentence": "④永和宫：这里曾住着雍正的生母、康熙的德妃乌雅氏，最终也未能母凭子贵移居慈宁宫，她并未像影视剧中那样尊享太后之位。",
+    "confidence": 0.991
+  },
+  {
+    "subject": "景仁宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0031",
+    "sentence": "⑤景仁宫：福祸相依，这里曾住过明宣宗因被剥夺皇后之位而幸免于殉葬的胡皇后，也曾住过因慈禧太后为保全皇家颜面而使其投井殉国的光绪最宠爱的珍妃。",
+    "confidence": 0.99
+  },
+  {
+    "subject": "珍宝馆",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0036",
+    "sentence": "乾隆皇帝86岁时禅位给了他的儿子嘉庆皇帝，于是，成了太上皇的他专门给自己修了一座养老院，这就是珍宝馆，曾经的宁寿全宫-一组浓缩的紫禁城。",
+    "confidence": 0.866
+  },
+  {
+    "subject": "寿康宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这个",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0047",
+    "sentence": "③寿康宫：女主人们都比较长寿，雍正皇帝的熹贵妃、乾隆皇帝的亲生母亲、电视剧里的甄嬛，就住在这个院落。",
+    "confidence": 0.99
+  },
+  {
+    "subject": "寿康宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这个",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0049",
+    "sentence": "可是，这个院落最长寿的却是乾隆的婉嫔陈氏，虽然她曾经是这紫禁城里最不起眼的人物，但是她却活了92岁年纪。",
+    "confidence": 0.914
+  },
+  {
+    "subject": "故宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0051",
+    "sentence": "可是，这个院落最长寿的却是乾隆的婉嫔陈氏，虽然她曾经是这紫禁城里最不起眼的人物，但是她却活了92岁年纪。",
+    "confidence": 0.002
+  },
+  {
+    "subject": "储秀宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0053",
+    "sentence": "②储秀宫：懿嫔，也就是后来的慈禧太后，曾在这里居住，并在这里生下了同治皇帝。",
+    "confidence": 0.99
+  },
+  {
+    "subject": "储秀宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "mention_id": "pm_0054",
+    "sentence": "②储秀宫：懿嫔，也就是后来的慈禧太后，曾在这里居住，并在这里生下了同治皇帝。",
+    "confidence": 0.986
+  },
+  {
+    "subject": "杭州",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "mention_id": "pm_0005",
+    "sentence": "1138年，宋室迁都行在所临安（今杭州），宋高宗赵构在临安城城南兴土木、建宫苑，使得临安这座江南之城逐渐成为当时全国的政治、经济、文化中心。",
+    "confidence": 0.68
+  },
+  {
+    "subject": "北山街",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "mention_id": "pm_0011",
+    "sentence": "在这里，收获的不仅是美景，更有讲不完的故事。",
+    "confidence": 0.449
+  },
+  {
+    "subject": "杭州",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "mention_id": "pm_0012",
+    "sentence": "历代以来，这里贴近市民和市肆，形成一片繁华景象，辖内的清河坊历史街区更是杭州目前唯一保存比较完整的旧街区。",
+    "confidence": 0.446
+  },
+  {
+    "subject": "日则沟",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "mention_id": "pm_0001",
+    "sentence": "“Y”字型的右边枝头是日则沟，这是九寨沟最主要也是最精华的景点区，有原始森林、芳草海、天鹅海、箭竹海、箭竹海瀑布、熊猫海、熊猫海瀑布、五花海、孔雀河道、大小金铃海、珍珠滩、珍珠滩瀑布、镜海、诺日朗瀑布。",
+    "confidence": 0.759
+  },
+  {
+    "subject": "九寨天堂口",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "mention_id": "pm_0005",
+    "sentence": "第二天游览完后可以去到九寨天堂口，这里有特色藏羌歌舞、抛彩球、藏族傩戏、民间绝技等演出，还可以在此购买旅游纪念品，您也可以安排一场富有九寨沟藏羌民族原生态的《藏谜》表演，在一场气势恢宏的演出中体会到九寨原汁原味的文化，感受传承千年的故事和美丽的九寨沟传说。",
+    "confidence": 0.755
+  },
+  {
+    "subject": "九寨天堂口",
+    "predicate": "referred_by_pronoun",
+    "object": "此",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "mention_id": "pm_0006",
+    "sentence": "第二天游览完后可以去到九寨天堂口，这里有特色藏羌歌舞、抛彩球、藏族傩戏、民间绝技等演出，还可以在此购买旅游纪念品，您也可以安排一场富有九寨沟藏羌民族原生态的《藏谜》表演，在一场气势恢宏的演出中体会到九寨原汁原味的文化，感受传承千年的故事和美丽的九寨沟传说。",
+    "confidence": 0.65
+  },
+  {
+    "subject": "原始森林",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "mention_id": "pm_0007",
+    "sentence": "神仙池景区集九寨之秀、黄龙之奇于一身，整个景区被浩瀚的林海包围，古木参天，云雾蒸腾，有清澈明亮的高山湖泊、发育完好的大面积钙化景观、苍茫无边的原始森林在这里交融出奇妙的神韵。",
+    "confidence": 0.771
+  },
+  {
+    "subject": "九寨天堂口",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "mention_id": "pm_0009",
+    "sentence": "第三天游览完后可以去到九寨天堂口，这里有特色藏羌歌舞、抛彩球、藏族傩戏、民间绝技等演出，还可以在此购买旅游纪念品，您也可以安排一场富有九寨沟藏羌民族原生态的《藏谜》表演，在一场气势恢宏的演出中体会到九寨原汁原味的文化，感受传承千年的故事和美丽的九寨沟传说。",
+    "confidence": 0.755
+  },
+  {
+    "subject": "九寨天堂口",
+    "predicate": "referred_by_pronoun",
+    "object": "此",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "mention_id": "pm_0010",
+    "sentence": "第三天游览完后可以去到九寨天堂口，这里有特色藏羌歌舞、抛彩球、藏族傩戏、民间绝技等演出，还可以在此购买旅游纪念品，您也可以安排一场富有九寨沟藏羌民族原生态的《藏谜》表演，在一场气势恢宏的演出中体会到九寨原汁原味的文化，感受传承千年的故事和美丽的九寨沟传说。",
+    "confidence": 0.65
+  },
+  {
+    "subject": "午门",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0002",
+    "sentence": "世人皆知午门斩首，实则这里是皇家盛典之门。",
+    "confidence": 0.96
+  },
+  {
+    "subject": "午门",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0003",
+    "sentence": "溥仪三岁那年，就是从这道门被抱进紫禁城，懵懂登基，成了这座皇城的主人，也成了最孤独的孩童。",
+    "confidence": 0.995
+  },
+  {
+    "subject": "紫禁城",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0004",
+    "sentence": "溥仪三岁那年，就是从这道门被抱进紫禁城，懵懂登基，成了这座皇城的主人，也成了最孤独的孩童。",
+    "confidence": 0.984
+  },
+  {
+    "subject": "娃",
+    "predicate": "referred_by_pronoun",
+    "object": "他",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0005",
+    "sentence": "➡️带娃驻足可以告诉他：这里不是刑场，是六百年皇权的开端，也是溥仪一生浮沉的起点。",
+    "confidence": 0.801
+  },
+  {
+    "subject": "午门",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0006",
+    "sentence": "➡️带娃驻足可以告诉他：这里不是刑场，是六百年皇权的开端，也是溥仪一生浮沉的起点。",
+    "confidence": 0.797
+  },
+  {
+    "subject": "乾清宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0007",
+    "sentence": "这里是帝王理政、起居的核心。",
+    "confidence": 0.964
+  },
+  {
+    "subject": "乾清宫",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0008",
+    "sentence": "➡️相较于游客只看建筑，带娃可以细讲：这里是皇帝的办公室，看似自由的皇权，实则被规矩牢牢束缚。",
+    "confidence": 0.904
+  },
+  {
+    "subject": "养心殿",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0009",
+    "sentence": "溥仪在这里读书、写字、起居，度过了漫长的少年时光。",
+    "confidence": 0.962
+  },
+  {
+    "subject": "养心殿",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0010",
+    "sentence": "➡️这里最适合亲子慢逛，没有拥挤人潮，能静静感受皇家生活的平淡与束缚。",
+    "confidence": 0.827
+  },
+  {
+    "subject": "御花园",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0011",
+    "sentence": "当年溥仪在这里奔跑、发呆、骑自行车，盼着长大，盼着走出这座围墙。",
+    "confidence": 0.907
+  },
+  {
+    "subject": "紫禁城",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0012",
+    "sentence": "当年溥仪在这里奔跑、发呆、骑自行车，盼着长大，盼着走出这座围墙。",
+    "confidence": 0.093
+  },
+  {
+    "subject": "神武门",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0013",
+    "sentence": "这是溥仪离开紫禁城的最后一扇门。",
+    "confidence": 0.963
+  },
+  {
+    "subject": "神武门",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0014",
+    "sentence": "当年溥仪从这里仓皇离去，褪去帝王身份，从此世间再无宣统皇帝，只剩凡人溥仪。",
+    "confidence": 0.913
+  },
+  {
+    "subject": "神武门",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "gugong_user_generated_ac13633e735a71ff",
+    "mention_id": "pm_0015",
+    "sentence": "➡️带娃在这里收尾，顺便跟孩子科普一下溥仪离开皇宫以后经理的伪满洲国等其他故事。",
+    "confidence": 0.429
+  },
+  {
+    "subject": "天安门",
+    "predicate": "referred_by_pronoun",
+    "object": "那边",
+    "doc_id": "gugong_user_generated_2641b9750708433f",
+    "mention_id": "pm_0002",
+    "sentence": "第一次走天安门那边，三道安检，急死人！",
+    "confidence": 0.749
+  },
+  {
+    "subject": "花港观鱼码头",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "xihu_user_generated_d439099980d19760",
+    "mention_id": "pm_0002",
+    "sentence": "这是整条路线不走回头路的关键✅\n",
+    "confidence": 0.449
+  },
+  {
+    "subject": "断桥残雪→白堤→平湖秋月→曲院风荷→花港观鱼（对面就是太子湾公园）→然后坐船看三潭印月",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "mention_id": "pm_0001",
+    "sentence": "✅ 为什么这条路线全家走都很轻松\n",
+    "confidence": 0.838
+  },
+  {
+    "subject": "乌龟潭路线",
+    "predicate": "referred_by_pronoun",
+    "object": "这个",
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "mention_id": "pm_0002",
+    "sentence": "⏰ 记得上午去，下午3点后船工基本不接这个路线了\n",
+    "confidence": 0.975
+  },
+  {
+    "subject": "自行车",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "mention_id": "pm_0002",
+    "sentence": "这一定西湖边最高效的交通方式\n",
+    "confidence": 0.46
+  },
+  {
+    "subject": "柳浪闻莺",
+    "predicate": "referred_by_pronoun",
+    "object": "这个",
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "mention_id": "pm_0003",
+    "sentence": "这个机位在公园里面，早上人很少还是蛮推荐大家去拍照的，光线偏暗建议穿浅色衣服。",
+    "confidence": 0.998
+  },
+  {
+    "subject": "太子湾公园",
+    "predicate": "referred_by_pronoun",
+    "object": "这个",
+    "doc_id": "xihu_user_generated_6322b1ddadb1b801",
+    "mention_id": "pm_0006",
+    "sentence": "花港公园(南2门)马路对面的小路走进去，就可以看到p2这个景点机位了。",
+    "confidence": 0.966
+  },
+  {
+    "subject": "五花海→珍珠滩→珍珠滩瀑布→镜海",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "mention_id": "pm_0001",
+    "sentence": "这一段是无敌好看！",
+    "confidence": 0.824
+  },
+  {
+    "subject": "原始森林 → 芳草海 → 天鹅海 → 🚌箭竹海",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "mention_id": "pm_0005",
+    "sentence": "这段和传统九寨沟的蓝色海子完全不一样，森林、草甸、湿地很有氛围。",
+    "confidence": 0.83
+  },
+  {
+    "subject": "天鹅海→箭竹海",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "mention_id": "pm_0008",
+    "sentence": "我们这段没有走，直接选择坐观光车。",
+    "confidence": 0.813
+  },
+  {
+    "subject": "箭竹海 → 熊猫海 → 五花海 → 珍珠滩 → 珍珠滩瀑布 → 镜海",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "mention_id": "pm_0009",
+    "sentence": "这一段才是真正的王炸💎\n",
+    "confidence": 0.838
+  },
+  {
+    "subject": "珍珠滩 → 珍珠滩瀑布 → 镜海停车场",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "mention_id": "pm_0010",
+    "sentence": "这段我们实际徒步走了，水、森林、沉木、鱼群一路都很好看。",
+    "confidence": 0.827
+  },
+  {
+    "subject": "树正群海 → 火花海 → 双龙海",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_585b83f4b8f6452f",
+    "mention_id": "pm_0003",
+    "sentence": "这一段真的是宝藏冷门路线！",
+    "confidence": 0.825
+  },
+  {
+    "subject": "诺日朗中心",
+    "predicate": "referred_by_pronoun",
+    "object": "这里",
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "mention_id": "pm_0003",
+    "sentence": "徒步7小时+都走了哪些海子～九寨沟景区是一个Y字～一共三条线路，我们走的顺序是右线、左线、中线（沟口方向）～一进去景区排队上调度车，调度车每趟的目的地是不一样的，所以都是统一把大家放在诺日朗中心～从这里都可以选择去任何一条线的～先走右线是因为右线景点较多，整体走下来花费的时长比较多～正好在有体力的时候先走完～正好走到一些出名漂亮的海子，阳光刚好～拍照很出片～说一下我们打卡的点\n",
+    "confidence": 0.748
+  },
+  {
+    "subject": "原始森林",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "mention_id": "pm_0005",
+    "sentence": "这一段是看不到海子的～就是森林栈道～我们去过普达措几次了～所以对这个感觉一般～天然氧吧～总结下来看个人需求～\n",
+    "confidence": 0.771
+  },
+  {
+    "subject": "原始森林",
+    "predicate": "referred_by_pronoun",
+    "object": "这个",
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "mention_id": "pm_0007",
+    "sentence": "这一段是看不到海子的～就是森林栈道～我们去过普达措几次了～所以对这个感觉一般～天然氧吧～总结下来看个人需求～\n",
+    "confidence": 0.937
+  },
+  {
+    "subject": "中线",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "mention_id": "pm_0009",
+    "sentence": "中线（往沟口方向这条线）：\n",
+    "confidence": 0.994
+  },
+  {
+    "subject": "芦苇海",
+    "predicate": "referred_by_pronoun",
+    "object": "这",
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "mention_id": "pm_0011",
+    "sentence": "芦苇海没有停车站点，路过双龙海后要徒步2.4公里才能走到最后一个上车点盆景台～看个人体力，这条的特点是芦苇搭配一条碧蓝色的溪流，我个人很喜欢～不赶时间慢慢走也可以，下午的话一定做好防晒，太阳很大，会比较晒～大多数站点都可停车，希望可以帮助到大家\n",
+    "confidence": 0.934
+  }
+]
