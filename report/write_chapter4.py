@@ -130,6 +130,7 @@ def build_blocks() -> dict[str, list[tuple]]:
     blocks: dict[str, list[tuple]] = {}
 
     blocks["4.1 代词检测与待消解样本"] = [
+        ("p", "本章的目标是：检测游记中的代词和指示表达，人工标注可核验的先行词，用可解释的规则完成指代消解，并在小样本标注上评价覆盖率与准确率。"),
         ("p", "本实验以项目 1 的 clean_text 为唯一文本基准，使用项目 2 的 V2 实体和项目 3 的路线 POI 作为候选先行词来源。全语料 18 篇文档中 16 篇检测到代词或指示表达，共 162 个提及；其中选取 5 篇游客游记，从这 5 篇的 54 个提及中人工标注 28 条。5 篇样本覆盖三个景区，既有按标题分段的历史叙事，也有箭头路线和口语化攻略，具体分布如表 4-1 所示。"),
         ("caption", "表 4-1 共指消解样本与检测规模"),
         ("table", ["景区", "文档 ID 后缀", "文本特点", "检测提及", "人工标注"], [
@@ -206,6 +207,15 @@ def build_blocks() -> dict[str, list[tuple]]:
         ], [2.5, 5.8, 6.3]),
         ("p", "消解文本有两个版本。resolved_text 把完整指代短语替换为先行词，例如把“这条路线”整体替换，而不是只替换“这”后留下“条路线”；marked_text 保留原词并插入“〔→先行词〕”，更适合人工核对。逐句结果保存在 resolved_texts.json 的 resolved_sentences 中，每条记录都带原文、替换结果、标记结果和提及 ID。"),
         ("p", "知识三元组采用统一谓词 referred_by_pronoun，例如“午门 —referred_by_pronoun→ 这里”，并附 doc_id、mention_id、原句和置信度。coreferences.json 沿用 SCHEMA.md 第 9 节的 coref_id、doc_id、pronoun、pronoun_start/end、antecedent、antecedent_start/end、method、confidence，并补充 pronoun_type、antecedent_type、sentence、mention_id 等字段，便于下游按 doc_id 和原文位置回查。mentions.json 保留全部检测提及（包括弃权和第一/第二人称），coreferences.json 只保留已消解记录。"),
+        ("caption", "表 4-7 实验 4 主要输出文件"),
+        ("table", ["文件", "内容"], [
+            ["mentions.json", "全部检测提及、候选、状态和分数"],
+            ["coreferences.json / .jsonl", "已消解记录，沿用 SCHEMA.md 共指字段"],
+            ["resolved_texts.json", "替换文本、标记文本和逐句消解结果"],
+            ["triples.json", "先行词—referred_by_pronoun—代词三元组"],
+            ["evaluation.json", "28 条人工标注的逐例判断与指标"],
+            ["summary.json / QUALITY.md", "输入哈希、统计、校验和已知边界"],
+        ], [5.5, 9.1]),
     ]
 
     blocks["4.5 人工核验与评价"] = [
@@ -220,16 +230,8 @@ def build_blocks() -> dict[str, list[tuple]]:
         ], [4.0, 2.5, 2.7, 2.5, 2.9]),
         ("p", "在 28 条标注上，检测缺失为 0，正确消解 26 条，正确弃权 2 条，覆盖率 100.00%，已消解准确率 100.00%，总体准确率 100.00%。这组数字说明当前规则与这批定向标注一致，不能外推为全语料准确率：标注只有 5 篇游记，规则又是在同一批文本上设计的，没有独立测试集。非标注文本中仍能看到错误或弃权，例如官方指南把故宫拟人化为“她”、把前三殿称为“他们”，以及“这些小院落”这类集合指代；程序对这些情况多数选择弃权或标为歧义，而不是强行绑定最近景点。"),
         ("p", "本实验的失败边界主要有四类。第一，篇章指代和集合指代缺少单数实体先行词，规则只能弃权，例如“这里特别提醒”“这些小院落”。第二，人物代词依赖人物名词词表，历史叙事中的“她/他”可能指人物、机构或拟人化的故宫，当前没有人物姓名识别，容易漏消解。第三，路线段作为先行词时，替换文本可能很长，虽然 marked_text 可读，但自然度不如短实体。第四，规则权重和中心名词表针对本批语料设计，跨景区、跨文体泛化尚未评估；如果文本出现新的指代形式，需要重新标注和调整规则。"),
+        ("p", "总体来看，本实验完成了从 162 个提及的检测、28 条人工标注到规则消解与评价的闭环：55 个提及得到消解，28 条标注中 26 条明确先行词全部正确、2 条无明确先行词全部正确弃权。该结果只说明规则与这批定向标注一致，不能替代独立测试集；后续应补充跨文体标注和人物姓名识别。"),
         ("p", "复现命令为：python -X utf8 task4/run.py；测试命令为 python -X utf8 -m unittest discover -s task4/tests -v。运行会重建 task4/results/ 下的逐位置结果、消解文本、三元组、评价和检查摘要。17 项测试覆盖分句位置、最长匹配、固定搭配过滤、同句同形代词、hashtag 过滤、中心名词分类、替换短语边界、标题消解、路线段消解、篇章指代弃权、宫城别名、Unicode 位置和 28 条标注评估。完整字段、规则和已知边界见 task4/README.md。"),
-        ("caption", "表 4-7 实验 4 主要输出文件"),
-        ("table", ["文件", "内容"], [
-            ["mentions.json", "全部检测提及、候选、状态和分数"],
-            ["coreferences.json / .jsonl", "已消解记录，沿用 SCHEMA.md 共指字段"],
-            ["resolved_texts.json", "替换文本、标记文本和逐句消解结果"],
-            ["triples.json", "先行词—referred_by_pronoun—代词三元组"],
-            ["evaluation.json", "28 条人工标注的逐例判断与指标"],
-            ["summary.json / QUALITY.md", "输入哈希、统计、校验和已知边界"],
-        ], [5.5, 9.1]),
     ]
 
     return blocks

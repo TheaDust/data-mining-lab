@@ -332,6 +332,7 @@ def main() -> None:
         ("p", f"数据缺口必须明确：250 个步骤中只有 {temporal['with_time_period']} 个有显式时段、{temporal['with_day']} 个有日期/天数、{temporal['with_clock']} 个有时刻，219 个步骤没有时段；只有 {temporal['with_visit_duration']} 个步骤有游玩时长、{temporal['with_travel_duration']} 个有交通时长。task7 不能把“没有时段”默认为上午或下午，只能作为未知处理。"),
         ("p", f"条件融合方面，{cond['total']} 条条件中 {cond['linked_to_poi']} 条链接到具体 POI，{cond['unlinked_to_poi']} 条只到景区/文档级；共生成 {stats['condition_poi_links']} 条 RELATES_TO 边。字符串匹配可能漏掉“这里”“那边”等指代，也可能把泛称误链；边上的 matched_text 和 match_field 用于复核。task5 的 review_status 仍是“待真实人工确认”，图谱不把它当金标准。"),
         ("p", f"此外，{temporal['without_poi']} 个步骤没有 POI（4 个边界动作 + 3 个 task3 本身无 POI 的步骤），2 条九寨沟路线首尾是边界动作、没有起终点边；task2 的 TIME/TRANSPORT 实体没有单独建节点，只用于统计与活动归一。这些缺口会在第 7 章 Agent 的设计中显式处理：Agent 只能查询图上已有的关系，缺失信息应回答“未知”或给出保守建议，而不是让语言模型补全。"),
+        ("p", "总体来看，本章把 task1–task5 的输出融合为 583 个节点、1,751 条边的可查询图谱：291 个 task3 实体引用全部对齐 task2，三个景区子图各自连通，18 项自动检查全部通过，并给出了静态图与可交互的分层图。图谱的边界同样明确：时间与时长覆盖不足、条件链接依赖字符串匹配、task5 尚未完成真实人工确认；这些边界将直接约束第 7 章 Agent 的回答范围。"),
     ]
     fill_section(doc, HEADINGS[5], blocks_66, reference_table)
 
