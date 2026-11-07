@@ -1,0 +1,827 @@
+[
+  {
+    "id": "xihu_official_7a3841720cf3aaa6:1237",
+    "condition": "漫步群山之余",
+    "recommendation": "千万注意脚下安全",
+    "evidence_span": "漫步群山之余千万注意脚下安全",
+    "condition_type": "体力与健康",
+    "reason": "sequence_not_condition",
+    "window_id": "xihu_official_7a3841720cf3aaa6:1237",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_area": "杭州西湖",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "“五一”杭州怎么玩？“西湖文化特使”推荐十条精彩线路",
+    "source_url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+    "source_text": "线路以探寻西湖南面凤凰山、玉皇山中的佛教石刻为主题，全程约3-4小时，漫步群山之余千万注意脚下安全。",
+    "source_start": 1237,
+    "source_end": 1287,
+    "context_before": "公元10世纪，偏处东南一角的吴越国在五代乱世中善事中原，保境安民。这期间钱氏治杭70余年，杭州的城垣经历了多次拓展、营建，奠定了城市格局的主轴线；吴越王动用大批的劳动力修筑海塘来保护江边农田不受潮水侵蚀，设“撩湖军”专门负责疏浚治理西湖，烧制秘色瓷上供中原王朝……由此“钱塘富庶盛于东南”。吴越国三代国主统治期间均大力提倡佛教，在杭州西湖沿岸群山兴建寺院、雕刻佛经、建造佛塔经幢、摩崖石窟造像等。\n",
+    "context_after": "\n途径：梵天寺经幢—圣果寺遗址—月岩—排衙石诗刻—吴越郊坛遗址—天龙寺造像—八卦田",
+    "context_full": "公元10世纪，偏处东南一角的吴越国在五代乱世中善事中原，保境安民。这期间钱氏治杭70余年，杭州的城垣经历了多次拓展、营建，奠定了城市格局的主轴线；吴越王动用大批的劳动力修筑海塘来保护江边农田不受潮水侵蚀，设“撩湖军”专门负责疏浚治理西湖，烧制秘色瓷上供中原王朝……由此“钱塘富庶盛于东南”。吴越国三代国主统治期间均大力提倡佛教，在杭州西湖沿岸群山兴建寺院、雕刻佛经、建造佛塔经幢、摩崖石窟造像等。\n线路以探寻西湖南面凤凰山、玉皇山中的佛教石刻为主题，全程约3-4小时，漫步群山之余千万注意脚下安全。\n途径：梵天寺经幢—圣果寺遗址—月岩—排衙石诗刻—吴越郊坛遗址—天龙寺造像—八卦田",
+    "context_start": 1038,
+    "context_end": 1328,
+    "full_document_ref": "xihu_official_7a3841720cf3aaa6",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0005",
+        "raw_array_index_0based": 4,
+        "cache_id": "09609e8886e930ffff5df7acaebc82c33976a06fabb0c33c50d4a5c70f4b91ad"
+      }
+    ],
+    "review_record_id": "B-RAW-0005",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0005",
+    "raw_model_output": {
+      "id": "xihu_official_7a3841720cf3aaa6:1237",
+      "condition": "漫步群山之余",
+      "recommendation": "千万注意脚下安全",
+      "evidence_span": "漫步群山之余千万注意脚下安全",
+      "condition_type": "体力与健康",
+      "cache_id": "09609e8886e930ffff5df7acaebc82c33976a06fabb0c33c50d4a5c70f4b91ad"
+    },
+    "quarantine_reason": "sequence_not_condition",
+    "validation_rule_description": "条件匹配预设顺序片段或箭头路线",
+    "validation_rule_code": "c in ('进门','吃饭','天鹅海结束','漫步群山之余') or re.search(r'下车后$|→',c)",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:824",
+    "condition": "吃饭",
+    "recommendation": "选这里",
+    "evidence_span": "冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里",
+    "condition_type": "其他条件",
+    "reason": "unresolved_recommendation_target",
+    "window_id": "gugong_user_generated_c57f5e2b6ca3c3a0:824",
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "北京故宫‼️本地人推荐的游玩路线攻略+地图",
+    "source_url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+    "source_text": "陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里",
+    "source_start": 824,
+    "source_end": 873,
+    "context_before": "🔴🟡【听劝必看】\n❶小电扇/扇子必带！晴天带伞！",
+    "context_after": "\n❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "context_full": "🔴🟡【听劝必看】\n❶小电扇/扇子必带！晴天带伞！陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里\n❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "context_start": 800,
+    "context_end": 914,
+    "full_document_ref": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0013",
+        "raw_array_index_0based": 12,
+        "cache_id": "e5f0a0d4eb851d89d3cf55fab821536b0f1f71136267569c9cacab663a7e612e"
+      }
+    ],
+    "review_record_id": "B-RAW-0013",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0013",
+    "raw_model_output": {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:824",
+      "condition": "吃饭",
+      "recommendation": "选这里",
+      "evidence_span": "冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里",
+      "condition_type": "其他条件",
+      "cache_id": "e5f0a0d4eb851d89d3cf55fab821536b0f1f71136267569c9cacab663a7e612e"
+    },
+    "quarantine_reason": "unresolved_recommendation_target",
+    "validation_rule_description": "建议去除末尾指定标点后恰为预设残片之一",
+    "validation_rule_code": "r.strip('！!。，') in ('慎选','适合','选这里','直接抄作业')",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:874",
+    "condition": "提前看好未来一周的天气预报，哪天晴天选哪天",
+    "recommendation": "虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "evidence_span": "提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "condition_type": "天气环境",
+    "reason": "evaluation_not_action",
+    "window_id": "gugong_user_generated_c57f5e2b6ca3c3a0:874",
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "北京故宫‼️本地人推荐的游玩路线攻略+地图",
+    "source_url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+    "source_text": "❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "source_start": 874,
+    "source_end": 914,
+    "context_before": "❶小电扇/扇子必带！晴天带伞！陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里\n",
+    "context_after": "\n❸游客主要集中在午门、中轴线！东西两侧人比较挺分散！十八槐、断虹桥附近人较少",
+    "context_full": "❶小电扇/扇子必带！晴天带伞！陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里\n❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看\n❸游客主要集中在午门、中轴线！东西两侧人比较挺分散！十八槐、断虹桥附近人较少",
+    "context_start": 809,
+    "context_end": 953,
+    "full_document_ref": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0014",
+        "raw_array_index_0based": 13,
+        "cache_id": "a5fe17deb44faecb51b842b1ade3a635353a7baa1b3b8fb1e93c86f3d61c173a"
+      }
+    ],
+    "review_record_id": "B-RAW-0014",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0014",
+    "raw_model_output": {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:874",
+      "condition": "提前看好未来一周的天气预报，哪天晴天选哪天",
+      "recommendation": "虽然晒，但蓝天配黄瓦红墙拍照才好看",
+      "evidence_span": "提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+      "condition_type": "天气环境",
+      "cache_id": "a5fe17deb44faecb51b842b1ade3a635353a7baa1b3b8fb1e93c86f3d61c173a"
+    },
+    "quarantine_reason": "evaluation_not_action",
+    "validation_rule_description": "建议匹配预设评价或修辞表达",
+    "validation_rule_code": "re.search(r'拍照才好看|特别有氛围感|开启.*之旅',r)",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "gugong_user_generated_d927127c74a320bc:35",
+    "condition": "带娃/赶时间",
+    "recommendation": "半天精华线（2.5～3小时⏳）",
+    "evidence_span": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+    "condition_type": "游客类型",
+    "reason": "invalid_recommendation",
+    "window_id": "gugong_user_generated_d927127c74a320bc:35",
+    "doc_id": "gugong_user_generated_d927127c74a320bc",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "🏯故宫精简游览路线（不走回头路·省时省力版",
+    "source_url": "https://www.xiaohongshu.com/explore/69df5ab90000000021012e2a",
+    "source_text": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+    "source_start": 35,
+    "source_end": 61,
+    "context_before": "全程轻松逛完精华，不绕路、不费腿🐾。\n",
+    "context_after": "\n1. 午门进 ➡️ 安检检票👮",
+    "context_full": "全程轻松逛完精华，不绕路、不费腿🐾。\n一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）\n1. 午门进 ➡️ 安检检票👮",
+    "context_start": 16,
+    "context_end": 77,
+    "full_document_ref": "gugong_user_generated_d927127c74a320bc",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0016",
+        "raw_array_index_0based": 15,
+        "cache_id": "d0691332734a94e36707fbabf12eae9ac002e5d2566b00e02915fb49570e643c"
+      }
+    ],
+    "review_record_id": "B-RAW-0016",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0016",
+    "raw_model_output": {
+      "id": "gugong_user_generated_d927127c74a320bc:35",
+      "condition": "带娃/赶时间",
+      "recommendation": "半天精华线（2.5～3小时⏳）",
+      "evidence_span": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+      "condition_type": "游客类型",
+      "cache_id": "d0691332734a94e36707fbabf12eae9ac002e5d2566b00e02915fb49570e643c"
+    },
+    "quarantine_reason": "invalid_recommendation",
+    "validation_rule_description": "建议缺失、空、类型不正确或不是原始窗口的连续子串",
+    "validation_rule_code": "not isinstance(item.get('recommendation'),str) or not item['recommendation'].strip() or item['recommendation'] not in p['source_text']",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": false,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "gugong_user_generated_d927127c74a320bc:289",
+    "condition": "进门",
+    "recommendation": "先冲珍宝馆，人最少、体验最好✅",
+    "evidence_span": "• 进门先冲珍宝馆，人最少、体验最好✅",
+    "condition_type": "其他条件",
+    "reason": "sequence_not_condition",
+    "window_id": "gugong_user_generated_d927127c74a320bc:289",
+    "doc_id": "gugong_user_generated_d927127c74a320bc",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "🏯故宫精简游览路线（不走回头路·省时省力版",
+    "source_url": "https://www.xiaohongshu.com/explore/69df5ab90000000021012e2a",
+    "source_text": "• 进门先冲珍宝馆，人最少、体验最好✅",
+    "source_start": 289,
+    "source_end": 308,
+    "context_before": "三、实用小建议💡\n",
+    "context_after": "\n• 中轴线人最多，拍照可去两侧宫殿📸",
+    "context_full": "三、实用小建议💡\n• 进门先冲珍宝馆，人最少、体验最好✅\n• 中轴线人最多，拍照可去两侧宫殿📸",
+    "context_start": 280,
+    "context_end": 327,
+    "full_document_ref": "gugong_user_generated_d927127c74a320bc",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0017",
+        "raw_array_index_0based": 16,
+        "cache_id": "d0691332734a94e36707fbabf12eae9ac002e5d2566b00e02915fb49570e643c"
+      }
+    ],
+    "review_record_id": "B-RAW-0017",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0017",
+    "raw_model_output": {
+      "id": "gugong_user_generated_d927127c74a320bc:289",
+      "condition": "进门",
+      "recommendation": "先冲珍宝馆，人最少、体验最好✅",
+      "evidence_span": "• 进门先冲珍宝馆，人最少、体验最好✅",
+      "condition_type": "其他条件",
+      "cache_id": "d0691332734a94e36707fbabf12eae9ac002e5d2566b00e02915fb49570e643c"
+    },
+    "quarantine_reason": "sequence_not_condition",
+    "validation_rule_description": "条件匹配预设顺序片段或箭头路线",
+    "validation_rule_code": "c in ('进门','吃饭','天鹅海结束','漫步群山之余') or re.search(r'下车后$|→',c)",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:191",
+    "condition": "带老人小孩",
+    "recommendation": "慎选",
+    "evidence_span": "步行距离稍远，带老人小孩慎选",
+    "condition_type": "体力与健康",
+    "reason": "unresolved_recommendation_target",
+    "window_id": "gugong_user_generated_76dc90f7094090c6:191",
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "故宫入园 5 条路线 ✅省时/省腿/避人流",
+    "source_url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+    "source_text": "❌ 缺点：步行距离稍远，带老人小孩慎选",
+    "source_start": 191,
+    "source_end": 210,
+    "context_before": "✔️ 优点：彻底避开天安门广场大部队，东华门打车不堵车，不用排长队安检\n",
+    "context_after": "\nㅤ",
+    "context_full": "✔️ 优点：彻底避开天安门广场大部队，东华门打车不堵车，不用排长队安检\n❌ 缺点：步行距离稍远，带老人小孩慎选\nㅤ",
+    "context_start": 155,
+    "context_end": 212,
+    "full_document_ref": "gugong_user_generated_76dc90f7094090c6",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0021",
+        "raw_array_index_0based": 20,
+        "cache_id": "4127481f6d054773fe4ecfde61bd7b885d64f870e7e5c256a24e59160ec04014"
+      }
+    ],
+    "review_record_id": "B-RAW-0021",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0021",
+    "raw_model_output": {
+      "id": "gugong_user_generated_76dc90f7094090c6:191",
+      "condition": "带老人小孩",
+      "recommendation": "慎选",
+      "evidence_span": "步行距离稍远，带老人小孩慎选",
+      "condition_type": "体力与健康",
+      "cache_id": "4127481f6d054773fe4ecfde61bd7b885d64f870e7e5c256a24e59160ec04014"
+    },
+    "quarantine_reason": "unresolved_recommendation_target",
+    "validation_rule_description": "建议去除末尾指定标点后恰为预设残片之一",
+    "validation_rule_code": "r.strip('！!。，') in ('慎选','适合','选这里','直接抄作业')",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:590",
+    "condition": "赶时间",
+    "recommendation": "慎选",
+    "evidence_span": "部分路段需绕路，赶时间慎选",
+    "condition_type": "时间约束",
+    "reason": "unresolved_recommendation_target",
+    "window_id": "gugong_user_generated_76dc90f7094090c6:590",
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "故宫入园 5 条路线 ✅省时/省腿/避人流",
+    "source_url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+    "source_text": "❌ 缺点：中山公园 3 元门票，部分路段需绕路，赶时间慎选",
+    "source_start": 590,
+    "source_end": 619,
+    "context_before": "✔️ 优点：避开广场人流，园内绿树成荫舒服，步行距离适中\n",
+    "context_after": "\nㅤ",
+    "context_full": "✔️ 优点：避开广场人流，园内绿树成荫舒服，步行距离适中\n❌ 缺点：中山公园 3 元门票，部分路段需绕路，赶时间慎选\nㅤ",
+    "context_start": 561,
+    "context_end": 621,
+    "full_document_ref": "gugong_user_generated_76dc90f7094090c6",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0022",
+        "raw_array_index_0based": 21,
+        "cache_id": "4127481f6d054773fe4ecfde61bd7b885d64f870e7e5c256a24e59160ec04014"
+      }
+    ],
+    "review_record_id": "B-RAW-0022",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0022",
+    "raw_model_output": {
+      "id": "gugong_user_generated_76dc90f7094090c6:590",
+      "condition": "赶时间",
+      "recommendation": "慎选",
+      "evidence_span": "部分路段需绕路，赶时间慎选",
+      "condition_type": "时间约束",
+      "cache_id": "4127481f6d054773fe4ecfde61bd7b885d64f870e7e5c256a24e59160ec04014"
+    },
+    "quarantine_reason": "unresolved_recommendation_target",
+    "validation_rule_description": "建议去除末尾指定标点后恰为预设残片之一",
+    "validation_rule_code": "r.strip('！!。，') in ('慎选','适合','选这里','直接抄作业')",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:728",
+    "condition": "体力好的年轻人",
+    "recommendation": "适合",
+    "evidence_span": "步行距离最远，适合体力好的年轻人",
+    "condition_type": "体力与健康",
+    "reason": "unresolved_recommendation_target",
+    "window_id": "gugong_user_generated_76dc90f7094090c6:728",
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "故宫入园 5 条路线 ✅省时/省腿/避人流",
+    "source_url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+    "source_text": "❌ 缺点：步行距离最远，适合体力好的年轻人",
+    "source_start": 728,
+    "source_end": 749,
+    "context_before": "✔️ 优点：人流量最少，沿途安静能看筒子河风光，避开所有拥挤路段\n",
+    "context_after": "\nㅤ",
+    "context_full": "✔️ 优点：人流量最少，沿途安静能看筒子河风光，避开所有拥挤路段\n❌ 缺点：步行距离最远，适合体力好的年轻人\nㅤ",
+    "context_start": 695,
+    "context_end": 751,
+    "full_document_ref": "gugong_user_generated_76dc90f7094090c6",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0023",
+        "raw_array_index_0based": 22,
+        "cache_id": "4127481f6d054773fe4ecfde61bd7b885d64f870e7e5c256a24e59160ec04014"
+      }
+    ],
+    "review_record_id": "B-RAW-0023",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0023",
+    "raw_model_output": {
+      "id": "gugong_user_generated_76dc90f7094090c6:728",
+      "condition": "体力好的年轻人",
+      "recommendation": "适合",
+      "evidence_span": "步行距离最远，适合体力好的年轻人",
+      "condition_type": "体力与健康",
+      "cache_id": "4127481f6d054773fe4ecfde61bd7b885d64f870e7e5c256a24e59160ec04014"
+    },
+    "quarantine_reason": "unresolved_recommendation_target",
+    "validation_rule_description": "建议去除末尾指定标点后恰为预设残片之一",
+    "validation_rule_code": "r.strip('！!。，') in ('慎选','适合','选这里','直接抄作业')",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:183",
+    "condition": "容易晕",
+    "recommendation": "选手摇船",
+    "evidence_span": "选手摇船！船身平稳不容易晕",
+    "condition_type": "体力与健康",
+    "reason": "negation_boundary",
+    "window_id": "xihu_user_generated_ddcb0707c1791565:183",
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_area": "杭州西湖",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "逛西湖不费腿路线，亲测带上老小都很轻松",
+    "source_url": "https://www.xiaohongshu.com/explore/6abf66e4000000001a029a51",
+    "source_text": "选手摇船！船身平稳不容易晕，还可以伸手碰湖水🫧",
+    "source_start": 183,
+    "source_end": 206,
+    "context_before": "坐船建议：\n",
+    "context_after": "\n推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～",
+    "context_full": "坐船建议：\n选手摇船！船身平稳不容易晕，还可以伸手碰湖水🫧\n推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～",
+    "context_start": 177,
+    "context_end": 242,
+    "full_document_ref": "xihu_user_generated_ddcb0707c1791565",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0026",
+        "raw_array_index_0based": 25,
+        "cache_id": "fd3da5cbc96d580abd1561a3c6c6c8600b9549fd22c7026eb66dbdc24645ff2f"
+      }
+    ],
+    "review_record_id": "B-RAW-0026",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0026",
+    "raw_model_output": {
+      "id": "xihu_user_generated_ddcb0707c1791565:183",
+      "condition": "容易晕",
+      "recommendation": "选手摇船",
+      "evidence_span": "选手摇船！船身平稳不容易晕",
+      "condition_type": "体力与健康",
+      "cache_id": "fd3da5cbc96d580abd1561a3c6c6c8600b9549fd22c7026eb66dbdc24645ff2f"
+    },
+    "quarantine_reason": "negation_boundary",
+    "validation_rule_description": "预测容易晕，但证据含不容易晕",
+    "validation_rule_code": "c=='容易晕' and '不容易晕' in item['evidence_span']",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:243",
+    "condition": "下午3点后",
+    "recommendation": "记得上午去",
+    "evidence_span": "记得上午去，下午3点后船工基本不接这个路线了",
+    "condition_type": "时间约束",
+    "reason": "time_boundary_needs_context",
+    "window_id": "xihu_user_generated_ddcb0707c1791565:243",
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_area": "杭州西湖",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "逛西湖不费腿路线，亲测带上老小都很轻松",
+    "source_url": "https://www.xiaohongshu.com/explore/6abf66e4000000001a029a51",
+    "source_text": "⏰ 记得上午去，下午3点后船工基本不接这个路线了",
+    "source_start": 243,
+    "source_end": 267,
+    "context_before": "推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～\n",
+    "context_after": "\n⚠️ 避坑提醒：",
+    "context_full": "推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～\n⏰ 记得上午去，下午3点后船工基本不接这个路线了\n⚠️ 避坑提醒：",
+    "context_start": 207,
+    "context_end": 276,
+    "full_document_ref": "xihu_user_generated_ddcb0707c1791565",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0027",
+        "raw_array_index_0based": 26,
+        "cache_id": "8a7b24a9b031754a2b4f6bebc7fe32b60f482c7755c4c13b613faf5aeec82bba"
+      }
+    ],
+    "review_record_id": "B-RAW-0027",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0027",
+    "raw_model_output": {
+      "id": "xihu_user_generated_ddcb0707c1791565:243",
+      "condition": "下午3点后",
+      "recommendation": "记得上午去",
+      "evidence_span": "记得上午去，下午3点后船工基本不接这个路线了",
+      "condition_type": "时间约束",
+      "cache_id": "8a7b24a9b031754a2b4f6bebc7fe32b60f482c7755c4c13b613faf5aeec82bba"
+    },
+    "quarantine_reason": "time_boundary_needs_context",
+    "validation_rule_description": "建议上午去而条件含下午3点后，程序隔离待查",
+    "validation_rule_code": "'记得上午去' in r and '下午3点后' in c",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "xihu_user_generated_059807848ba2b4a5:322",
+    "condition": "7 座古寺一次串",
+    "recommendation": "切记提前预Y",
+    "evidence_span": "7 座古寺一次串！财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+    "condition_type": "游览偏好",
+    "reason": "list_not_condition",
+    "window_id": "xihu_user_generated_059807848ba2b4a5:322",
+    "doc_id": "xihu_user_generated_059807848ba2b4a5",
+    "scenic_area": "杭州西湖",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "3分钟讲清楚❗️史上最全杭州旅游攻略❗️",
+    "source_url": "https://www.xiaohongshu.com/explore/6ab11320000000003303aa7c",
+    "source_text": "7 座古寺一次串！财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+    "source_start": 322,
+    "source_end": 365,
+    "context_before": "⛩️飞来峰寺庙线\n",
+    "context_after": "\n🌿南部小众",
+    "context_full": "⛩️飞来峰寺庙线\n7 座古寺一次串！财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！\n🌿南部小众",
+    "context_start": 313,
+    "context_end": 371,
+    "full_document_ref": "xihu_user_generated_059807848ba2b4a5",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0029",
+        "raw_array_index_0based": 28,
+        "cache_id": "8a7b24a9b031754a2b4f6bebc7fe32b60f482c7755c4c13b613faf5aeec82bba"
+      }
+    ],
+    "review_record_id": "B-RAW-0029",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0029",
+    "raw_model_output": {
+      "id": "xihu_user_generated_059807848ba2b4a5:322",
+      "condition": "7 座古寺一次串",
+      "recommendation": "切记提前预Y",
+      "evidence_span": "7 座古寺一次串！财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+      "condition_type": "游览偏好",
+      "cache_id": "8a7b24a9b031754a2b4f6bebc7fe32b60f482c7755c4c13b613faf5aeec82bba"
+    },
+    "quarantine_reason": "list_not_condition",
+    "validation_rule_description": "条件匹配此前特定列表表达的过滤规则",
+    "validation_rule_code": "c.startswith('财') or c=='7 座古寺一次串'",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "xihu_user_generated_059807848ba2b4a5:331",
+    "condition": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺",
+    "recommendation": "切记提前预Y",
+    "evidence_span": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+    "condition_type": "游览偏好",
+    "reason": "list_not_condition",
+    "window_id": "xihu_user_generated_059807848ba2b4a5:331",
+    "doc_id": "xihu_user_generated_059807848ba2b4a5",
+    "scenic_area": "杭州西湖",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "3分钟讲清楚❗️史上最全杭州旅游攻略❗️",
+    "source_url": "https://www.xiaohongshu.com/explore/6ab11320000000003303aa7c",
+    "source_text": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+    "source_start": 331,
+    "source_end": 365,
+    "context_before": "⛩️飞来峰寺庙线\n7 座古寺一次串！",
+    "context_after": "\n🌿南部小众",
+    "context_full": "⛩️飞来峰寺庙线\n7 座古寺一次串！财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！\n🌿南部小众",
+    "context_start": 313,
+    "context_end": 371,
+    "full_document_ref": "xihu_user_generated_059807848ba2b4a5",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0030",
+        "raw_array_index_0based": 29,
+        "cache_id": "8a7b24a9b031754a2b4f6bebc7fe32b60f482c7755c4c13b613faf5aeec82bba"
+      }
+    ],
+    "review_record_id": "B-RAW-0030",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0030",
+    "raw_model_output": {
+      "id": "xihu_user_generated_059807848ba2b4a5:331",
+      "condition": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺",
+      "recommendation": "切记提前预Y",
+      "evidence_span": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+      "condition_type": "游览偏好",
+      "cache_id": "8a7b24a9b031754a2b4f6bebc7fe32b60f482c7755c4c13b613faf5aeec82bba"
+    },
+    "quarantine_reason": "list_not_condition",
+    "validation_rule_description": "条件匹配此前特定列表表达的过滤规则",
+    "validation_rule_code": "c.startswith('财') or c=='7 座古寺一次串'",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "jiuzhaigou_user_generated_0ed001d738cb93a5:215",
+    "condition": "原始森林站下车后",
+    "recommendation": "不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+    "evidence_span": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+    "condition_type": "其他条件",
+    "reason": "sequence_not_condition",
+    "window_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:215",
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟一日速通",
+    "source_url": "https://www.xiaohongshu.com/explore/6ae2a985000000002c023fae",
+    "source_text": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道，美景尽收眼底，很推荐！（p8-p14）",
+    "source_start": 215,
+    "source_end": 279,
+    "context_before": "诺日朗中转坐车直达原始森林。\n",
+    "context_after": "\n一路顺着栈道：原始森林→芳草海→天鹅海，之后坐车去五花海。",
+    "context_full": "诺日朗中转坐车直达原始森林。\n原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道，美景尽收眼底，很推荐！（p8-p14）\n一路顺着栈道：原始森林→芳草海→天鹅海，之后坐车去五花海。",
+    "context_start": 200,
+    "context_end": 309,
+    "full_document_ref": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0044",
+        "raw_array_index_0based": 43,
+        "cache_id": "fb78a440b56a0a59e789f780594716fc7382a1846568bf2d11782e300329c845"
+      }
+    ],
+    "review_record_id": "B-RAW-0044",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0044",
+    "raw_model_output": {
+      "id": "jiuzhaigou_user_generated_0ed001d738cb93a5:215",
+      "condition": "原始森林站下车后",
+      "recommendation": "不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+      "evidence_span": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+      "condition_type": "其他条件",
+      "cache_id": "fb78a440b56a0a59e789f780594716fc7382a1846568bf2d11782e300329c845"
+    },
+    "quarantine_reason": "sequence_not_condition",
+    "validation_rule_description": "条件匹配预设顺序片段或箭头路线",
+    "validation_rule_code": "c in ('进门','吃饭','天鹅海结束','漫步群山之余') or re.search(r'下车后$|→',c)",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+    "condition": "原始森林→芳草海→天鹅海",
+    "recommendation": "可以走",
+    "evidence_span": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+    "condition_type": "游览偏好",
+    "reason": "sequence_not_condition",
+    "window_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟一日三沟｜天才J人的3万步实测攻略",
+    "source_url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+    "source_text": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+    "source_start": 393,
+    "source_end": 426,
+    "context_before": "我们这段没有走，直接选择坐观光车。现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。\n",
+    "context_after": "\n③ 右线精华｜五花海＋珍珠滩",
+    "context_full": "我们这段没有走，直接选择坐观光车。现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。\n建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。\n③ 右线精华｜五花海＋珍珠滩",
+    "context_start": 335,
+    "context_end": 441,
+    "full_document_ref": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0047",
+        "raw_array_index_0based": 46,
+        "cache_id": "b6a959e1223a34e97277cd1eef66148fe8442ceeefb691d62f935fe031bc7837"
+      }
+    ],
+    "review_record_id": "B-RAW-0047",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0047",
+    "raw_model_output": {
+      "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+      "condition": "原始森林→芳草海→天鹅海",
+      "recommendation": "可以走",
+      "evidence_span": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+      "condition_type": "游览偏好",
+      "cache_id": "b6a959e1223a34e97277cd1eef66148fe8442ceeefb691d62f935fe031bc7837"
+    },
+    "quarantine_reason": "sequence_not_condition",
+    "validation_rule_description": "条件匹配预设顺序片段或箭头路线",
+    "validation_rule_code": "c in ('进门','吃饭','天鹅海结束','漫步群山之余') or re.search(r'下车后$|→',c)",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  },
+  {
+    "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+    "condition": "天鹅海结束",
+    "recommendation": "直接坐车去箭竹海",
+    "evidence_span": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+    "condition_type": "游览偏好",
+    "reason": "sequence_not_condition",
+    "window_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟一日三沟｜天才J人的3万步实测攻略",
+    "source_url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+    "source_text": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+    "source_start": 393,
+    "source_end": 426,
+    "context_before": "我们这段没有走，直接选择坐观光车。现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。\n",
+    "context_after": "\n③ 右线精华｜五花海＋珍珠滩",
+    "context_full": "我们这段没有走，直接选择坐观光车。现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。\n建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。\n③ 右线精华｜五花海＋珍珠滩",
+    "context_start": 335,
+    "context_end": 441,
+    "full_document_ref": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "missing_fields": [
+      "original_relation_id (原始文件未分配独立关系ID)"
+    ],
+    "review_status": "待审核",
+    "raw_record_refs": [
+      {
+        "raw_record_id": "RAW-0048",
+        "raw_array_index_0based": 47,
+        "cache_id": "b6a959e1223a34e97277cd1eef66148fe8442ceeefb691d62f935fe031bc7837"
+      }
+    ],
+    "review_record_id": "B-RAW-0048",
+    "original_relation_id": null,
+    "original_id_note": "原始输出没有独立关系ID；RAW编号按冻结的raw_pairs数组位置补建，原始id为窗口ID",
+    "raw_record_id": "RAW-0048",
+    "raw_model_output": {
+      "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+      "condition": "天鹅海结束",
+      "recommendation": "直接坐车去箭竹海",
+      "evidence_span": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+      "condition_type": "游览偏好",
+      "cache_id": "b6a959e1223a34e97277cd1eef66148fe8442ceeefb691d62f935fe031bc7837"
+    },
+    "quarantine_reason": "sequence_not_condition",
+    "validation_rule_description": "条件匹配预设顺序片段或箭头路线",
+    "validation_rule_code": "c in ('进门','吃饭','天鹅海结束','漫步群山之余') or re.search(r'下车后$|→',c)",
+    "prediction_substring_checks": {
+      "condition": true,
+      "recommendation": true,
+      "evidence_span": true
+    }
+  }
+]

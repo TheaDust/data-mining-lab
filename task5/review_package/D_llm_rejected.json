@@ -1,0 +1,928 @@
+[
+  {
+    "window_id": "jiuzhaigou_official_88ef5cc31789dc71:1895",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_area": "九寨沟",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "九寨沟景区官方网站 - 游玩方式",
+    "source_url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+    "source_text": "您可以选择乘坐景区双层敞篷式观光大巴，一览雪山、红叶、碧水、绿草，化旅途劳顿为轻松休闲。",
+    "source_start": 1895,
+    "source_end": 1939,
+    "context_before": "从九寨沟县城到九寨沟神仙池景区58公里的路程，驱车前往约1个半小时即可到达。\n九寨沟神仙池景区景点：莲台映彩、青龙海、仙女池、金流泛波、莲花台、金银滩、瑶池、水帘洞、竹林幽径、翠绿海、万层滩、涌莲泉等。",
+    "context_after": "\n游览完神仙池景区后，您可以驱车来到九寨沟景区的漳扎镇，寻找合适的酒店，办理入住后便可以早早的休息，为第二天的行程养精蓄锐。",
+    "context_full": "从九寨沟县城到九寨沟神仙池景区58公里的路程，驱车前往约1个半小时即可到达。\n九寨沟神仙池景区景点：莲台映彩、青龙海、仙女池、金流泛波、莲花台、金银滩、瑶池、水帘洞、竹林幽径、翠绿海、万层滩、涌莲泉等。您可以选择乘坐景区双层敞篷式观光大巴，一览雪山、红叶、碧水、绿草，化旅途劳顿为轻松休闲。\n游览完神仙池景区后，您可以驱车来到九寨沟景区的漳扎镇，寻找合适的酒店，办理入住后便可以早早的休息，为第二天的行程养精蓄锐。",
+    "context_start": 1794,
+    "context_end": 2001,
+    "full_document_ref": "jiuzhaigou_official_88ef5cc31789dc71",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_official_88ef5cc31789dc71:1895",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "可以",
+          "start_in_window": 1,
+          "end_in_window": 3
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "45701c6c5d5c113b5f745b20f9cbb3ddf96f736176db57aa4c03ddda33d3cdd8",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 0
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_official_88ef5cc31789dc71:1233",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_area": "九寨沟",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "九寨沟景区官方网站 - 游玩方式",
+    "source_url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+    "source_text": "沟口乘车→长海→五彩池→诺日朗中心站→诺日朗瀑布→犀牛海→树正瀑布→树正群海→双龙海→芦苇海→盆景滩→出沟",
+    "source_start": 1233,
+    "source_end": 1286,
+    "context_before": "【Day 1】\n",
+    "context_after": "\n第一天的游览时间很宽松，不会感到很疲惫，因此可以体验到丰富的娱乐活动，这里推荐您走进景区外的藏家乐，您能品尝到具有藏羌特色的地道饮食餐品：烤全羊，青稞酒，酥油茶，奶茶，手抓肉，羊排，牦牛肉等，前半场在藏家室内吃喝看表演，后半场在室外跳篝火锅庄，过程趣味十足。",
+    "context_full": "【Day 1】\n沟口乘车→长海→五彩池→诺日朗中心站→诺日朗瀑布→犀牛海→树正瀑布→树正群海→双龙海→芦苇海→盆景滩→出沟\n第一天的游览时间很宽松，不会感到很疲惫，因此可以体验到丰富的娱乐活动，这里推荐您走进景区外的藏家乐，您能品尝到具有藏羌特色的地道饮食餐品：烤全羊，青稞酒，酥油茶，奶茶，手抓肉，羊排，牦牛肉等，前半场在藏家室内吃喝看表演，后半场在室外跳篝火锅庄，过程趣味十足。",
+    "context_start": 1225,
+    "context_end": 1416,
+    "full_document_ref": "jiuzhaigou_official_88ef5cc31789dc71",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_official_88ef5cc31789dc71:1233",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "乘车",
+          "start_in_window": 2,
+          "end_in_window": 4
+        }
+      ],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "99d11287d5854238543194770a55726157744656757c8dcdd673bd2904d24728",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 2
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:640",
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟一日速通",
+    "source_url": "https://www.xiaohongshu.com/explore/6ae2a985000000002c023fae",
+    "source_text": "这边是建议放弃左线，深度玩右线，因为五花海很吃光线，最佳观赏时间是中午和下午，所以早上就在原始森林慢悠悠的逛，然后10:00大概阳光出来了就开始从原始森林徒步到天鹅海。",
+    "source_start": 640,
+    "source_end": 724,
+    "context_before": "如果是分配到右线开始：\n",
+    "context_after": "\n最后下午16:00出沟，还坐上了回程的高铁。",
+    "context_full": "如果是分配到右线开始：\n这边是建议放弃左线，深度玩右线，因为五花海很吃光线，最佳观赏时间是中午和下午，所以早上就在原始森林慢悠悠的逛，然后10:00大概阳光出来了就开始从原始森林徒步到天鹅海。\n最后下午16:00出沟，还坐上了回程的高铁。",
+    "context_start": 628,
+    "context_end": 747,
+    "full_document_ref": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:640",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "建议",
+          "start_in_window": 3,
+          "end_in_window": 5
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "97007caf043c7a4e209e6ad93b623229ffec1dd30558b64b2cd61d8d2b6e4e04",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 0
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:698",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟一日三沟｜天才J人的3万步实测攻略",
+    "source_url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+    "source_text": "📌如果让我重新走一次",
+    "source_start": 698,
+    "source_end": 708,
+    "context_before": "🚶全天接近3万步。\n",
+    "context_after": "\n还是会选择：",
+    "context_full": "🚶全天接近3万步。\n📌如果让我重新走一次\n还是会选择：",
+    "context_start": 688,
+    "context_end": 715,
+    "full_document_ref": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:698",
+    "rule": "explicit",
+    "trigger_matches": {
+      "EXPLICIT": [
+        {
+          "text": "如果",
+          "start_in_window": 1,
+          "end_in_window": 3
+        }
+      ],
+      "IMPLICIT": [],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "3aeefc95589e57634b31fab4f6926059b25c6a296bd5239f71cb29e95b6e8fa5",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 0
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:523",
+    "doc_id": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟一日速通",
+    "source_url": "https://www.xiaohongshu.com/explore/6ae2a985000000002c023fae",
+    "source_text": "诺日朗乘车到树正寨，为什么不看犀牛海老虎海，因为要把时间留给群海观景平台，爬上去你就会得到（p15-p17）",
+    "source_start": 523,
+    "source_end": 577,
+    "context_before": "3️⃣ 中线\n",
+    "context_after": "\n树正群海 → 火花海 → 双龙海 → 芦苇海，一路往出口方向慢慢逛，其中芦苇海很绝，可以多加停留。",
+    "context_full": "3️⃣ 中线\n诺日朗乘车到树正寨，为什么不看犀牛海老虎海，因为要把时间留给群海观景平台，爬上去你就会得到（p15-p17）\n树正群海 → 火花海 → 双龙海 → 芦苇海，一路往出口方向慢慢逛，其中芦苇海很绝，可以多加停留。",
+    "context_start": 516,
+    "context_end": 627,
+    "full_document_ref": "jiuzhaigou_user_generated_0ed001d738cb93a5",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:523",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "乘车",
+          "start_in_window": 3,
+          "end_in_window": 5
+        }
+      ],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "97007caf043c7a4e209e6ad93b623229ffec1dd30558b64b2cd61d8d2b6e4e04",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 0
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "gugong_official_df6c311301c59157:3346",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_area": "北京故宫",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "北京故宫旅游路线怎么走最合适？",
+    "source_url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+    "source_text": "2.还有就是护城河边的角楼也是摄影爱好者的\"长枪短炮\"必到之地，在夕阳的映衬下，角楼倒映在旁边的护城河里，出神武门往东往西各有一个角楼，建议去西北角楼。",
+    "source_start": 3346,
+    "source_end": 3422,
+    "context_before": "1.排第一的毋庸置疑就是景山了，爬上景山的最高处，拍摄故宫的全景，要比在故宫里面游览的时候更为震撼。\n",
+    "context_after": "\n温馨提示：",
+    "context_full": "1.排第一的毋庸置疑就是景山了，爬上景山的最高处，拍摄故宫的全景，要比在故宫里面游览的时候更为震撼。\n2.还有就是护城河边的角楼也是摄影爱好者的\"长枪短炮\"必到之地，在夕阳的映衬下，角楼倒映在旁边的护城河里，出神武门往东往西各有一个角楼，建议去西北角楼。\n温馨提示：",
+    "context_start": 3295,
+    "context_end": 3428,
+    "full_document_ref": "gugong_official_df6c311301c59157",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "gugong_official_df6c311301c59157:3346",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "建议",
+          "start_in_window": 68,
+          "end_in_window": 70
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "8669fd28cea27385516d04a9be1ec26928ee02ceb33a112e9fd82dec13811dd1",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 3
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "gugong_official_df6c311301c59157:4003",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_area": "北京故宫",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "北京故宫旅游路线怎么走最合适？",
+    "source_url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+    "source_text": "参观完毕后，在出院前将语音讲解器交至讲解服务处。如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。",
+    "source_start": 4003,
+    "source_end": 4110,
+    "context_before": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。\n5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。汉语版、粤语版语音导览器租金20元/台，其他语种版40元/台。",
+    "context_after": "\n故宫作为华夏儿女的不朽精神的象征，因为有它的存在，才让我们的文化生活更加丰富多彩!它正如一旷世奇观永远在人们心间伫立!好比那首古诗一样：",
+    "context_full": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。\n5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。汉语版、粤语版语音导览器租金20元/台，其他语种版40元/台。参观完毕后，在出院前将语音讲解器交至讲解服务处。如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。\n故宫作为华夏儿女的不朽精神的象征，因为有它的存在，才让我们的文化生活更加丰富多彩!它正如一旷世奇观永远在人们心间伫立!好比那首古诗一样：",
+    "context_start": 3867,
+    "context_end": 4179,
+    "full_document_ref": "gugong_official_df6c311301c59157",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "gugong_official_df6c311301c59157:4003",
+    "rule": "explicit",
+    "trigger_matches": {
+      "EXPLICIT": [
+        {
+          "text": "如果",
+          "start_in_window": 24,
+          "end_in_window": 26
+        },
+        {
+          "text": "如果",
+          "start_in_window": 76,
+          "end_in_window": 78
+        }
+      ],
+      "IMPLICIT": [],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "09609e8886e930ffff5df7acaebc82c33976a06fabb0c33c50d4a5c70f4b91ad",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 2
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "gugong_official_df6c311301c59157:792",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_area": "北京故宫",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "北京故宫旅游路线怎么走最合适？",
+    "source_url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+    "source_text": "紫禁城的308口大水缸除了它固有的消防功能外，更为故宫平添了无尽的美感。1900年，八国联军攻入北京，在紫禁城中进行大肆掠夺时，有不少侵略者竟用刺刀狂刮鎏金铜缸上的金子，如今在太和殿两侧的大缸上，仍能清晰地看见侵略者当年留下的累累刀痕。",
+    "source_start": 792,
+    "source_end": 910,
+    "context_before": "前朝代表的是皇帝的威仪，所以，也是所有游客参观故宫的必经之所。紫禁城的整体建筑体系是\"中轴布局、左右对称\"，所以，放眼太和殿广场的最佳位置，就是两侧的弘义阁和体仁阁平台上，同样，这也是拍摄太和殿、太和殿广场的绝佳位置。\n",
+    "context_after": "\n【后庭居住区域：保和殿、中和殿、乾清宫】",
+    "context_full": "前朝代表的是皇帝的威仪，所以，也是所有游客参观故宫的必经之所。紫禁城的整体建筑体系是\"中轴布局、左右对称\"，所以，放眼太和殿广场的最佳位置，就是两侧的弘义阁和体仁阁平台上，同样，这也是拍摄太和殿、太和殿广场的绝佳位置。\n紫禁城的308口大水缸除了它固有的消防功能外，更为故宫平添了无尽的美感。1900年，八国联军攻入北京，在紫禁城中进行大肆掠夺时，有不少侵略者竟用刺刀狂刮鎏金铜缸上的金子，如今在太和殿两侧的大缸上，仍能清晰地看见侵略者当年留下的累累刀痕。\n【后庭居住区域：保和殿、中和殿、乾清宫】",
+    "context_start": 682,
+    "context_end": 931,
+    "full_document_ref": "gugong_official_df6c311301c59157",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "gugong_official_df6c311301c59157:792",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "时，",
+          "start_in_window": 62,
+          "end_in_window": 64
+        }
+      ],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "8ff0f3f074dd7227144af295f6be2bdbdb0254a169f754231d07cbfd76d7a61e",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 0
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "gugong_user_generated_c57f5e2b6ca3c3a0:284",
+    "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "北京故宫‼️本地人推荐的游玩路线攻略+地图",
+    "source_url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+    "source_text": "半天逛不全，且下午票11:00进场会赶上一天最热时段。不推荐1-2小时的快速路线",
+    "source_start": 284,
+    "source_end": 324,
+    "context_before": "❸故宫开放时间：8:30-17:00\n❹参观时间：选上午票！第一次来一定留1天！",
+    "context_after": "\n❺故宫入口最佳路线：从东侧东华门进午门！亲测只过1个安检口，很快",
+    "context_full": "❸故宫开放时间：8:30-17:00\n❹参观时间：选上午票！第一次来一定留1天！半天逛不全，且下午票11:00进场会赶上一天最热时段。不推荐1-2小时的快速路线\n❺故宫入口最佳路线：从东侧东华门进午门！亲测只过1个安检口，很快",
+    "context_start": 244,
+    "context_end": 357,
+    "full_document_ref": "gugong_user_generated_c57f5e2b6ca3c3a0",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "gugong_user_generated_c57f5e2b6ca3c3a0:284",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "推荐",
+          "start_in_window": 28,
+          "end_in_window": 30
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "c7a00588c439a274c28a379591a0a56a2932550f4e2857083d5617f9028df260",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 1
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "gugong_user_generated_76dc90f7094090c6:695",
+    "doc_id": "gugong_user_generated_76dc90f7094090c6",
+    "scenic_area": "北京故宫",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "故宫入园 5 条路线 ✅省时/省腿/避人流",
+    "source_url": "https://www.xiaohongshu.com/explore/694fc6e8000000001e024b65",
+    "source_text": "✔️ 优点：人流量最少，沿途安静能看筒子河风光，避开所有拥挤路段",
+    "source_start": 695,
+    "source_end": 727,
+    "context_before": "✅ 公共交通：地铁 1 号线天安门西站 B 口→南长街→西华门（仅路过）→沿筒子河步行→午门检票口\n",
+    "context_after": "\n❌ 缺点：步行距离最远，适合体力好的年轻人",
+    "context_full": "✅ 公共交通：地铁 1 号线天安门西站 B 口→南长街→西华门（仅路过）→沿筒子河步行→午门检票口\n✔️ 优点：人流量最少，沿途安静能看筒子河风光，避开所有拥挤路段\n❌ 缺点：步行距离最远，适合体力好的年轻人",
+    "context_start": 645,
+    "context_end": 749,
+    "full_document_ref": "gugong_user_generated_76dc90f7094090c6",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "gugong_user_generated_76dc90f7094090c6:695",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "拥挤",
+          "start_in_window": 28,
+          "end_in_window": 30
+        }
+      ],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "4127481f6d054773fe4ecfde61bd7b885d64f870e7e5c256a24e59160ec04014",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 4
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "xihu_official_7a3841720cf3aaa6:1801",
+    "doc_id": "xihu_official_7a3841720cf3aaa6",
+    "scenic_area": "杭州西湖",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "“五一”杭州怎么玩？“西湖文化特使”推荐十条精彩线路",
+    "source_url": "https://hznews.hangzhou.com.cn/wghz/content/2021-04/29/content_7956439.htm",
+    "source_text": "旧时，江浙两地的香客乘船来杭州天竺敬香，自茅家埠登岸，再沿着山路到达天竺诸寺，从而踏出了一条“上香古道”。每到佛事季节，古道上熙熙攘攘，好不热闹。",
+    "source_start": 1801,
+    "source_end": 1874,
+    "context_before": "上香古道佛教文化之旅\n",
+    "context_after": "\n线路全程约3-4小时",
+    "context_full": "上香古道佛教文化之旅\n旧时，江浙两地的香客乘船来杭州天竺敬香，自茅家埠登岸，再沿着山路到达天竺诸寺，从而踏出了一条“上香古道”。每到佛事季节，古道上熙熙攘攘，好不热闹。\n线路全程约3-4小时",
+    "context_start": 1790,
+    "context_end": 1885,
+    "full_document_ref": "xihu_official_7a3841720cf3aaa6",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "xihu_official_7a3841720cf3aaa6:1801",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "时，",
+          "start_in_window": 1,
+          "end_in_window": 3
+        }
+      ],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "c17da69b700734ce3a8b71f30fe25bc3363be9d2ced2eb1060bf80af96790e6c",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 1
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "xihu_user_generated_6d86937f2bf70da9:565",
+    "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+    "scenic_area": "杭州西湖",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "杭州西湖一日游路线攻略，不走回头路‼️",
+    "source_url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+    "source_text": "按船收费，可以找人拼船；花港观鱼、中山公园码头可以坐船去三潭印月",
+    "source_start": 565,
+    "source_end": 597,
+    "context_before": "摇橹船：180元/小时/船\n",
+    "context_after": "\n📸游玩小tips：",
+    "context_full": "摇橹船：180元/小时/船\n按船收费，可以找人拼船；花港观鱼、中山公园码头可以坐船去三潭印月\n📸游玩小tips：",
+    "context_start": 551,
+    "context_end": 607,
+    "full_document_ref": "xihu_user_generated_6d86937f2bf70da9",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "xihu_user_generated_6d86937f2bf70da9:565",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "可以",
+          "start_in_window": 5,
+          "end_in_window": 7
+        },
+        {
+          "text": "可以",
+          "start_in_window": 23,
+          "end_in_window": 25
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "00f5ac71b567b35dc43b21e3108006694dbf31dc0f5d26c224d0482a323072be",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 5
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "xihu_user_generated_ddcb0707c1791565:207",
+    "doc_id": "xihu_user_generated_ddcb0707c1791565",
+    "scenic_area": "杭州西湖",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "逛西湖不费腿路线，亲测带上老小都很轻松",
+    "source_url": "https://www.xiaohongshu.com/explore/6abf66e4000000001a029a51",
+    "source_text": "推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～",
+    "source_start": 207,
+    "source_end": 242,
+    "context_before": "选手摇船！船身平稳不容易晕，还可以伸手碰湖水🫧\n",
+    "context_after": "\n⏰ 记得上午去，下午3点后船工基本不接这个路线了",
+    "context_full": "选手摇船！船身平稳不容易晕，还可以伸手碰湖水🫧\n推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～\n⏰ 记得上午去，下午3点后船工基本不接这个路线了",
+    "context_start": 183,
+    "context_end": 267,
+    "full_document_ref": "xihu_user_generated_ddcb0707c1791565",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "xihu_user_generated_ddcb0707c1791565:207",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "孩子",
+          "start_in_window": 27,
+          "end_in_window": 29
+        }
+      ],
+      "ADVICE": [
+        {
+          "text": "推荐",
+          "start_in_window": 0,
+          "end_in_window": 2
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "fd3da5cbc96d580abd1561a3c6c6c8600b9549fd22c7026eb66dbdc24645ff2f",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 2
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_official_88ef5cc31789dc71:1287",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_area": "九寨沟",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "九寨沟景区官方网站 - 游玩方式",
+    "source_url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+    "source_text": "第一天的游览时间很宽松，不会感到很疲惫，因此可以体验到丰富的娱乐活动，这里推荐您走进景区外的藏家乐，您能品尝到具有藏羌特色的地道饮食餐品：烤全羊，青稞酒，酥油茶，奶茶，手抓肉，羊排，牦牛肉等，前半场在藏家室内吃喝看表演，后半场在室外跳篝火锅庄，过程趣味十足。",
+    "source_start": 1287,
+    "source_end": 1416,
+    "context_before": "沟口乘车→长海→五彩池→诺日朗中心站→诺日朗瀑布→犀牛海→树正瀑布→树正群海→双龙海→芦苇海→盆景滩→出沟\n",
+    "context_after": "\n【Day 2】",
+    "context_full": "沟口乘车→长海→五彩池→诺日朗中心站→诺日朗瀑布→犀牛海→树正瀑布→树正群海→双龙海→芦苇海→盆景滩→出沟\n第一天的游览时间很宽松，不会感到很疲惫，因此可以体验到丰富的娱乐活动，这里推荐您走进景区外的藏家乐，您能品尝到具有藏羌特色的地道饮食餐品：烤全羊，青稞酒，酥油茶，奶茶，手抓肉，羊排，牦牛肉等，前半场在藏家室内吃喝看表演，后半场在室外跳篝火锅庄，过程趣味十足。\n【Day 2】",
+    "context_start": 1233,
+    "context_end": 1424,
+    "full_document_ref": "jiuzhaigou_official_88ef5cc31789dc71",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_official_88ef5cc31789dc71:1287",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "可以",
+          "start_in_window": 22,
+          "end_in_window": 24
+        },
+        {
+          "text": "推荐",
+          "start_in_window": 37,
+          "end_in_window": 39
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "99d11287d5854238543194770a55726157744656757c8dcdd673bd2904d24728",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 2
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_official_88ef5cc31789dc71:679",
+    "doc_id": "jiuzhaigou_official_88ef5cc31789dc71",
+    "scenic_area": "九寨沟",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "九寨沟景区官方网站 - 游玩方式",
+    "source_url": "https://www.jiuzhai.com/intelligent-service/way-of-play",
+    "source_text": "诺日朗群海→诺日朗中心站（11:30-13:30诺日朗餐厅用餐，用餐和休息时间2个小时，可观赏诺日朗瀑布）",
+    "source_start": 679,
+    "source_end": 732,
+    "context_before": "【中午】\n",
+    "context_after": "\n【下午】",
+    "context_full": "【中午】\n诺日朗群海→诺日朗中心站（11:30-13:30诺日朗餐厅用餐，用餐和休息时间2个小时，可观赏诺日朗瀑布）\n【下午】",
+    "context_start": 674,
+    "context_end": 737,
+    "full_document_ref": "jiuzhaigou_official_88ef5cc31789dc71",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_official_88ef5cc31789dc71:679",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "时，",
+          "start_in_window": 42,
+          "end_in_window": 44
+        }
+      ],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "c17da69b700734ce3a8b71f30fe25bc3363be9d2ced2eb1060bf80af96790e6c",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 1
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:774",
+    "doc_id": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟一日三沟｜天才J人的3万步实测攻略",
+    "source_url": "https://www.xiaohongshu.com/explore/6ac66f3a000000001303e8c9",
+    "source_text": "✅ 珍珠滩→珍珠滩瀑布：强烈推荐徒步",
+    "source_start": 774,
+    "source_end": 792,
+    "context_before": "❌ 天鹅海→箭竹海：距离远，不建议徒步\n",
+    "context_after": "\n🚌 大距离移动：该坐观光车就坐",
+    "context_full": "❌ 天鹅海→箭竹海：距离远，不建议徒步\n✅ 珍珠滩→珍珠滩瀑布：强烈推荐徒步\n🚌 大距离移动：该坐观光车就坐",
+    "context_start": 754,
+    "context_end": 808,
+    "full_document_ref": "jiuzhaigou_user_generated_653f517e7ecb42a0",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:774",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "推荐",
+          "start_in_window": 14,
+          "end_in_window": 16
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "407bd196787be37068435d437a64936f4368fe20ddcd46c8110455d7dc87a59d",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 2
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_user_generated_292a4ed7e67255de:621",
+    "doc_id": "jiuzhaigou_user_generated_292a4ed7e67255de",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟全线一日速通 徒步人适用",
+    "source_url": "https://www.xiaohongshu.com/explore/6ad59171000000002702312a",
+    "source_text": "九寨沟的调度果然名不虚传，虽然进入第一次分线是随机的，但是只要把路线分成几大板块，就完全不受影响。",
+    "source_start": 621,
+    "source_end": 670,
+    "context_before": "晚上7点前要赶到华美胜地去领第二天越野赛的物资，本来打算的是能看多少看多少，没想到走着走着竟然通关了。\n",
+    "context_after": "\n最终结算景区内3.3w步，不过基本是平路和下台阶，对于徒步人来说不算特别累。",
+    "context_full": "晚上7点前要赶到华美胜地去领第二天越野赛的物资，本来打算的是能看多少看多少，没想到走着走着竟然通关了。\n九寨沟的调度果然名不虚传，虽然进入第一次分线是随机的，但是只要把路线分成几大板块，就完全不受影响。\n最终结算景区内3.3w步，不过基本是平路和下台阶，对于徒步人来说不算特别累。",
+    "context_start": 569,
+    "context_end": 709,
+    "full_document_ref": "jiuzhaigou_user_generated_292a4ed7e67255de",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_user_generated_292a4ed7e67255de:621",
+    "rule": "explicit",
+    "trigger_matches": {
+      "EXPLICIT": [
+        {
+          "text": "只要",
+          "start_in_window": 29,
+          "end_in_window": 31
+        }
+      ],
+      "IMPLICIT": [],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "6e6dc62386ee3b602c38f788d3e366eb7b47ca513b046d0d3213fa8907171ca1",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 0
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:370",
+    "doc_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "scenic_area": "九寨沟",
+    "source_type": "user_generated",
+    "source_type_label": "游客游记",
+    "source_title": "九寨沟徒步7小时+～全路线分享",
+    "source_url": "https://www.xiaohongshu.com/explore/6a6040e7000000001002af2d",
+    "source_text": "澄澈蓝绿渐变湖水、水下钙化枯木像海底森林、倒影极干净，晴天镜面感强、很出片，有很多鱼🐟",
+    "source_start": 370,
+    "source_end": 413,
+    "context_before": "📍熊猫海（必去✅）\n海拔2574–2587。",
+    "context_after": "\n📍五花海（必去✅）",
+    "context_full": "📍熊猫海（必去✅）\n海拔2574–2587。澄澈蓝绿渐变湖水、水下钙化枯木像海底森林、倒影极干净，晴天镜面感强、很出片，有很多鱼🐟\n📍五花海（必去✅）",
+    "context_start": 348,
+    "context_end": 423,
+    "full_document_ref": "jiuzhaigou_user_generated_aa7e68d694fcc6a7",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:370",
+    "rule": "implicit",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [
+        {
+          "text": "晴天",
+          "start_in_window": 27,
+          "end_in_window": 29
+        }
+      ],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "6e6dc62386ee3b602c38f788d3e366eb7b47ca513b046d0d3213fa8907171ca1",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 0
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "gugong_official_df6c311301c59157:3943",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_area": "北京故宫",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "北京故宫旅游路线怎么走最合适？",
+    "source_url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+    "source_text": "5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。汉语版、粤语版语音导览器租金20元/台，其他语种版40元/台。",
+    "source_start": 3943,
+    "source_end": 4003,
+    "context_before": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。\n",
+    "context_after": "参观完毕后，在出院前将语音讲解器交至讲解服务处。如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。\n故宫作为华夏儿女的不朽精神的象征，因为有它的存在，才让我们的文化生活更加丰富多彩!它正如一旷世奇观永远在人们心间伫立!好比那首古诗一样：",
+    "context_full": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。\n5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。汉语版、粤语版语音导览器租金20元/台，其他语种版40元/台。参观完毕后，在出院前将语音讲解器交至讲解服务处。如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。\n故宫作为华夏儿女的不朽精神的象征，因为有它的存在，才让我们的文化生活更加丰富多彩!它正如一旷世奇观永远在人们心间伫立!好比那首古诗一样：",
+    "context_start": 3867,
+    "context_end": 4179,
+    "full_document_ref": "gugong_official_df6c311301c59157",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "gugong_official_df6c311301c59157:3943",
+    "rule": "advice_only",
+    "trigger_matches": {
+      "EXPLICIT": [],
+      "IMPLICIT": [],
+      "ADVICE": [
+        {
+          "text": "建议",
+          "start_in_window": 2,
+          "end_in_window": 4
+        }
+      ]
+    },
+    "llm_result": {
+      "cache_id": "09609e8886e930ffff5df7acaebc82c33976a06fabb0c33c50d4a5c70f4b91ad",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 2
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  },
+  {
+    "window_id": "gugong_official_df6c311301c59157:4027",
+    "doc_id": "gugong_official_df6c311301c59157",
+    "scenic_area": "北京故宫",
+    "source_type": "official",
+    "source_type_label": "官方指南",
+    "source_title": "北京故宫旅游路线怎么走最合适？",
+    "source_url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+    "source_text": "如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。",
+    "source_start": 4027,
+    "source_end": 4110,
+    "context_before": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。\n5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。汉语版、粤语版语音导览器租金20元/台，其他语种版40元/台。参观完毕后，在出院前将语音讲解器交至讲解服务处。",
+    "context_after": "\n故宫作为华夏儿女的不朽精神的象征，因为有它的存在，才让我们的文化生活更加丰富多彩!它正如一旷世奇观永远在人们心间伫立!好比那首古诗一样：",
+    "context_full": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。\n5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。汉语版、粤语版语音导览器租金20元/台，其他语种版40元/台。参观完毕后，在出院前将语音讲解器交至讲解服务处。如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。\n故宫作为华夏儿女的不朽精神的象征，因为有它的存在，才让我们的文化生活更加丰富多彩!它正如一旷世奇观永远在人们心间伫立!好比那首古诗一样：",
+    "context_start": 3867,
+    "context_end": 4179,
+    "full_document_ref": "gugong_official_df6c311301c59157",
+    "missing_fields": [
+      "current_rejection_reason (历史响应未提供)"
+    ],
+    "review_status": "待审核",
+    "candidate_id": "gugong_official_df6c311301c59157:4027",
+    "rule": "explicit",
+    "trigger_matches": {
+      "EXPLICIT": [
+        {
+          "text": "如果",
+          "start_in_window": 0,
+          "end_in_window": 2
+        },
+        {
+          "text": "如果",
+          "start_in_window": 52,
+          "end_in_window": 54
+        }
+      ],
+      "IMPLICIT": [],
+      "ADVICE": []
+    },
+    "llm_result": {
+      "cache_id": "09609e8886e930ffff5df7acaebc82c33976a06fabb0c33c50d4a5c70f4b91ad",
+      "model": "deepseek-flash",
+      "prompt_version": "v2",
+      "call_success": true,
+      "returned_pairs": [],
+      "batch_result_count": 2
+    },
+    "current_rejection_reason": null,
+    "rejection_note": "本窗口模型pairs为空；旧结果没有逐窗口拒绝解释，不推测原因"
+  }
+]

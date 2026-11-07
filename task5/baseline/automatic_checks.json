@@ -1,0 +1,9 @@
+{
+  "evidence_checked": 71,
+  "rejected": 1,
+  "human_completed": 0,
+  "precision": null,
+  "recall": null,
+  "f1": null,
+  "notes": "证据子串一致不等于语义正确；无人工金标准不计算P/R/F1。"
+}

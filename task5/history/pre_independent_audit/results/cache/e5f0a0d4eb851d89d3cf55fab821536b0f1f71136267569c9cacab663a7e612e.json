@@ -1,0 +1,56 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:571",
+      "condition": "初次来",
+      "recommendation": "回到太和门沿中轴线一路向北感受大殿的气派",
+      "evidence_span": "回到太和门沿中轴线一路向北感受大殿的气派（初次来不建议为了省几步路中轴线和东西宫来回穿梭！因为风格不同，体验容易中断，还容易漏景点）",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:809",
+      "condition": "晴天",
+      "recommendation": "带伞",
+      "evidence_span": "晴天带伞！",
+      "condition_type": "天气环境"
+    },
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:819",
+      "condition": "晴天",
+      "recommendation": "带伞",
+      "evidence_span": "晴天带伞！",
+      "condition_type": "天气环境"
+    },
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:824",
+      "condition": "吃饭",
+      "recommendation": "选这里",
+      "evidence_span": "冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里",
+      "condition_type": "其他条件"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 839,
+    "completion_tokens": 279,
+    "total_tokens": 1118,
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    },
+    "prompt_cache_hit_tokens": 256,
+    "prompt_cache_miss_tokens": 583
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v2",
+  "attempts": 1
+}

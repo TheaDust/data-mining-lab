@@ -1,0 +1,49 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_ac13633e735a71ff:793",
+      "condition": "带娃",
+      "recommendation": "在这里收尾，顺便跟孩子科普一下溥仪离开皇宫以后经理的伪满洲国等其他故事",
+      "evidence_span": "带娃在这里收尾，顺便跟孩子科普一下溥仪离开皇宫以后经理的伪满洲国等其他故事",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_user_generated_d927127c74a320bc:35",
+      "condition": "带娃/赶时间",
+      "recommendation": "半天精华线（2.5～3小时⏳）",
+      "evidence_span": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_user_generated_d927127c74a320bc:289",
+      "condition": "进门",
+      "recommendation": "先冲珍宝馆，人最少、体验最好✅",
+      "evidence_span": "进门先冲珍宝馆，人最少、体验最好✅",
+      "condition_type": "其他条件"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 573,
+    "completion_tokens": 235,
+    "total_tokens": 808,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 445
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

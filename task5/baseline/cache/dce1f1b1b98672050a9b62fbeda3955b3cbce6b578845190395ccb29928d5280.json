@@ -1,0 +1,56 @@
+{
+  "pairs": [
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:0",
+      "condition": "来杭州旅游",
+      "recommendation": "走另一半西湖",
+      "evidence_span": "来杭州旅游，比起挤满人从众的断桥残雪、白堤更推荐大家走另一半西湖",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:192",
+      "condition": "早上人很少",
+      "recommendation": "推荐大家去拍照",
+      "evidence_span": "早上人很少还是蛮推荐大家去拍照的",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:192",
+      "condition": "光线偏暗",
+      "recommendation": "建议穿浅色衣服",
+      "evidence_span": "光线偏暗建议穿浅色衣服",
+      "condition_type": "天气环境"
+    },
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:239",
+      "condition": "前往太子湾公园会顺路看见雷峰塔",
+      "recommendation": "不建议大家花钱进去，就在西湖边拍个照就够了",
+      "evidence_span": "前往太子湾公园会顺路看见雷峰塔，不建议大家花钱进去，就在西湖边拍个照就够了",
+      "condition_type": "游览偏好"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 647,
+    "completion_tokens": 276,
+    "total_tokens": 923,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 519
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

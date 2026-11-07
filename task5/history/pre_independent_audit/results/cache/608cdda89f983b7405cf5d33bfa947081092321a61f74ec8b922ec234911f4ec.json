@@ -1,0 +1,70 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_2641b9750708433f:100",
+      "condition": "下午1点左右",
+      "recommendation": "进场才舒服",
+      "evidence_span": "下午1点左右进场才舒服",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_user_generated_2641b9750708433f:129",
+      "condition": "下午1点左右",
+      "recommendation": "进场才舒服",
+      "evidence_span": "下午1点左右进场才舒服",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_user_generated_2641b9750708433f:450",
+      "condition": "提前10分钟",
+      "recommendation": "爬上万春亭",
+      "evidence_span": "提前10分钟爬上万春亭",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:191",
+      "condition": "带老人小孩",
+      "recommendation": "慎选",
+      "evidence_span": "带老人小孩慎选",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:590",
+      "condition": "赶时间",
+      "recommendation": "慎选",
+      "evidence_span": "赶时间慎选",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:728",
+      "condition": "体力好的年轻人",
+      "recommendation": "适合",
+      "evidence_span": "适合体力好的年轻人",
+      "condition_type": "体力与健康"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 661,
+    "completion_tokens": 314,
+    "total_tokens": 975,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 533
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

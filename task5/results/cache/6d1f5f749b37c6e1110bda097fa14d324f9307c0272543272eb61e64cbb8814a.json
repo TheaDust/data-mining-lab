@@ -1,0 +1,49 @@
+{
+  "pairs": [
+    {
+      "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:149",
+      "condition": "把时间和体力留给右线",
+      "recommendation": "左线我们选择速通，核心看完长海和五彩池就撤",
+      "evidence_span": "左线我们选择速通，核心看完长海和五彩池就撤，把时间和体力留给右线。",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:335",
+      "condition": "现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光",
+      "recommendation": "直接选择坐观光车",
+      "evidence_span": "我们这段没有走，直接选择坐观光车。现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:352",
+      "condition": "现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光",
+      "recommendation": "没必要提前把体力耗光",
+      "evidence_span": "现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。",
+      "condition_type": "体力与健康"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 655,
+    "completion_tokens": 307,
+    "total_tokens": 962,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 527
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

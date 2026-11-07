@@ -1,0 +1,49 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_official_df6c311301c59157:3594",
+      "condition": "旅游旺季参观时",
+      "recommendation": "可以在网上提前订票，到时候可直接刷身份证进入，不需要排队",
+      "evidence_span": "所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:3594",
+      "condition": "如果是带小朋友或者是带婴儿车的游客",
+      "recommendation": "比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+      "evidence_span": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:3667",
+      "condition": "如果是带小朋友或者是带婴儿车的游客",
+      "recommendation": "比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+      "evidence_span": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+      "condition_type": "游客类型"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 769,
+    "completion_tokens": 263,
+    "total_tokens": 1032,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 641
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

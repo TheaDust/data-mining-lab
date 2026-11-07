@@ -1,0 +1,42 @@
+[
+  {
+    "kept": "R00002",
+    "merged": "R00003",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00005",
+    "merged": "R00006",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00008",
+    "merged": "R00010",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00009",
+    "merged": "R00011",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00020",
+    "merged": "R00021",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00030",
+    "merged": "R00031",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00046",
+    "merged": "R00048",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00047",
+    "merged": "R00049",
+    "reason": "condition_and_recommendation_normalized_equal"
+  }
+]

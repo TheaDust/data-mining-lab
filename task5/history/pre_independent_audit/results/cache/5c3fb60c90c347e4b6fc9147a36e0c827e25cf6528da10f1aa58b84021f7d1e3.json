@@ -1,0 +1,70 @@
+{
+  "pairs": [
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:365",
+      "condition": "节假日很难抢到",
+      "recommendation": "大家可以骑行路过乌龟潭，也可以看到很好的风景，顺手拍一张摇橹船缓缓驶过的照片",
+      "evidence_span": "节假日很难抢到，大家可以骑行路过乌龟潭，也可以看到很好的风景，顺手拍一张摇橹船缓缓驶过的照片",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:443",
+      "condition": "想安安静静欣赏风景的人",
+      "recommendation": "就在西湖的西侧是曾经的上香古道，景区人非常少，很适合",
+      "evidence_span": "就在西湖的西侧是曾经的上香古道，景区人非常少，很适合想安安静静欣赏风景的人",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:508",
+      "condition": "如果还有力气",
+      "recommendation": "可以再走五百多米，就可以到上茅家埠茶园拍逛逛",
+      "evidence_span": "如果还有力气可以再走五百多米，就可以到上茅家埠茶园拍逛逛",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "xihu_user_generated_6322b1ddadb1b801:508",
+      "condition": "阴雨天的时候",
+      "recommendation": "特别有氛围感",
+      "evidence_span": "阴雨天的时候特别有氛围感",
+      "condition_type": "天气环境"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_0ed001d738cb93a5:161",
+      "condition": "留体力和时间给更好看的右线",
+      "recommendation": "左线必须速刷，景色很普，看完就撤",
+      "evidence_span": "左线必须速刷，景色很普，看完就撤，留体力和时间给更好看的右线",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_0ed001d738cb93a5:215",
+      "condition": "原始森林站下车后",
+      "recommendation": "不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+      "evidence_span": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+      "condition_type": "其他条件"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 672,
+    "completion_tokens": 503,
+    "total_tokens": 1175,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 544
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

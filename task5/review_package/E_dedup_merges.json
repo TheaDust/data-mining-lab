@@ -1,0 +1,587 @@
+[
+  {
+    "merge_group_id": "MG-R00002",
+    "retained_pair_id": "R00002",
+    "member_record_ids": [
+      "R00002",
+      "R00003"
+    ],
+    "removed_record_ids": [
+      "R00003"
+    ],
+    "members": [
+      {
+        "id": "gugong_official_df6c311301c59157:3594",
+        "doc_id": "gugong_official_df6c311301c59157",
+        "scenic_area": "北京故宫",
+        "source_type": "official",
+        "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+        "start": 3594,
+        "end": 3714,
+        "source_text": "故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队。如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪。",
+        "rule": "explicit",
+        "condition": "带小朋友或者是带婴儿车的游客",
+        "recommendation": "比较推荐购买一日游的产品",
+        "evidence_span": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品",
+        "condition_type": "游客类型",
+        "pair_id": "R00002",
+        "offsets": {
+          "condition": 3670,
+          "recommendation": 3685,
+          "evidence_span": 3667
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "gugong_official_df6c311301c59157:3594",
+        "source_type_label": "官方指南",
+        "source_title": "北京故宫旅游路线怎么走最合适？",
+        "source_url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+        "source_start": 3594,
+        "source_end": 3714,
+        "context_before": "2.实名制购票，准备好身份证午门的人工售票处， 故宫门票出售时间8:30-16:00，上午场和下午场分开出售。\n",
+        "context_after": "\n因为故宫每天的限流8万人次，故宫实名制购票，大人带好身份证，孩子带好户口本或身份证，没有证件是参观不了的，记住哦。",
+        "context_full": "2.实名制购票，准备好身份证午门的人工售票处， 故宫门票出售时间8:30-16:00，上午场和下午场分开出售。\n故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队。如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪。\n因为故宫每天的限流8万人次，故宫实名制购票，大人带好身份证，孩子带好户口本或身份证，没有证件是参观不了的，记住哦。",
+        "context_start": 3538,
+        "context_end": 3772,
+        "full_document_ref": "gugong_official_df6c311301c59157",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0002",
+            "raw_array_index_0based": 1,
+            "cache_id": "8669fd28cea27385516d04a9be1ec26928ee02ceb33a112e9fd82dec13811dd1"
+          }
+        ]
+      },
+      {
+        "id": "gugong_official_df6c311301c59157:3667",
+        "doc_id": "gugong_official_df6c311301c59157",
+        "scenic_area": "北京故宫",
+        "source_type": "official",
+        "url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+        "start": 3667,
+        "end": 3714,
+        "source_text": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪。",
+        "rule": "explicit",
+        "condition": "带小朋友或者是带婴儿车的游客",
+        "recommendation": "比较推荐购买一日游的产品",
+        "evidence_span": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品",
+        "condition_type": "游客类型",
+        "pair_id": "R00003",
+        "offsets": {
+          "condition": 3670,
+          "recommendation": 3685,
+          "evidence_span": 3667
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "gugong_official_df6c311301c59157:3667",
+        "source_type_label": "官方指南",
+        "source_title": "北京故宫旅游路线怎么走最合适？",
+        "source_url": "https://www.visitbeijing.com.cn/article/47QrSKGCz9N",
+        "source_start": 3667,
+        "source_end": 3714,
+        "context_before": "2.实名制购票，准备好身份证午门的人工售票处， 故宫门票出售时间8:30-16:00，上午场和下午场分开出售。\n故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队。",
+        "context_after": "\n因为故宫每天的限流8万人次，故宫实名制购票，大人带好身份证，孩子带好户口本或身份证，没有证件是参观不了的，记住哦。",
+        "context_full": "2.实名制购票，准备好身份证午门的人工售票处， 故宫门票出售时间8:30-16:00，上午场和下午场分开出售。\n故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队。如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪。\n因为故宫每天的限流8万人次，故宫实名制购票，大人带好身份证，孩子带好户口本或身份证，没有证件是参观不了的，记住哦。",
+        "context_start": 3538,
+        "context_end": 3772,
+        "full_document_ref": "gugong_official_df6c311301c59157",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0003",
+            "raw_array_index_0based": 2,
+            "cache_id": "8669fd28cea27385516d04a9be1ec26928ee02ceb33a112e9fd82dec13811dd1"
+          }
+        ]
+      }
+    ],
+    "retained_condition": "带小朋友或者是带婴儿车的游客",
+    "retained_recommendation": "比较推荐购买一日游的产品",
+    "normalized_condition": "带小朋友或者是带婴儿车的游客",
+    "normalized_recommendation": "比较推荐购买一日游的产品",
+    "rule": "同景区且条件、建议分别规范化后均相等；删除指定前缀及空白标点，不做全面语义合并",
+    "normalization_code": "re.sub(r'^(如果|假如|若是|若|建议|最好|可以|推荐|尽量)+','',s.strip()); re.sub(r'[\\s，。；、：！!？?\"“”]','',s)",
+    "operations": [
+      {
+        "kept": "R00002",
+        "merged": "R00003",
+        "reason": "condition_and_recommendation_normalized_equal"
+      }
+    ],
+    "review_status": "待审核"
+  },
+  {
+    "merge_group_id": "MG-R00010",
+    "retained_pair_id": "R00010",
+    "member_record_ids": [
+      "R00010",
+      "R00011"
+    ],
+    "removed_record_ids": [
+      "R00011"
+    ],
+    "members": [
+      {
+        "id": "gugong_user_generated_c57f5e2b6ca3c3a0:809",
+        "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+        "scenic_area": "北京故宫",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+        "start": 809,
+        "end": 824,
+        "source_text": "❶小电扇/扇子必带！晴天带伞！",
+        "rule": "implicit",
+        "condition": "晴天",
+        "recommendation": "带伞",
+        "evidence_span": "晴天带伞！",
+        "condition_type": "天气环境",
+        "pair_id": "R00010",
+        "offsets": {
+          "condition": 819,
+          "recommendation": 821,
+          "evidence_span": 819
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "gugong_user_generated_c57f5e2b6ca3c3a0:809",
+        "source_type_label": "游客游记",
+        "source_title": "北京故宫‼️本地人推荐的游玩路线攻略+地图",
+        "source_url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+        "source_start": 809,
+        "source_end": 824,
+        "context_before": "🔴🟡【听劝必看】\n",
+        "context_after": "陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里\n❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+        "context_full": "🔴🟡【听劝必看】\n❶小电扇/扇子必带！晴天带伞！陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里\n❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+        "context_start": 800,
+        "context_end": 914,
+        "full_document_ref": "gugong_user_generated_c57f5e2b6ca3c3a0",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0011",
+            "raw_array_index_0based": 10,
+            "cache_id": "e5f0a0d4eb851d89d3cf55fab821536b0f1f71136267569c9cacab663a7e612e"
+          }
+        ]
+      },
+      {
+        "id": "gugong_user_generated_c57f5e2b6ca3c3a0:819",
+        "doc_id": "gugong_user_generated_c57f5e2b6ca3c3a0",
+        "scenic_area": "北京故宫",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+        "start": 819,
+        "end": 848,
+        "source_text": "晴天带伞！陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！",
+        "rule": "implicit",
+        "condition": "晴天",
+        "recommendation": "带伞",
+        "evidence_span": "晴天带伞！",
+        "condition_type": "天气环境",
+        "pair_id": "R00011",
+        "offsets": {
+          "condition": 819,
+          "recommendation": 821,
+          "evidence_span": 819
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "gugong_user_generated_c57f5e2b6ca3c3a0:819",
+        "source_type_label": "游客游记",
+        "source_title": "北京故宫‼️本地人推荐的游玩路线攻略+地图",
+        "source_url": "https://www.xiaohongshu.com/explore/6a75c572000000002c004029",
+        "source_start": 819,
+        "source_end": 848,
+        "context_before": "🔴🟡【听劝必看】\n❶小电扇/扇子必带！",
+        "context_after": "冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里\n❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+        "context_full": "🔴🟡【听劝必看】\n❶小电扇/扇子必带！晴天带伞！陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里\n❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+        "context_start": 800,
+        "context_end": 914,
+        "full_document_ref": "gugong_user_generated_c57f5e2b6ca3c3a0",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0012",
+            "raw_array_index_0based": 11,
+            "cache_id": "e5f0a0d4eb851d89d3cf55fab821536b0f1f71136267569c9cacab663a7e612e"
+          }
+        ]
+      }
+    ],
+    "retained_condition": "晴天",
+    "retained_recommendation": "带伞",
+    "normalized_condition": "晴天",
+    "normalized_recommendation": "带伞",
+    "rule": "同景区且条件、建议分别规范化后均相等；删除指定前缀及空白标点，不做全面语义合并",
+    "normalization_code": "re.sub(r'^(如果|假如|若是|若|建议|最好|可以|推荐|尽量)+','',s.strip()); re.sub(r'[\\s，。；、：！!？?\"“”]','',s)",
+    "operations": [
+      {
+        "kept": "R00010",
+        "merged": "R00011",
+        "reason": "condition_and_recommendation_normalized_equal"
+      }
+    ],
+    "review_status": "待审核"
+  },
+  {
+    "merge_group_id": "MG-R00014",
+    "retained_pair_id": "R00014",
+    "member_record_ids": [
+      "R00014",
+      "R00015"
+    ],
+    "removed_record_ids": [
+      "R00015"
+    ],
+    "members": [
+      {
+        "id": "gugong_user_generated_2641b9750708433f:100",
+        "doc_id": "gugong_user_generated_2641b9750708433f",
+        "scenic_area": "北京故宫",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+        "start": 100,
+        "end": 171,
+        "source_text": "也别卡着11点去下午场，太和殿广场全是人，拍照全是后脑勺！下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍，氛围超好！",
+        "rule": "implicit",
+        "condition": "下午1点左右进场",
+        "recommendation": "慢慢逛、随便拍",
+        "evidence_span": "下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍",
+        "condition_type": "时间约束",
+        "pair_id": "R00014",
+        "offsets": {
+          "condition": 129,
+          "recommendation": 158,
+          "evidence_span": 129
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "gugong_user_generated_2641b9750708433f:100",
+        "source_type_label": "游客游记",
+        "source_title": "故宫上午票真别买！血泪教训+超全避坑路线在这",
+        "source_url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+        "source_start": 100,
+        "source_end": 171,
+        "context_before": "之前不信邪，非要去试故宫上午票，结果真被坑惨了！姐妹们听劝，上午场真的不行！🙅 我天真地以为中午12点前进场就OK，9点就冲过去了，结果安检排队排到11点半，差点进不去！进去后人挤人，逛得心情全无。\n",
+        "context_after": "\n入场路线选对超省心！第一次走天安门那边，三道安检，急死人！后来发现从东华门进最方便，导航到东华门，沿护城河走10分钟到午门，只查一次身份证、过一次安检。工作日中午去可能连队都不用排！公交到东华门或劳动人民文化宫站，走5分钟就到。",
+        "context_full": "之前不信邪，非要去试故宫上午票，结果真被坑惨了！姐妹们听劝，上午场真的不行！🙅 我天真地以为中午12点前进场就OK，9点就冲过去了，结果安检排队排到11点半，差点进不去！进去后人挤人，逛得心情全无。\n也别卡着11点去下午场，太和殿广场全是人，拍照全是后脑勺！下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍，氛围超好！\n入场路线选对超省心！第一次走天安门那边，三道安检，急死人！后来发现从东华门进最方便，导航到东华门，沿护城河走10分钟到午门，只查一次身份证、过一次安检。工作日中午去可能连队都不用排！公交到东华门或劳动人民文化宫站，走5分钟就到。",
+        "context_start": 0,
+        "context_end": 286,
+        "full_document_ref": "gugong_user_generated_2641b9750708433f",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0019",
+            "raw_array_index_0based": 18,
+            "cache_id": "17695da305065412557f1477d255c636850c5c068f87a9854db6389201acf8b1"
+          }
+        ]
+      },
+      {
+        "id": "gugong_user_generated_2641b9750708433f:129",
+        "doc_id": "gugong_user_generated_2641b9750708433f",
+        "scenic_area": "北京故宫",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+        "start": 129,
+        "end": 171,
+        "source_text": "下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍，氛围超好！",
+        "rule": "implicit",
+        "condition": "下午1点左右进场",
+        "recommendation": "慢慢逛、随便拍",
+        "evidence_span": "下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍",
+        "condition_type": "时间约束",
+        "pair_id": "R00015",
+        "offsets": {
+          "condition": 129,
+          "recommendation": 158,
+          "evidence_span": 129
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "gugong_user_generated_2641b9750708433f:129",
+        "source_type_label": "游客游记",
+        "source_title": "故宫上午票真别买！血泪教训+超全避坑路线在这",
+        "source_url": "https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801",
+        "source_start": 129,
+        "source_end": 171,
+        "context_before": "之前不信邪，非要去试故宫上午票，结果真被坑惨了！姐妹们听劝，上午场真的不行！🙅 我天真地以为中午12点前进场就OK，9点就冲过去了，结果安检排队排到11点半，差点进不去！进去后人挤人，逛得心情全无。\n也别卡着11点去下午场，太和殿广场全是人，拍照全是后脑勺！",
+        "context_after": "\n入场路线选对超省心！第一次走天安门那边，三道安检，急死人！后来发现从东华门进最方便，导航到东华门，沿护城河走10分钟到午门，只查一次身份证、过一次安检。工作日中午去可能连队都不用排！公交到东华门或劳动人民文化宫站，走5分钟就到。",
+        "context_full": "之前不信邪，非要去试故宫上午票，结果真被坑惨了！姐妹们听劝，上午场真的不行！🙅 我天真地以为中午12点前进场就OK，9点就冲过去了，结果安检排队排到11点半，差点进不去！进去后人挤人，逛得心情全无。\n也别卡着11点去下午场，太和殿广场全是人，拍照全是后脑勺！下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍，氛围超好！\n入场路线选对超省心！第一次走天安门那边，三道安检，急死人！后来发现从东华门进最方便，导航到东华门，沿护城河走10分钟到午门，只查一次身份证、过一次安检。工作日中午去可能连队都不用排！公交到东华门或劳动人民文化宫站，走5分钟就到。",
+        "context_start": 0,
+        "context_end": 286,
+        "full_document_ref": "gugong_user_generated_2641b9750708433f",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0020",
+            "raw_array_index_0based": 19,
+            "cache_id": "17695da305065412557f1477d255c636850c5c068f87a9854db6389201acf8b1"
+          }
+        ]
+      }
+    ],
+    "retained_condition": "下午1点左右进场",
+    "retained_recommendation": "慢慢逛、随便拍",
+    "normalized_condition": "下午1点左右进场",
+    "normalized_recommendation": "慢慢逛随便拍",
+    "rule": "同景区且条件、建议分别规范化后均相等；删除指定前缀及空白标点，不做全面语义合并",
+    "normalization_code": "re.sub(r'^(如果|假如|若是|若|建议|最好|可以|推荐|尽量)+','',s.strip()); re.sub(r'[\\s，。；、：！!？?\"“”]','',s)",
+    "operations": [
+      {
+        "kept": "R00014",
+        "merged": "R00015",
+        "reason": "condition_and_recommendation_normalized_equal"
+      }
+    ],
+    "review_status": "待审核"
+  },
+  {
+    "merge_group_id": "MG-R00020",
+    "retained_pair_id": "R00020",
+    "member_record_ids": [
+      "R00020",
+      "R00022"
+    ],
+    "removed_record_ids": [
+      "R00022"
+    ],
+    "members": [
+      {
+        "id": "xihu_user_generated_6d86937f2bf70da9:608",
+        "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+        "scenic_area": "杭州西湖",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "start": 608,
+        "end": 652,
+        "source_text": "1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+        "rule": "implicit",
+        "condition": "体力一般",
+        "recommendation": "坐环湖观光车",
+        "evidence_span": "体力一般建议坐环湖观光车",
+        "condition_type": "体力与健康",
+        "pair_id": "R00020",
+        "offsets": {
+          "condition": 630,
+          "recommendation": 636,
+          "evidence_span": 630
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "xihu_user_generated_6d86937f2bf70da9:608",
+        "source_type_label": "游客游记",
+        "source_title": "杭州西湖一日游路线攻略，不走回头路‼️",
+        "source_url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "source_start": 608,
+        "source_end": 652,
+        "context_before": "📸游玩小tips：\n",
+        "context_after": "\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_full": "📸游玩小tips：\n1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_start": 598,
+        "context_end": 680,
+        "full_document_ref": "xihu_user_generated_6d86937f2bf70da9",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0032",
+            "raw_array_index_0based": 31,
+            "cache_id": "00f5ac71b567b35dc43b21e3108006694dbf31dc0f5d26c224d0482a323072be"
+          }
+        ]
+      },
+      {
+        "id": "xihu_user_generated_6d86937f2bf70da9:630",
+        "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+        "scenic_area": "杭州西湖",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "start": 630,
+        "end": 652,
+        "source_text": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+        "rule": "implicit",
+        "condition": "体力一般",
+        "recommendation": "坐环湖观光车",
+        "evidence_span": "体力一般建议坐环湖观光车",
+        "condition_type": "体力与健康",
+        "pair_id": "R00022",
+        "offsets": {
+          "condition": 630,
+          "recommendation": 636,
+          "evidence_span": 630
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "xihu_user_generated_6d86937f2bf70da9:630",
+        "source_type_label": "游客游记",
+        "source_title": "杭州西湖一日游路线攻略，不走回头路‼️",
+        "source_url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "source_start": 630,
+        "source_end": 652,
+        "context_before": "📸游玩小tips：\n1️⃣全程徒步大概10‑12公里，路程很长！",
+        "context_after": "\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_full": "📸游玩小tips：\n1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_start": 598,
+        "context_end": 680,
+        "full_document_ref": "xihu_user_generated_6d86937f2bf70da9",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0034",
+            "raw_array_index_0based": 33,
+            "cache_id": "00f5ac71b567b35dc43b21e3108006694dbf31dc0f5d26c224d0482a323072be"
+          }
+        ]
+      }
+    ],
+    "retained_condition": "体力一般",
+    "retained_recommendation": "坐环湖观光车",
+    "normalized_condition": "体力一般",
+    "normalized_recommendation": "坐环湖观光车",
+    "rule": "同景区且条件、建议分别规范化后均相等；删除指定前缀及空白标点，不做全面语义合并",
+    "normalization_code": "re.sub(r'^(如果|假如|若是|若|建议|最好|可以|推荐|尽量)+','',s.strip()); re.sub(r'[\\s，。；、：！!？?\"“”]','',s)",
+    "operations": [
+      {
+        "kept": "R00020",
+        "merged": "R00022",
+        "reason": "condition_and_recommendation_normalized_equal"
+      }
+    ],
+    "review_status": "待审核"
+  },
+  {
+    "merge_group_id": "MG-R00021",
+    "retained_pair_id": "R00021",
+    "member_record_ids": [
+      "R00021",
+      "R00023"
+    ],
+    "removed_record_ids": [
+      "R00023"
+    ],
+    "members": [
+      {
+        "id": "xihu_user_generated_6d86937f2bf70da9:608",
+        "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+        "scenic_area": "杭州西湖",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "start": 608,
+        "end": 652,
+        "source_text": "1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+        "rule": "implicit",
+        "condition": "体力一般",
+        "recommendation": "分成2天慢慢玩",
+        "evidence_span": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+        "condition_type": "体力与健康",
+        "pair_id": "R00021",
+        "offsets": {
+          "condition": 630,
+          "recommendation": 645,
+          "evidence_span": 630
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "xihu_user_generated_6d86937f2bf70da9:608",
+        "source_type_label": "游客游记",
+        "source_title": "杭州西湖一日游路线攻略，不走回头路‼️",
+        "source_url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "source_start": 608,
+        "source_end": 652,
+        "context_before": "📸游玩小tips：\n",
+        "context_after": "\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_full": "📸游玩小tips：\n1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_start": 598,
+        "context_end": 680,
+        "full_document_ref": "xihu_user_generated_6d86937f2bf70da9",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0033",
+            "raw_array_index_0based": 32,
+            "cache_id": "00f5ac71b567b35dc43b21e3108006694dbf31dc0f5d26c224d0482a323072be"
+          }
+        ]
+      },
+      {
+        "id": "xihu_user_generated_6d86937f2bf70da9:630",
+        "doc_id": "xihu_user_generated_6d86937f2bf70da9",
+        "scenic_area": "杭州西湖",
+        "source_type": "user_generated",
+        "url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "start": 630,
+        "end": 652,
+        "source_text": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+        "rule": "implicit",
+        "condition": "体力一般",
+        "recommendation": "分成2天慢慢玩",
+        "evidence_span": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+        "condition_type": "体力与健康",
+        "pair_id": "R00023",
+        "offsets": {
+          "condition": 630,
+          "recommendation": 645,
+          "evidence_span": 630
+        },
+        "extraction_method": "regex+LLM",
+        "prompt_version": "v2",
+        "review_status": "待审核",
+        "audit_candidate": false,
+        "window_id": "xihu_user_generated_6d86937f2bf70da9:630",
+        "source_type_label": "游客游记",
+        "source_title": "杭州西湖一日游路线攻略，不走回头路‼️",
+        "source_url": "https://www.xiaohongshu.com/explore/6a86f445000000002202ca93",
+        "source_start": 630,
+        "source_end": 652,
+        "context_before": "📸游玩小tips：\n1️⃣全程徒步大概10‑12公里，路程很长！",
+        "context_after": "\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_full": "📸游玩小tips：\n1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩\n2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+        "context_start": 598,
+        "context_end": 680,
+        "full_document_ref": "xihu_user_generated_6d86937f2bf70da9",
+        "missing_fields": [],
+        "raw_record_refs": [
+          {
+            "raw_record_id": "RAW-0035",
+            "raw_array_index_0based": 34,
+            "cache_id": "00f5ac71b567b35dc43b21e3108006694dbf31dc0f5d26c224d0482a323072be"
+          }
+        ]
+      }
+    ],
+    "retained_condition": "体力一般",
+    "retained_recommendation": "分成2天慢慢玩",
+    "normalized_condition": "体力一般",
+    "normalized_recommendation": "分成2天慢慢玩",
+    "rule": "同景区且条件、建议分别规范化后均相等；删除指定前缀及空白标点，不做全面语义合并",
+    "normalization_code": "re.sub(r'^(如果|假如|若是|若|建议|最好|可以|推荐|尽量)+','',s.strip()); re.sub(r'[\\s，。；、：！!？?\"“”]','',s)",
+    "operations": [
+      {
+        "kept": "R00021",
+        "merged": "R00023",
+        "reason": "condition_and_recommendation_normalized_equal"
+      }
+    ],
+    "review_status": "待审核"
+  }
+]

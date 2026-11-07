@@ -1,0 +1,70 @@
+{
+  "documents": 18,
+  "windows": 815,
+  "candidates": 151,
+  "negative_audit_windows": 36,
+  "raw_pairs": 52,
+  "validated_pairs": 37,
+  "rejected_pairs": 15,
+  "final_pairs": 41,
+  "merged": 5,
+  "categories": {
+    "游客类型": 7,
+    "天气环境": 3,
+    "时间约束": 13,
+    "体力与健康": 6,
+    "交通条件": 5,
+    "游览偏好": 4,
+    "其他条件": 3
+  },
+  "calls": {
+    "cache": 32
+  },
+  "failed_batches": [],
+  "audit_discoveries": 0,
+  "document_distribution": {
+    "北京故宫/official": 1,
+    "杭州西湖/official": 1,
+    "九寨沟/official": 1,
+    "北京故宫/user_generated": 5,
+    "杭州西湖/user_generated": 5,
+    "九寨沟/user_generated": 5
+  },
+  "stage": "independent_audit_finalized",
+  "automatic_final_pairs": 32,
+  "reviewed_pairs_before_dedup": 43,
+  "review_merge_operations": 2,
+  "audit_resolution": {
+    "before_pairs": 32,
+    "after_pairs": 41,
+    "modified_baseline_pairs": 9,
+    "deleted_baseline_pairs": 3,
+    "restored_candidates": 9,
+    "restored_net_new_pairs": 7,
+    "added_from_D": 5,
+    "reviewed_before_dedup": 43,
+    "review_merge_operations": 2,
+    "audit_items_resolved": 108,
+    "uncertain_not_added": 3,
+    "audit_type": "独立LLM辅助语义审核",
+    "new_network_calls": 0,
+    "categories_before": {
+      "游客类型": 4,
+      "天气环境": 4,
+      "时间约束": 11,
+      "体力与健康": 6,
+      "交通条件": 3,
+      "游览偏好": 4,
+      "其他条件": 0
+    },
+    "categories_after": {
+      "游客类型": 7,
+      "天气环境": 3,
+      "时间约束": 13,
+      "体力与健康": 6,
+      "交通条件": 5,
+      "游览偏好": 4,
+      "其他条件": 3
+    }
+  }
+}

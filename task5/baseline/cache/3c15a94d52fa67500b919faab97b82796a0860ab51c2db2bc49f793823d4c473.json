@@ -1,0 +1,70 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_official_df6c311301c59157:3867",
+      "condition": "所有游客只能从南侧午门进入,经北侧神武门出来",
+      "recommendation": "游玩的时候一定安排好路线，尽量不要走冤枉路",
+      "evidence_span": "所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路",
+      "condition_type": "交通条件"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:4003",
+      "condition": "不能了解这里的历史",
+      "recommendation": "来游故宫也就是走马观花而已",
+      "evidence_span": "如果不能了解这里的历史，来游故宫也就是走马观花而已",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:4003",
+      "condition": "能参与靠谱的旅行团或者一日游",
+      "recommendation": "就能使此行更加生动和真实了",
+      "evidence_span": "当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:4027",
+      "condition": "不能了解这里的历史",
+      "recommendation": "来游故宫也就是走马观花而已",
+      "evidence_span": "如果不能了解这里的历史，来游故宫也就是走马观花而已",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:4027",
+      "condition": "能参与靠谱的旅行团或者一日游",
+      "recommendation": "就能使此行更加生动和真实了",
+      "evidence_span": "当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "xihu_official_7a3841720cf3aaa6:1237",
+      "condition": "漫步群山之余",
+      "recommendation": "千万注意脚下安全",
+      "evidence_span": "漫步群山之余千万注意脚下安全",
+      "condition_type": "体力与健康"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 744,
+    "completion_tokens": 438,
+    "total_tokens": 1182,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 616
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

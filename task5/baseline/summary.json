@@ -1,0 +1,33 @@
+{
+  "documents": 18,
+  "windows": 815,
+  "candidates": 144,
+  "negative_audit_windows": 36,
+  "raw_pairs": 71,
+  "validated_pairs": 70,
+  "rejected_pairs": 1,
+  "final_pairs": 62,
+  "merged": 8,
+  "categories": {
+    "游客类型": 12,
+    "天气环境": 6,
+    "时间约束": 16,
+    "体力与健康": 12,
+    "交通条件": 3,
+    "游览偏好": 10,
+    "其他条件": 3
+  },
+  "calls": {
+    "network": 30
+  },
+  "failed_batches": [],
+  "audit_discoveries": 1,
+  "document_distribution": {
+    "北京故宫/official": 1,
+    "杭州西湖/official": 1,
+    "九寨沟/official": 1,
+    "北京故宫/user_generated": 5,
+    "杭州西湖/user_generated": 5,
+    "九寨沟/user_generated": 5
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "pairs": [
+    {
+      "id": "jiuzhaigou_official_88ef5cc31789dc71:297",
+      "condition": "一天时间相对紧凑",
+      "recommendation": "建议早上早点出发进入景区，全程须采用观光车+步行的方式进行游览",
+      "evidence_span": "由于一天时间相对紧凑，建议早上早点出发进入景区，全程须采用观光车+步行的方式进行游览",
+      "condition_type": "时间约束"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 734,
+    "completion_tokens": 91,
+    "total_tokens": 825,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 606
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

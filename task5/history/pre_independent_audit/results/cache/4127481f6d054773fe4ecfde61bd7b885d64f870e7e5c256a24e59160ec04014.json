@@ -1,0 +1,56 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:191",
+      "condition": "带老人小孩",
+      "recommendation": "慎选",
+      "evidence_span": "步行距离稍远，带老人小孩慎选",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:590",
+      "condition": "赶时间",
+      "recommendation": "慎选",
+      "evidence_span": "部分路段需绕路，赶时间慎选",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:728",
+      "condition": "体力好的年轻人",
+      "recommendation": "适合",
+      "evidence_span": "步行距离最远，适合体力好的年轻人",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:766",
+      "condition": "赶时间想省腿",
+      "recommendation": "选路线 3",
+      "evidence_span": "赶时间想省腿→选路线 3",
+      "condition_type": "时间约束"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 786,
+    "completion_tokens": 233,
+    "total_tokens": 1019,
+    "prompt_tokens_details": {
+      "cached_tokens": 384
+    },
+    "prompt_cache_hit_tokens": 384,
+    "prompt_cache_miss_tokens": 402
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v2",
+  "attempts": 1
+}

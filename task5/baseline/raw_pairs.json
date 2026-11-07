@@ -1,0 +1,570 @@
+[
+  {
+    "id": "gugong_official_df6c311301c59157:148",
+    "condition": "想要好好的逛这皇帝的居所",
+    "recommendation": "给自己一天的时间吧",
+    "evidence_span": "想要好好的逛这皇帝的居所，就给自己一天的时间吧",
+    "condition_type": "游览偏好",
+    "cache_id": "17dbde7c61e0f4379fbda1a74bcc88aca6e055ef812ea428eef53099d394d7da"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:148",
+    "condition": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节",
+    "recommendation": "开启自己的穿越之旅",
+    "evidence_span": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节，就可以开启自己的穿越之旅了",
+    "condition_type": "游览偏好",
+    "cache_id": "17dbde7c61e0f4379fbda1a74bcc88aca6e055ef812ea428eef53099d394d7da"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:215",
+    "condition": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节",
+    "recommendation": "开启自己的穿越之旅",
+    "evidence_span": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节，就可以开启自己的穿越之旅了",
+    "condition_type": "游览偏好",
+    "cache_id": "17dbde7c61e0f4379fbda1a74bcc88aca6e055ef812ea428eef53099d394d7da"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:3594",
+    "condition": "旅游旺季参观时",
+    "recommendation": "可以在网上提前订票，到时候可直接刷身份证进入，不需要排队",
+    "evidence_span": "所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队",
+    "condition_type": "时间约束",
+    "cache_id": "e7dc6e7e6e2a7c0c7e325d13dca7ef05957dfbd3fcb1e25d72d0e6bd04683d83"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:3594",
+    "condition": "如果是带小朋友或者是带婴儿车的游客",
+    "recommendation": "比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+    "evidence_span": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+    "condition_type": "游客类型",
+    "cache_id": "e7dc6e7e6e2a7c0c7e325d13dca7ef05957dfbd3fcb1e25d72d0e6bd04683d83"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:3667",
+    "condition": "如果是带小朋友或者是带婴儿车的游客",
+    "recommendation": "比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+    "evidence_span": "如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪",
+    "condition_type": "游客类型",
+    "cache_id": "e7dc6e7e6e2a7c0c7e325d13dca7ef05957dfbd3fcb1e25d72d0e6bd04683d83"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:3867",
+    "condition": "所有游客只能从南侧午门进入,经北侧神武门出来",
+    "recommendation": "游玩的时候一定安排好路线，尽量不要走冤枉路",
+    "evidence_span": "所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路",
+    "condition_type": "交通条件",
+    "cache_id": "3c15a94d52fa67500b919faab97b82796a0860ab51c2db2bc49f793823d4c473"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:4003",
+    "condition": "不能了解这里的历史",
+    "recommendation": "来游故宫也就是走马观花而已",
+    "evidence_span": "如果不能了解这里的历史，来游故宫也就是走马观花而已",
+    "condition_type": "游览偏好",
+    "cache_id": "3c15a94d52fa67500b919faab97b82796a0860ab51c2db2bc49f793823d4c473"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:4003",
+    "condition": "能参与靠谱的旅行团或者一日游",
+    "recommendation": "就能使此行更加生动和真实了",
+    "evidence_span": "当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了",
+    "condition_type": "游览偏好",
+    "cache_id": "3c15a94d52fa67500b919faab97b82796a0860ab51c2db2bc49f793823d4c473"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:4027",
+    "condition": "不能了解这里的历史",
+    "recommendation": "来游故宫也就是走马观花而已",
+    "evidence_span": "如果不能了解这里的历史，来游故宫也就是走马观花而已",
+    "condition_type": "游览偏好",
+    "cache_id": "3c15a94d52fa67500b919faab97b82796a0860ab51c2db2bc49f793823d4c473"
+  },
+  {
+    "id": "gugong_official_df6c311301c59157:4027",
+    "condition": "能参与靠谱的旅行团或者一日游",
+    "recommendation": "就能使此行更加生动和真实了",
+    "evidence_span": "当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了",
+    "condition_type": "游览偏好",
+    "cache_id": "3c15a94d52fa67500b919faab97b82796a0860ab51c2db2bc49f793823d4c473"
+  },
+  {
+    "id": "xihu_official_7a3841720cf3aaa6:1237",
+    "condition": "漫步群山之余",
+    "recommendation": "千万注意脚下安全",
+    "evidence_span": "漫步群山之余千万注意脚下安全",
+    "condition_type": "体力与健康",
+    "cache_id": "3c15a94d52fa67500b919faab97b82796a0860ab51c2db2bc49f793823d4c473"
+  },
+  {
+    "id": "jiuzhaigou_official_88ef5cc31789dc71:297",
+    "condition": "一天时间相对紧凑",
+    "recommendation": "建议早上早点出发进入景区，全程须采用观光车+步行的方式进行游览",
+    "evidence_span": "由于一天时间相对紧凑，建议早上早点出发进入景区，全程须采用观光车+步行的方式进行游览",
+    "condition_type": "时间约束",
+    "cache_id": "b47f108a82affbf9f4f84c2e1dec5018998248ccb3050cebeb1d005197512b41"
+  },
+  {
+    "id": "jiuzhaigou_official_88ef5cc31789dc71:1004",
+    "condition": "一天的游览对体能有所要求",
+    "recommendation": "来到九寨沟的第一天晚上可以好好休息",
+    "evidence_span": "一天的游览对体能有所要求，因此来到九寨沟的第一天晚上可以好好休息",
+    "condition_type": "体力与健康",
+    "cache_id": "07ad8b9533a31bcbbeab12c2200b43f9b5ec588e4fcf1fad68d0629ed5a82a40"
+  },
+  {
+    "id": "jiuzhaigou_official_88ef5cc31789dc71:1134",
+    "condition": "初入高原的朋友",
+    "recommendation": "建议第一日尽量不进行剧烈的运动",
+    "evidence_span": "初入高原的朋友，建议第一日尽量不进行剧烈的运动",
+    "condition_type": "体力与健康",
+    "cache_id": "07ad8b9533a31bcbbeab12c2200b43f9b5ec588e4fcf1fad68d0629ed5a82a40"
+  },
+  {
+    "id": "jiuzhaigou_official_88ef5cc31789dc71:1633",
+    "condition": "如果您时间充足",
+    "recommendation": "那么三天的时间您可以把九寨沟县城、九寨沟神仙池景区一并游览完",
+    "evidence_span": "如果您时间充足，那么三天的时间您可以把九寨沟县城、九寨沟神仙池景区一并游览完",
+    "condition_type": "时间约束",
+    "cache_id": "07ad8b9533a31bcbbeab12c2200b43f9b5ec588e4fcf1fad68d0629ed5a82a40"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:184",
+    "condition": "时间有限",
+    "recommendation": "选珍宝馆！",
+    "evidence_span": "没约上可到展馆门口买（时间有限选珍宝馆！",
+    "condition_type": "时间约束",
+    "cache_id": "29c883125d6bb44a424dd51267a51258c0b38908b26824979a8798e141511f03"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:284",
+    "condition": "下午票11:00进场",
+    "recommendation": "不推荐1-2小时的快速路线",
+    "evidence_span": "半天逛不全，且下午票11:00进场会赶上一天最热时段。不推荐1-2小时的快速路线",
+    "condition_type": "时间约束",
+    "cache_id": "29c883125d6bb44a424dd51267a51258c0b38908b26824979a8798e141511f03"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:571",
+    "condition": "初次来",
+    "recommendation": "不建议为了省几步路中轴线和东西宫来回穿梭",
+    "evidence_span": "初次来不建议为了省几步路中轴线和东西宫来回穿梭",
+    "condition_type": "游客类型",
+    "cache_id": "571dfa54a4fb6c8cabbb6ed07543e0f2076addde36c98d1fe44f987f416a4c48"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:809",
+    "condition": "晴天",
+    "recommendation": "带伞",
+    "evidence_span": "晴天带伞",
+    "condition_type": "天气环境",
+    "cache_id": "571dfa54a4fb6c8cabbb6ed07543e0f2076addde36c98d1fe44f987f416a4c48"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:819",
+    "condition": "晴天",
+    "recommendation": "带伞",
+    "evidence_span": "晴天带伞",
+    "condition_type": "天气环境",
+    "cache_id": "571dfa54a4fb6c8cabbb6ed07543e0f2076addde36c98d1fe44f987f416a4c48"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:824",
+    "condition": "吃饭",
+    "recommendation": "可以选这里",
+    "evidence_span": "吃饭可以选这里",
+    "condition_type": "其他条件",
+    "cache_id": "571dfa54a4fb6c8cabbb6ed07543e0f2076addde36c98d1fe44f987f416a4c48"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:874",
+    "condition": "提前看好未来一周的天气预报，哪天晴天选哪天",
+    "recommendation": "虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "evidence_span": "提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "condition_type": "天气环境",
+    "cache_id": "bcf362a87ddef00dfba9a009ee4ad3089ad6b002153cdb4b877ea281ab1f75b9"
+  },
+  {
+    "id": "gugong_user_generated_ac13633e735a71ff:271",
+    "condition": "带娃",
+    "recommendation": "驻足可以告诉他：这里不是刑场，是六百年皇权的开端，也是溥仪一生浮沉的起点",
+    "evidence_span": "带娃驻足可以告诉他：这里不是刑场，是六百年皇权的开端，也是溥仪一生浮沉的起点",
+    "condition_type": "游客类型",
+    "cache_id": "bcf362a87ddef00dfba9a009ee4ad3089ad6b002153cdb4b877ea281ab1f75b9"
+  },
+  {
+    "id": "gugong_user_generated_ac13633e735a71ff:429",
+    "condition": "带孩子",
+    "recommendation": "摸一摸殿外的栏杆、看一看层层台阶，告诉孩子：极致的尊贵，往往藏着极致的孤独",
+    "evidence_span": "带孩子摸一摸殿外的栏杆、看一看层层台阶，告诉孩子：极致的尊贵，往往藏着极致的孤独",
+    "condition_type": "游客类型",
+    "cache_id": "bcf362a87ddef00dfba9a009ee4ad3089ad6b002153cdb4b877ea281ab1f75b9"
+  },
+  {
+    "id": "gugong_user_generated_ac13633e735a71ff:497",
+    "condition": "带娃",
+    "recommendation": "可以细讲：这里是皇帝的办公室，看似自由的皇权，实则被规矩牢牢束缚",
+    "evidence_span": "带娃可以细讲：这里是皇帝的办公室，看似自由的皇权，实则被规矩牢牢束缚",
+    "condition_type": "游客类型",
+    "cache_id": "bcf362a87ddef00dfba9a009ee4ad3089ad6b002153cdb4b877ea281ab1f75b9"
+  },
+  {
+    "id": "gugong_user_generated_ac13633e735a71ff:607",
+    "condition": "亲子",
+    "recommendation": "这里最适合亲子慢逛，没有拥挤人潮，能静静感受皇家生活的平淡与束缚",
+    "evidence_span": "这里最适合亲子慢逛，没有拥挤人潮，能静静感受皇家生活的平淡与束缚",
+    "condition_type": "游客类型",
+    "cache_id": "bcf362a87ddef00dfba9a009ee4ad3089ad6b002153cdb4b877ea281ab1f75b9"
+  },
+  {
+    "id": "gugong_user_generated_ac13633e735a71ff:793",
+    "condition": "带娃",
+    "recommendation": "在这里收尾，顺便跟孩子科普一下溥仪离开皇宫以后经理的伪满洲国等其他故事",
+    "evidence_span": "带娃在这里收尾，顺便跟孩子科普一下溥仪离开皇宫以后经理的伪满洲国等其他故事",
+    "condition_type": "游客类型",
+    "cache_id": "327b90cec62832d2e23dfd0acd2f8a9c70fd1f647d6a8ade63a90425fadb5617"
+  },
+  {
+    "id": "gugong_user_generated_d927127c74a320bc:35",
+    "condition": "带娃/赶时间",
+    "recommendation": "半天精华线（2.5～3小时⏳）",
+    "evidence_span": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+    "condition_type": "游客类型",
+    "cache_id": "327b90cec62832d2e23dfd0acd2f8a9c70fd1f647d6a8ade63a90425fadb5617"
+  },
+  {
+    "id": "gugong_user_generated_d927127c74a320bc:289",
+    "condition": "进门",
+    "recommendation": "先冲珍宝馆，人最少、体验最好✅",
+    "evidence_span": "进门先冲珍宝馆，人最少、体验最好✅",
+    "condition_type": "其他条件",
+    "cache_id": "327b90cec62832d2e23dfd0acd2f8a9c70fd1f647d6a8ade63a90425fadb5617"
+  },
+  {
+    "id": "gugong_user_generated_2641b9750708433f:100",
+    "condition": "下午1点左右",
+    "recommendation": "进场才舒服",
+    "evidence_span": "下午1点左右进场才舒服",
+    "condition_type": "时间约束",
+    "cache_id": "608cdda89f983b7405cf5d33bfa947081092321a61f74ec8b922ec234911f4ec"
+  },
+  {
+    "id": "gugong_user_generated_2641b9750708433f:129",
+    "condition": "下午1点左右",
+    "recommendation": "进场才舒服",
+    "evidence_span": "下午1点左右进场才舒服",
+    "condition_type": "时间约束",
+    "cache_id": "608cdda89f983b7405cf5d33bfa947081092321a61f74ec8b922ec234911f4ec"
+  },
+  {
+    "id": "gugong_user_generated_2641b9750708433f:450",
+    "condition": "提前10分钟",
+    "recommendation": "爬上万春亭",
+    "evidence_span": "提前10分钟爬上万春亭",
+    "condition_type": "时间约束",
+    "cache_id": "608cdda89f983b7405cf5d33bfa947081092321a61f74ec8b922ec234911f4ec"
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:191",
+    "condition": "带老人小孩",
+    "recommendation": "慎选",
+    "evidence_span": "带老人小孩慎选",
+    "condition_type": "游客类型",
+    "cache_id": "608cdda89f983b7405cf5d33bfa947081092321a61f74ec8b922ec234911f4ec"
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:590",
+    "condition": "赶时间",
+    "recommendation": "慎选",
+    "evidence_span": "赶时间慎选",
+    "condition_type": "时间约束",
+    "cache_id": "608cdda89f983b7405cf5d33bfa947081092321a61f74ec8b922ec234911f4ec"
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:728",
+    "condition": "体力好的年轻人",
+    "recommendation": "适合",
+    "evidence_span": "适合体力好的年轻人",
+    "condition_type": "体力与健康",
+    "cache_id": "608cdda89f983b7405cf5d33bfa947081092321a61f74ec8b922ec234911f4ec"
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:766",
+    "condition": "赶时间想省腿",
+    "recommendation": "选路线 3",
+    "evidence_span": "✅ 赶时间想省腿→选路线 3",
+    "condition_type": "游览偏好",
+    "cache_id": "b8023aaa2f6bef743b8de19b0d82e237b24fe27274efdc8b47bbe2fa0fe673ae"
+  },
+  {
+    "id": "xihu_user_generated_d439099980d19760:37",
+    "condition": "新手、亲子、懒人",
+    "recommendation": "直接抄作业",
+    "evidence_span": "新手、亲子、懒人直接抄作业",
+    "condition_type": "游客类型",
+    "cache_id": "b8023aaa2f6bef743b8de19b0d82e237b24fe27274efdc8b47bbe2fa0fe673ae"
+  },
+  {
+    "id": "xihu_user_generated_d439099980d19760:827",
+    "condition": "老人小孩",
+    "recommendation": "随上随下，短途接驳超方便",
+    "evidence_span": "随上随下，短途接驳超方便，老人小孩完全无压力",
+    "condition_type": "游客类型",
+    "cache_id": "b8023aaa2f6bef743b8de19b0d82e237b24fe27274efdc8b47bbe2fa0fe673ae"
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:138",
+    "condition": "带小朋友喜欢",
+    "recommendation": "花港观鱼可以喂锦鲤",
+    "evidence_span": "花港观鱼可以喂锦鲤，带小朋友喜欢",
+    "condition_type": "游客类型",
+    "cache_id": "0a2e3664e5fa574afcacb3c1c5d951001be72792aae961041d1eedfa2e9728c7"
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:183",
+    "condition": "选手摇船",
+    "recommendation": "船身平稳不容易晕，还可以伸手碰湖水🫧",
+    "evidence_span": "选手摇船！船身平稳不容易晕，还可以伸手碰湖水🫧",
+    "condition_type": "游览偏好",
+    "cache_id": "0a2e3664e5fa574afcacb3c1c5d951001be72792aae961041d1eedfa2e9728c7"
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:243",
+    "condition": "下午3点后",
+    "recommendation": "记得上午去",
+    "evidence_span": "记得上午去，下午3点后船工基本不接这个路线了",
+    "condition_type": "时间约束",
+    "cache_id": "63cd12d41c0aa8970009beb4a9a555d1a71188533685ad22280402acd2782e2f"
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:297",
+    "condition": "周末节假日",
+    "recommendation": "自驾记得查政策",
+    "evidence_span": "周末节假日有单双号限行，自驾记得查政策",
+    "condition_type": "交通条件",
+    "cache_id": "63cd12d41c0aa8970009beb4a9a555d1a71188533685ad22280402acd2782e2f"
+  },
+  {
+    "id": "xihu_user_generated_059807848ba2b4a5:322",
+    "condition": "修缮中，11 月后再来",
+    "recommendation": "财👼庙（⚠️修缮中，11 月后再来）",
+    "evidence_span": "财👼庙（⚠️修缮中，11 月后再来）",
+    "condition_type": "时间约束",
+    "cache_id": "63cd12d41c0aa8970009beb4a9a555d1a71188533685ad22280402acd2782e2f"
+  },
+  {
+    "id": "xihu_user_generated_6d86937f2bf70da9:70",
+    "condition": "周末人挤人的话",
+    "recommendation": "🉑选凤起路出站，人流会少点",
+    "evidence_span": "周末人挤人的话，🉑选凤起路出站，人流会少点",
+    "condition_type": "交通条件",
+    "cache_id": "63cd12d41c0aa8970009beb4a9a555d1a71188533685ad22280402acd2782e2f"
+  },
+  {
+    "id": "xihu_user_generated_6d86937f2bf70da9:412",
+    "condition": "每年3‑4月郁金香展",
+    "recommendation": "入园需要提前预约",
+    "evidence_span": "每年3‑4月郁金香展，入园需要提前预约",
+    "condition_type": "时间约束",
+    "cache_id": "c3a46a4c4fee6bcf665518ffaa0af9d1e3397e28c158acfe7a2290e01d51ddf0"
+  },
+  {
+    "id": "xihu_user_generated_6d86937f2bf70da9:608",
+    "condition": "体力一般",
+    "recommendation": "建议坐环湖观光车",
+    "evidence_span": "体力一般建议坐环湖观光车",
+    "condition_type": "体力与健康",
+    "cache_id": "c3a46a4c4fee6bcf665518ffaa0af9d1e3397e28c158acfe7a2290e01d51ddf0"
+  },
+  {
+    "id": "xihu_user_generated_6d86937f2bf70da9:608",
+    "condition": "体力一般",
+    "recommendation": "分成2天慢慢玩",
+    "evidence_span": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+    "condition_type": "体力与健康",
+    "cache_id": "c3a46a4c4fee6bcf665518ffaa0af9d1e3397e28c158acfe7a2290e01d51ddf0"
+  },
+  {
+    "id": "xihu_user_generated_6d86937f2bf70da9:630",
+    "condition": "体力一般",
+    "recommendation": "建议坐环湖观光车",
+    "evidence_span": "体力一般建议坐环湖观光车",
+    "condition_type": "体力与健康",
+    "cache_id": "c3a46a4c4fee6bcf665518ffaa0af9d1e3397e28c158acfe7a2290e01d51ddf0"
+  },
+  {
+    "id": "xihu_user_generated_6d86937f2bf70da9:630",
+    "condition": "体力一般",
+    "recommendation": "分成2天慢慢玩",
+    "evidence_span": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+    "condition_type": "体力与健康",
+    "cache_id": "c3a46a4c4fee6bcf665518ffaa0af9d1e3397e28c158acfe7a2290e01d51ddf0"
+  },
+  {
+    "id": "xihu_user_generated_6d86937f2bf70da9:653",
+    "condition": "手划船受风雨天气影响",
+    "recommendation": "打算坐船出门前留意天气预报",
+    "evidence_span": "手划船受风雨天气影响，打算坐船出门前留意天气预报",
+    "condition_type": "天气环境",
+    "cache_id": "c3a46a4c4fee6bcf665518ffaa0af9d1e3397e28c158acfe7a2290e01d51ddf0"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:0",
+    "condition": "来杭州旅游",
+    "recommendation": "走另一半西湖",
+    "evidence_span": "来杭州旅游，比起挤满人从众的断桥残雪、白堤更推荐大家走另一半西湖",
+    "condition_type": "游客类型",
+    "cache_id": "dce1f1b1b98672050a9b62fbeda3955b3cbce6b578845190395ccb29928d5280"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:192",
+    "condition": "早上人很少",
+    "recommendation": "推荐大家去拍照",
+    "evidence_span": "早上人很少还是蛮推荐大家去拍照的",
+    "condition_type": "时间约束",
+    "cache_id": "dce1f1b1b98672050a9b62fbeda3955b3cbce6b578845190395ccb29928d5280"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:192",
+    "condition": "光线偏暗",
+    "recommendation": "建议穿浅色衣服",
+    "evidence_span": "光线偏暗建议穿浅色衣服",
+    "condition_type": "天气环境",
+    "cache_id": "dce1f1b1b98672050a9b62fbeda3955b3cbce6b578845190395ccb29928d5280"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:239",
+    "condition": "前往太子湾公园会顺路看见雷峰塔",
+    "recommendation": "不建议大家花钱进去，就在西湖边拍个照就够了",
+    "evidence_span": "前往太子湾公园会顺路看见雷峰塔，不建议大家花钱进去，就在西湖边拍个照就够了",
+    "condition_type": "游览偏好",
+    "cache_id": "dce1f1b1b98672050a9b62fbeda3955b3cbce6b578845190395ccb29928d5280"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:365",
+    "condition": "节假日很难抢到",
+    "recommendation": "大家可以骑行路过乌龟潭，也可以看到很好的风景，顺手拍一张摇橹船缓缓驶过的照片",
+    "evidence_span": "节假日很难抢到，大家可以骑行路过乌龟潭，也可以看到很好的风景，顺手拍一张摇橹船缓缓驶过的照片",
+    "condition_type": "时间约束",
+    "cache_id": "5c3fb60c90c347e4b6fc9147a36e0c827e25cf6528da10f1aa58b84021f7d1e3"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:443",
+    "condition": "想安安静静欣赏风景的人",
+    "recommendation": "就在西湖的西侧是曾经的上香古道，景区人非常少，很适合",
+    "evidence_span": "就在西湖的西侧是曾经的上香古道，景区人非常少，很适合想安安静静欣赏风景的人",
+    "condition_type": "游览偏好",
+    "cache_id": "5c3fb60c90c347e4b6fc9147a36e0c827e25cf6528da10f1aa58b84021f7d1e3"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:508",
+    "condition": "如果还有力气",
+    "recommendation": "可以再走五百多米，就可以到上茅家埠茶园拍逛逛",
+    "evidence_span": "如果还有力气可以再走五百多米，就可以到上茅家埠茶园拍逛逛",
+    "condition_type": "体力与健康",
+    "cache_id": "5c3fb60c90c347e4b6fc9147a36e0c827e25cf6528da10f1aa58b84021f7d1e3"
+  },
+  {
+    "id": "xihu_user_generated_6322b1ddadb1b801:508",
+    "condition": "阴雨天的时候",
+    "recommendation": "特别有氛围感",
+    "evidence_span": "阴雨天的时候特别有氛围感",
+    "condition_type": "天气环境",
+    "cache_id": "5c3fb60c90c347e4b6fc9147a36e0c827e25cf6528da10f1aa58b84021f7d1e3"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_0ed001d738cb93a5:161",
+    "condition": "留体力和时间给更好看的右线",
+    "recommendation": "左线必须速刷，景色很普，看完就撤",
+    "evidence_span": "左线必须速刷，景色很普，看完就撤，留体力和时间给更好看的右线",
+    "condition_type": "游览偏好",
+    "cache_id": "5c3fb60c90c347e4b6fc9147a36e0c827e25cf6528da10f1aa58b84021f7d1e3"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_0ed001d738cb93a5:215",
+    "condition": "原始森林站下车后",
+    "recommendation": "不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+    "evidence_span": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+    "condition_type": "其他条件",
+    "cache_id": "5c3fb60c90c347e4b6fc9147a36e0c827e25cf6528da10f1aa58b84021f7d1e3"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:149",
+    "condition": "把时间和体力留给右线",
+    "recommendation": "左线我们选择速通，核心看完长海和五彩池就撤",
+    "evidence_span": "左线我们选择速通，核心看完长海和五彩池就撤，把时间和体力留给右线。",
+    "condition_type": "体力与健康",
+    "cache_id": "6d1f5f749b37c6e1110bda097fa14d324f9307c0272543272eb61e64cbb8814a"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:335",
+    "condition": "现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光",
+    "recommendation": "直接选择坐观光车",
+    "evidence_span": "我们这段没有走，直接选择坐观光车。现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。",
+    "condition_type": "体力与健康",
+    "cache_id": "6d1f5f749b37c6e1110bda097fa14d324f9307c0272543272eb61e64cbb8814a"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:352",
+    "condition": "现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光",
+    "recommendation": "没必要提前把体力耗光",
+    "evidence_span": "现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。",
+    "condition_type": "体力与健康",
+    "cache_id": "6d1f5f749b37c6e1110bda097fa14d324f9307c0272543272eb61e64cbb8814a"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_585b83f4b8f6452f:71",
+    "condition": "时间充裕",
+    "recommendation": "顺带打卡：诺日朗瀑布、熊猫海、箭竹海",
+    "evidence_span": "时间充裕可顺带打卡：诺日朗瀑布、熊猫海、箭竹海",
+    "condition_type": "时间约束",
+    "cache_id": "b451b206e5b6799cecc8ffed9ff6a86c2d7e1c0421f2590d24206f5c2451a943"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_585b83f4b8f6452f:328",
+    "condition": "阴雨天",
+    "recommendation": "直接舍弃观赏性一般的原始森林",
+    "evidence_span": "因为阴雨天直接舍弃观赏性一般的原始森林",
+    "condition_type": "天气环境",
+    "cache_id": "b451b206e5b6799cecc8ffed9ff6a86c2d7e1c0421f2590d24206f5c2451a943"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:0",
+    "condition": "先走右线是因为右线景点较多，整体走下来花费的时长比较多～正好在有体力的时候先走完",
+    "recommendation": "先走右线",
+    "evidence_span": "先走右线是因为右线景点较多，整体走下来花费的时长比较多～正好在有体力的时候先走完",
+    "condition_type": "体力与健康",
+    "cache_id": "726afc83952d95fc09fc069933e32de4fb31aabee8a0b13de06ed704656c6474"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:867",
+    "condition": "看个人体力",
+    "recommendation": "芦苇海没有停车站点，路过双龙海后要徒步2.4公里才能走到最后一个上车点盆景台",
+    "evidence_span": "芦苇海没有停车站点，路过双龙海后要徒步2.4公里才能走到最后一个上车点盆景台～看个人体力",
+    "condition_type": "体力与健康",
+    "cache_id": "726afc83952d95fc09fc069933e32de4fb31aabee8a0b13de06ed704656c6474"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:867",
+    "condition": "不赶时间",
+    "recommendation": "慢慢走也可以",
+    "evidence_span": "不赶时间慢慢走也可以",
+    "condition_type": "时间约束",
+    "cache_id": "726afc83952d95fc09fc069933e32de4fb31aabee8a0b13de06ed704656c6474"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:867",
+    "condition": "下午的话",
+    "recommendation": "一定做好防晒，太阳很大，会比较晒",
+    "evidence_span": "下午的话一定做好防晒，太阳很大，会比较晒",
+    "condition_type": "时间约束",
+    "cache_id": "726afc83952d95fc09fc069933e32de4fb31aabee8a0b13de06ed704656c6474"
+  },
+  {
+    "id": "gugong_user_generated_d927127c74a320bc:309",
+    "condition": "中轴线人最多",
+    "recommendation": "拍照可去两侧宫殿",
+    "evidence_span": "中轴线人最多，拍照可去两侧宫殿",
+    "condition_type": "游览偏好",
+    "cache_id": "5537871c1df291b676a5eb5dbfb52ff833c00022431811e88ad1cd50fd57c79f"
+  }
+]

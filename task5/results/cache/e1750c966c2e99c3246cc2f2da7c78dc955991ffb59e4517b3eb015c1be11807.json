@@ -1,0 +1,49 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_official_df6c311301c59157:148",
+      "condition": "想要好好的逛这皇帝的居所",
+      "recommendation": "给自己一天的时间吧",
+      "evidence_span": "想要好好的逛这皇帝的居所，就给自己一天的时间吧",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:148",
+      "condition": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节",
+      "recommendation": "开启自己的穿越之旅",
+      "evidence_span": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节，就可以开启自己的穿越之旅了",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "gugong_official_df6c311301c59157:215",
+      "condition": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节",
+      "recommendation": "开启自己的穿越之旅",
+      "evidence_span": "做好功课，装满书本上明清的历史知识，再加上电视剧里萦绕在脑海的画面和情节，就可以开启自己的穿越之旅了",
+      "condition_type": "游览偏好"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 681,
+    "completion_tokens": 246,
+    "total_tokens": 927,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 681
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

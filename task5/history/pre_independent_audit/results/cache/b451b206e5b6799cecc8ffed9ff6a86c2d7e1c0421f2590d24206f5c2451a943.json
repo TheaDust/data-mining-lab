@@ -1,0 +1,42 @@
+{
+  "pairs": [
+    {
+      "id": "jiuzhaigou_user_generated_585b83f4b8f6452f:71",
+      "condition": "时间充裕",
+      "recommendation": "顺带打卡：诺日朗瀑布、熊猫海、箭竹海",
+      "evidence_span": "时间充裕可顺带打卡：诺日朗瀑布、熊猫海、箭竹海",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_585b83f4b8f6452f:328",
+      "condition": "阴雨天",
+      "recommendation": "直接舍弃观赏性一般的原始森林",
+      "evidence_span": "因为阴雨天直接舍弃观赏性一般的原始森林",
+      "condition_type": "天气环境"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 593,
+    "completion_tokens": 150,
+    "total_tokens": 743,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 465
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

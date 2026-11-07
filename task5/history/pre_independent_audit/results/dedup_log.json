@@ -1,0 +1,27 @@
+[
+  {
+    "kept": "R00002",
+    "merged": "R00003",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00010",
+    "merged": "R00011",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00014",
+    "merged": "R00015",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00020",
+    "merged": "R00022",
+    "reason": "condition_and_recommendation_normalized_equal"
+  },
+  {
+    "kept": "R00021",
+    "merged": "R00023",
+    "reason": "condition_and_recommendation_normalized_equal"
+  }
+]
