@@ -1,0 +1,24 @@
+[
+  {
+    "kept": "R00033",
+    "merged": "F00017",
+    "reason": "审核后同景区条件与建议双键相等；合并保留全部证据",
+    "audit_refs": [
+      {
+        "group": "B",
+        "record_id": "B-RAW-0047"
+      }
+    ]
+  },
+  {
+    "kept": "R00033",
+    "merged": "F00018",
+    "reason": "审核后同景区条件与建议双键相等；合并保留全部证据",
+    "audit_refs": [
+      {
+        "group": "B",
+        "record_id": "B-RAW-0048"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+pandas>=2.2
+matplotlib>=3.9
+openpyxl>=3.1
+Pillow>=10

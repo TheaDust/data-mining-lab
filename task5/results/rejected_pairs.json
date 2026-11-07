@@ -1,0 +1,122 @@
+[
+  {
+    "id": "xihu_official_7a3841720cf3aaa6:1237",
+    "condition": "漫步群山之余",
+    "recommendation": "千万注意脚下安全",
+    "evidence_span": "漫步群山之余千万注意脚下安全",
+    "condition_type": "体力与健康",
+    "reason": "sequence_not_condition"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:824",
+    "condition": "吃饭",
+    "recommendation": "选这里",
+    "evidence_span": "冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里",
+    "condition_type": "其他条件",
+    "reason": "unresolved_recommendation_target"
+  },
+  {
+    "id": "gugong_user_generated_c57f5e2b6ca3c3a0:874",
+    "condition": "提前看好未来一周的天气预报，哪天晴天选哪天",
+    "recommendation": "虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "evidence_span": "提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+    "condition_type": "天气环境",
+    "reason": "evaluation_not_action"
+  },
+  {
+    "id": "gugong_user_generated_d927127c74a320bc:35",
+    "condition": "带娃/赶时间",
+    "recommendation": "半天精华线（2.5～3小时⏳）",
+    "evidence_span": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+    "condition_type": "游客类型",
+    "reason": "invalid_recommendation"
+  },
+  {
+    "id": "gugong_user_generated_d927127c74a320bc:289",
+    "condition": "进门",
+    "recommendation": "先冲珍宝馆，人最少、体验最好✅",
+    "evidence_span": "• 进门先冲珍宝馆，人最少、体验最好✅",
+    "condition_type": "其他条件",
+    "reason": "sequence_not_condition"
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:191",
+    "condition": "带老人小孩",
+    "recommendation": "慎选",
+    "evidence_span": "步行距离稍远，带老人小孩慎选",
+    "condition_type": "体力与健康",
+    "reason": "unresolved_recommendation_target"
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:590",
+    "condition": "赶时间",
+    "recommendation": "慎选",
+    "evidence_span": "部分路段需绕路，赶时间慎选",
+    "condition_type": "时间约束",
+    "reason": "unresolved_recommendation_target"
+  },
+  {
+    "id": "gugong_user_generated_76dc90f7094090c6:728",
+    "condition": "体力好的年轻人",
+    "recommendation": "适合",
+    "evidence_span": "步行距离最远，适合体力好的年轻人",
+    "condition_type": "体力与健康",
+    "reason": "unresolved_recommendation_target"
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:183",
+    "condition": "容易晕",
+    "recommendation": "选手摇船",
+    "evidence_span": "选手摇船！船身平稳不容易晕",
+    "condition_type": "体力与健康",
+    "reason": "negation_boundary"
+  },
+  {
+    "id": "xihu_user_generated_ddcb0707c1791565:243",
+    "condition": "下午3点后",
+    "recommendation": "记得上午去",
+    "evidence_span": "记得上午去，下午3点后船工基本不接这个路线了",
+    "condition_type": "时间约束",
+    "reason": "time_boundary_needs_context"
+  },
+  {
+    "id": "xihu_user_generated_059807848ba2b4a5:322",
+    "condition": "7 座古寺一次串",
+    "recommendation": "切记提前预Y",
+    "evidence_span": "7 座古寺一次串！财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+    "condition_type": "游览偏好",
+    "reason": "list_not_condition"
+  },
+  {
+    "id": "xihu_user_generated_059807848ba2b4a5:331",
+    "condition": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺",
+    "recommendation": "切记提前预Y",
+    "evidence_span": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+    "condition_type": "游览偏好",
+    "reason": "list_not_condition"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_0ed001d738cb93a5:215",
+    "condition": "原始森林站下车后",
+    "recommendation": "不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+    "evidence_span": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道",
+    "condition_type": "其他条件",
+    "reason": "sequence_not_condition"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+    "condition": "原始森林→芳草海→天鹅海",
+    "recommendation": "可以走",
+    "evidence_span": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+    "condition_type": "游览偏好",
+    "reason": "sequence_not_condition"
+  },
+  {
+    "id": "jiuzhaigou_user_generated_653f517e7ecb42a0:393",
+    "condition": "天鹅海结束",
+    "recommendation": "直接坐车去箭竹海",
+    "evidence_span": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+    "condition_type": "游览偏好",
+    "reason": "sequence_not_condition"
+  }
+]

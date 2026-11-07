@@ -1,0 +1,6 @@
+.deps/
+.tmp/
+node_modules/
+__pycache__/
+.audit_deps/
+.audit_tmp/

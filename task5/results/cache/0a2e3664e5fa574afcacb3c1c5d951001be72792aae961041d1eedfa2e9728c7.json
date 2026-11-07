@@ -1,0 +1,42 @@
+{
+  "pairs": [
+    {
+      "id": "xihu_user_generated_ddcb0707c1791565:138",
+      "condition": "带小朋友喜欢",
+      "recommendation": "花港观鱼可以喂锦鲤",
+      "evidence_span": "花港观鱼可以喂锦鲤，带小朋友喜欢",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "xihu_user_generated_ddcb0707c1791565:183",
+      "condition": "选手摇船",
+      "recommendation": "船身平稳不容易晕，还可以伸手碰湖水🫧",
+      "evidence_span": "选手摇船！船身平稳不容易晕，还可以伸手碰湖水🫧",
+      "condition_type": "游览偏好"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 566,
+    "completion_tokens": 140,
+    "total_tokens": 706,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 438
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

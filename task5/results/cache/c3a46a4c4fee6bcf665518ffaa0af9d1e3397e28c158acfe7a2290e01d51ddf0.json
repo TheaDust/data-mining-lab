@@ -1,0 +1,70 @@
+{
+  "pairs": [
+    {
+      "id": "xihu_user_generated_6d86937f2bf70da9:412",
+      "condition": "每年3‑4月郁金香展",
+      "recommendation": "入园需要提前预约",
+      "evidence_span": "每年3‑4月郁金香展，入园需要提前预约",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "xihu_user_generated_6d86937f2bf70da9:608",
+      "condition": "体力一般",
+      "recommendation": "建议坐环湖观光车",
+      "evidence_span": "体力一般建议坐环湖观光车",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "xihu_user_generated_6d86937f2bf70da9:608",
+      "condition": "体力一般",
+      "recommendation": "分成2天慢慢玩",
+      "evidence_span": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "xihu_user_generated_6d86937f2bf70da9:630",
+      "condition": "体力一般",
+      "recommendation": "建议坐环湖观光车",
+      "evidence_span": "体力一般建议坐环湖观光车",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "xihu_user_generated_6d86937f2bf70da9:630",
+      "condition": "体力一般",
+      "recommendation": "分成2天慢慢玩",
+      "evidence_span": "体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "xihu_user_generated_6d86937f2bf70da9:653",
+      "condition": "手划船受风雨天气影响",
+      "recommendation": "打算坐船出门前留意天气预报",
+      "evidence_span": "手划船受风雨天气影响，打算坐船出门前留意天气预报",
+      "condition_type": "天气环境"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 601,
+    "completion_tokens": 388,
+    "total_tokens": 989,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 473
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

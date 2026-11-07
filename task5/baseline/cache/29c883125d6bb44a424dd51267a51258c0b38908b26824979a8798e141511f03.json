@@ -1,0 +1,42 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:184",
+      "condition": "时间有限",
+      "recommendation": "选珍宝馆！",
+      "evidence_span": "没约上可到展馆门口买（时间有限选珍宝馆！",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:284",
+      "condition": "下午票11:00进场",
+      "recommendation": "不推荐1-2小时的快速路线",
+      "evidence_span": "半天逛不全，且下午票11:00进场会赶上一天最热时段。不推荐1-2小时的快速路线",
+      "condition_type": "时间约束"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 713,
+    "completion_tokens": 158,
+    "total_tokens": 871,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 585
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

@@ -1,0 +1,1185 @@
+{
+  "review_type": "独立LLM辅助语义审核",
+  "reviewer": "ChatGPT GPT-6",
+  "scope": "A32 B15 C36 D20 E5，共108条审核记录，含交叉引用，不代表108条独立语义样本",
+  "items": [
+    {
+      "group": "A",
+      "record_id": "R00001",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队。如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪。",
+      "reason": "旺季是明确时间情境，网上提前订票是行动。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00002",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上提前订票，到时候可直接刷身份证进入，不需要排队。如果是带小朋友或者是带婴儿车的游客，比较推荐购买一日游的产品，十分方便，也免得宝宝们跟着遭罪。",
+      "reason": "带孩子或婴儿车与购买一日游产品明确关联。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00004",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "4.故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路，比如可以参考我们下面的路线哦。",
+      "reason": "单向参观限制构成实际通行条件；因而提前安排路线。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00005",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "由于一天时间相对紧凑，建议早上早点出发进入景区，全程须采用观光车+步行的方式进行游览。具体线路如下：",
+      "reason": "一天时间紧凑对应早入园及观光车加步行的两项建议，可按需要拆成两条。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00006",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "两天的时间对于游览九寨沟来说恰到好处，初入高原的朋友，建议第一日尽量不进行剧烈的运动，所以第一天是适应期，主要游览则渣洼沟和树正沟，第二天则是徒步居多，主要游览九寨沟的精华日则沟。",
+      "reason": "初入高原与首日避免剧烈运动有明确关联。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00007",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "如果您时间充足，那么三天的时间您可以把九寨沟县城、九寨沟神仙池景区一并游览完。九寨沟县城比较小，可以悠闲地逛逛街，享受高原的时光；神仙池景区集九寨之秀、黄龙之奇于一身，整个景区被浩瀚的林海包围，古木参天，云雾蒸腾，有清澈明亮的高山湖泊、发育完好的大面积钙化景观、苍茫无边的原始森林在这里交融出奇妙的神韵。",
+      "reason": "时间充裕对应三日扩展游览。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00008",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "❷珍宝馆、钟表馆：各10，门票不包含！没约上可到展馆门口买（时间有限选珍宝馆！",
+      "reason": "时间有限时优先珍宝馆有直接依据。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00009",
+      "decision": "确认问题",
+      "error_types": [
+        "Boundary"
+      ],
+      "evidence": "➠回到太和门沿中轴线一路向北感受大殿的气派（初次来不建议为了省几步路中轴线和东西宫来回穿梭！因为风格不同，体验容易中断，还容易漏景点）",
+      "reason": "原文针对初访者明确说“不建议中轴线和东西宫来回穿梭”；现预测截取前面常规路线动作，遗漏实际针对条件的否定建议。",
+      "proposed_pairs": [
+        {
+          "condition": "初次来",
+          "recommendation": "不要为了省几步路在中轴线和东西宫之间来回穿梭",
+          "condition_type": "游客类型"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00010",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "❶小电扇/扇子必带！晴天带伞！",
+      "reason": "“晴天带伞”是清晰的短句式条件建议。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00012",
+      "decision": "确认问题",
+      "error_types": [
+        "Boundary"
+      ],
+      "evidence": "➡️带娃在这里收尾，顺便跟孩子科普一下溥仪离开皇宫以后经理的伪满洲国等其他故事。这样刚好完整走完溥仪的一生轨迹，读懂一座城、一个人的浮沉。",
+      "reason": "“这里”需要指向上文神武门，“经理”属于原文错字不可擅改证据，可规范化建议但保留原句。",
+      "proposed_pairs": [
+        {
+          "condition": "带娃",
+          "recommendation": "在神武门收尾，顺便跟孩子科普溥仪离开皇宫后的故事",
+          "condition_type": "游客类型"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00013",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "• 中轴线人最多，拍照可去两侧宫殿📸",
+      "reason": "拍照目标与前往两侧宫殿的选择明确关联。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00014",
+      "decision": "确认问题",
+      "error_types": [
+        "Association",
+        "Boundary"
+      ],
+      "evidence": "也别卡着11点去下午场，太和殿广场全是人，拍照全是后脑勺！下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍，氛围超好！",
+      "reason": "把推荐的入场时段当成条件，把后续游玩体验当建议，方向不合适；应还原为避开拥挤/希望舒适拍照时建议约13点入场。",
+      "proposed_pairs": [
+        {
+          "condition": "希望避开拥挤并获得更舒适的游览拍照体验",
+          "recommendation": "下午1点左右进场",
+          "condition_type": "游览偏好"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00016",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "✅ 赶时间想省腿→选路线 3（记得早点去避安检高峰）",
+      "reason": "赶时间且想省腿的组合约束明确指向路线3；保留路线ID并关联完整原文定义。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00017",
+      "decision": "确认问题",
+      "error_types": [
+        "Boundary"
+      ],
+      "evidence": "花港观鱼可以喂锦鲤，带小朋友喜欢",
+      "reason": "“花港观鱼可以喂锦鲤”是地点活动事实，条件性建议需要恢复隐含的推荐行动。",
+      "proposed_pairs": [
+        {
+          "condition": "带小朋友游览西湖",
+          "recommendation": "去花港观鱼喂锦鲤",
+          "condition_type": "游客类型"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00018",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "🚫 周末节假日有单双号限行，自驾记得查政策",
+      "reason": "节假日的限行政策是明确时间限制；虽建议对象为自驾游客，单一主类可保留时间约束。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00019",
+      "decision": "确认问题",
+      "error_types": [
+        "Classification"
+      ],
+      "evidence": "🚇龙翔桥地铁站C口出来就是湖滨，周末人挤人的话，🉑选凤起路出站，人流会少点",
+      "reason": "核心适用情境是“人流拥挤”，而不是单纯日历时间；周末是该拥挤情境的限定。",
+      "proposed_pairs": [
+        {
+          "condition": "周末人挤人的话",
+          "recommendation": "选凤起路出站",
+          "condition_type": "其他条件"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00020",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+      "reason": "体力一般对应乘观光车。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00021",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐环湖观光车，或者分成2天慢慢玩",
+      "reason": "体力一般对应分两天游玩；与上一条是不同建议不可合并。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00024",
+      "decision": "确认问题",
+      "error_types": [
+        "Association",
+        "Classification"
+      ],
+      "evidence": "2️⃣手划船受风雨天气影响，打算坐船出门前留意天气预报",
+      "reason": "原文条件是“打算坐船”，风雨天气是提醒查天气预报的理由；把风雨当作已发生的前置条件改变适用范围。",
+      "proposed_pairs": [
+        {
+          "condition": "打算坐手划船",
+          "recommendation": "出门前留意天气预报",
+          "condition_type": "交通条件"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00025",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "这个机位在公园里面，早上人很少还是蛮推荐大家去拍照的，光线偏暗建议穿浅色衣服。",
+      "reason": "早上人少提供拍照的时段情境。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00026",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "这个机位在公园里面，早上人很少还是蛮推荐大家去拍照的，光线偏暗建议穿浅色衣服。",
+      "reason": "光线偏暗对应穿浅色衣服，天气环境类别可接受。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00027",
+      "decision": "确认问题",
+      "error_types": [
+        "Association"
+      ],
+      "evidence": "前往太子湾公园会顺路看见雷峰塔，不建议大家花钱进去，就在西湖边拍个照就够了",
+      "reason": "“前往太子湾公园会顺路看见雷峰塔”是路线背景，不是“不要付费入内”的适用前提；应删除当前条件关系，不据此创造新条件。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00028",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "坐摇橹船游乌龟潭实在是太多人排队了，节假日很难抢到，大家可以骑行路过乌龟潭，也可以看到很好的风景，顺手拍一张摇橹船缓缓驶过的照片",
+      "reason": "节假日摇橹船难订时选择骑行经过乌龟潭，有条件性替代行动。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00029",
+      "decision": "确认问题",
+      "error_types": [
+        "Boundary"
+      ],
+      "evidence": "一个冷门的宝藏景点，就在西湖的西侧是曾经的上香古道，景区人非常少，很适合想安安静静欣赏风景的人",
+      "reason": "预测建议是景点描述不是行动。根据本段标题与景点描述可将推荐行动补全为前往茅家埠区域欣赏风景。",
+      "proposed_pairs": [
+        {
+          "condition": "想安安静静欣赏风景",
+          "recommendation": "去茅家埠一带游览",
+          "condition_type": "游览偏好"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00030",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "如果还有力气可以再走五百多米，就可以到上茅家埠茶园拍逛逛，阴雨天的时候特别有氛围感",
+      "reason": "“如果还有力气”明确对应继续步行至上茅家埠茶园；保持原文中的“拍逛逛”不应凭空校正原文。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00031",
+      "decision": "确认问题",
+      "error_types": [
+        "Association"
+      ],
+      "evidence": "左线必须速刷，景色很普，看完就撤，留体力和时间给更好看的右线。",
+      "reason": "左线“景色很普”是评价与理由，不是标准的用户情境条件；原关系缺乏明确的适用情境，删除此条件化版本，保留原文作为普通路线建议。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00032",
+      "decision": "确认问题",
+      "error_types": [
+        "Association",
+        "Classification"
+      ],
+      "evidence": "左线我们选择速通，核心看完长海和五彩池就撤，把时间和体力留给右线。",
+      "reason": "“把时间和体力留给右线”是目标/理由而非已经成立的条件；可规范化成有明示目的支持的偏好条件，避免写成完成动作。",
+      "proposed_pairs": [
+        {
+          "condition": "希望把时间和体力留给右线",
+          "recommendation": "左线只看长海和五彩池后撤离",
+          "condition_type": "游览偏好"
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "record_id": "R00033",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "我们这段没有走，直接选择坐观光车。现场看路线距离非常远，后面还有五花海、珍珠滩等真正的精华，没必要提前把体力耗光。",
+      "reason": "长距离和后续精华需保存体力是选择观光车的明确理由；应保留条件整体，不随意拆成独立规则。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00034",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "时间充裕可顺带打卡：诺日朗瀑布、熊猫海、箭竹海",
+      "reason": "时间充裕对应额外打卡景点，明确成立。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00035",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "主打一个省力游玩，因为阴雨天直接舍弃观赏性一般的原始森林🍃",
+      "reason": "阴雨天与舍弃原始森林的决定直接关联。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00036",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "芦苇海没有停车站点，路过双龙海后要徒步2.4公里才能走到最后一个上车点盆景台～看个人体力，这条的特点是芦苇搭配一条碧蓝色的溪流，我个人很喜欢～不赶时间慢慢走也可以，下午的话一定做好防晒，太阳很大，会比较晒～大多数站点都可停车，希望可以帮助到大家",
+      "reason": "不赶时间与可选择慢走明确关联。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "A",
+      "record_id": "R00037",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "芦苇海没有停车站点，路过双龙海后要徒步2.4公里才能走到最后一个上车点盆景台～看个人体力，这条的特点是芦苇搭配一条碧蓝色的溪流，我个人很喜欢～不赶时间慢慢走也可以，下午的话一定做好防晒，太阳很大，会比较晒～大多数站点都可停车，希望可以帮助到大家",
+      "reason": "下午时段与加强防晒明确关联。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0005",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "线路以探寻西湖南面凤凰山、玉皇山中的佛教石刻为主题，全程约3-4小时，漫步群山之余千万注意脚下安全。",
+      "reason": "“漫步群山之余注意脚下”是活动期间安全提醒，缺少独立触发条件，不宜恢复。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0013",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Boundary"
+      ],
+      "evidence": "陶瓷馆、珍宝馆、钟表馆展厅里有空调，是避暑宝地！冰窖餐厅前身是故宫冰窖，里面很凉快，吃饭可以选这里",
+      "reason": "“吃饭可以选这里”中的这里在本句明确指代冰窖餐厅，可恢复。",
+      "proposed_pairs": [
+        {
+          "condition": "需要吃饭/用餐时",
+          "recommendation": "选择冰窖餐厅",
+          "condition_type": "其他条件"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0014",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Association"
+      ],
+      "evidence": "❷提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+      "reason": "原关系错把拍照效果当行动；但原文确有“选择晴天前往”的推荐，目标是摄影呈现。",
+      "proposed_pairs": [
+        {
+          "condition": "希望拍到蓝天配黄瓦红墙的照片",
+          "recommendation": "提前看天气预报，选择晴天游览",
+          "condition_type": "游览偏好"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0016",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Boundary"
+      ],
+      "evidence": "一、半天精华线（2.5～3小时⏳，适合带娃/赶时间）",
+      "reason": "标题与上下文定义了“半天精华线”，适合带娃或赶时间；原预测仅截断为路线标签，应补全“选择半天精华线”。",
+      "proposed_pairs": [
+        {
+          "condition": "带娃或者赶时间",
+          "recommendation": "选择半天精华线（约2.5～3小时）",
+          "condition_type": "游客类型"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0017",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "• 进门先冲珍宝馆，人最少、体验最好✅",
+      "reason": "进门是路线先后步骤，不是独立情境限制。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0021",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Boundary"
+      ],
+      "evidence": "❌ 缺点：步行距离稍远，带老人小孩慎选",
+      "reason": "查全篇路线标题可知慎选对象是路线1（东华门→午门），带老人小孩不适合较长步行。",
+      "proposed_pairs": [
+        {
+          "condition": "带老人或小孩",
+          "recommendation": "慎选路线1（东华门→午门）",
+          "condition_type": "游客类型"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0022",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Boundary"
+      ],
+      "evidence": "❌ 缺点：中山公园 3 元门票，部分路段需绕路，赶时间慎选",
+      "reason": "完整原文表明慎选对象为路线4（中山公园→午门），而不是无指向“慎选”。",
+      "proposed_pairs": [
+        {
+          "condition": "赶时间",
+          "recommendation": "慎选路线4（中山公园→午门）",
+          "condition_type": "时间约束"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0023",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Boundary"
+      ],
+      "evidence": "❌ 缺点：步行距离最远，适合体力好的年轻人",
+      "reason": "完整原文标题确立路线5（西华门→午门），且明确适合体力好的年轻人，可恢复推荐。",
+      "proposed_pairs": [
+        {
+          "condition": "体力好的年轻人",
+          "recommendation": "可选择路线5（西华门→午门）",
+          "condition_type": "体力与健康"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0026",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "选手摇船！船身平稳不容易晕，还可以伸手碰湖水🫧",
+      "reason": "原文“不容易晕”是船的属性，不存在“容易晕→选手摇船”的明确条件；原自动隔离正确。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0027",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Association"
+      ],
+      "evidence": "⏰ 记得上午去，下午3点后船工基本不接这个路线了",
+      "reason": "不宜错误配成“下午3点后→上午去”；原文明确说明船工在下午3点后不接该路线，构成有效时间限制。",
+      "proposed_pairs": [
+        {
+          "condition": "想乘船游览乌龟潭路线",
+          "recommendation": "上午前往，避免下午3点后抵达",
+          "condition_type": "时间约束"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0029",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "7 座古寺一次串！财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+      "reason": "寺庙串游和提前预约都是通用建议，缺乏明确独立条件；不恢复。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0030",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "财👼庙（⚠️修缮中，11 月后再来）、灵隐寺、法喜寺，切记提前预Y！",
+      "reason": "列表不是条件，提前预约为普通建议；不恢复。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0044",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "原始森林站下车后不要去原始森林（p7），森林没必要在九寨沟玩，把时间留给3公里的森林栈道，美景尽收眼底，很推荐！（p8-p14）",
+      "reason": "“下车后”只是路线步骤，在这一狭义定义下不恢复条件化关系；普通游览建议可保留在其他任务。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0047",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Boundary"
+      ],
+      "evidence": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+      "reason": "前文明确指出“天鹅海到箭竹海路程远”且要保留体力，提供条件约束；不应以纯顺序为由全隔离。",
+      "proposed_pairs": [
+        {
+          "condition": "天鹅海到箭竹海距离很远，且后续仍有五花海、珍珠滩等景点",
+          "recommendation": "天鹅海结束后坐观光车去箭竹海，不要徒步走这段",
+          "condition_type": "体力与健康"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "record_id": "B-RAW-0048",
+      "decision": "确认问题",
+      "error_types": [
+        "FN",
+        "Boundary"
+      ],
+      "evidence": "建议：原始森林→芳草海→天鹅海可以走，天鹅海结束直接坐车去箭竹海。",
+      "reason": "与B-RAW-0047重叠，属于同一可恢复关系；恢复时合并为一条，不重复计数。",
+      "proposed_pairs": [
+        {
+          "condition": "天鹅海到箭竹海距离很远，且后续仍有五花海、珍珠滩等景点",
+          "recommendation": "天鹅海结束后坐观光车去箭竹海，不要徒步走这段",
+          "condition_type": "体力与健康"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_official_88ef5cc31789dc71:1895",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "您可以选择乘坐景区双层敞篷式观光大巴，一览雪山、红叶、碧水、绿草，化旅途劳顿为轻松休闲。",
+      "reason": "乘景区大巴为一般选择，未给出独立适用条件。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_official_88ef5cc31789dc71:1233",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "沟口乘车→长海→五彩池→诺日朗中心站→诺日朗瀑布→犀牛海→树正瀑布→树正群海→双龙海→芦苇海→盆景滩→出沟",
+      "reason": "纯路线步骤，无可确认条件。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:640",
+      "decision": "确认问题",
+      "error_types": [
+        "FN"
+      ],
+      "evidence": "这边是建议放弃左线，深度玩右线，因为五花海很吃光线，最佳观赏时间是中午和下午，所以早上就在原始森林慢悠悠的逛，然后10:00大概阳光出来了就开始从原始森林徒步到天鹅海。",
+      "reason": "前一句明确提供“分配到右线开始”条件，本句给出放弃左线与深玩右线的建议，此外有早上游览原始森林安排。",
+      "proposed_pairs": [
+        {
+          "condition": "如果是分配到右线开始",
+          "recommendation": "放弃左线，深度游览右线",
+          "condition_type": "交通条件"
+        },
+        {
+          "condition": "如果是分配到右线开始",
+          "recommendation": "早上在原始森林游览，约10点开始从原始森林徒步到天鹅海",
+          "condition_type": "交通条件"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:698",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "📌如果让我重新走一次",
+      "reason": "“如果让我重新走一次”本身是作者反事实叙述，后续路线选择不构成游客可操作的外在限制。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:523",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "诺日朗乘车到树正寨，为什么不看犀牛海老虎海，因为要把时间留给群海观景平台，爬上去你就会得到（p15-p17）",
+      "reason": "为了保留时间选择略过景点是理由和路线取舍，未明确独立条件。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "gugong_official_df6c311301c59157:3346",
+      "decision": "确认问题",
+      "error_types": [
+        "FN"
+      ],
+      "evidence": "2.还有就是护城河边的角楼也是摄影爱好者的\"长枪短炮\"必到之地，在夕阳的映衬下，角楼倒映在旁边的护城河里，出神武门往东往西各有一个角楼，建议去西北角楼。",
+      "reason": "句中明确将西北角楼推荐给摄影爱好者，前后有摄影专题标题。",
+      "proposed_pairs": [
+        {
+          "condition": "摄影爱好者想拍故宫角楼",
+          "recommendation": "去西北角楼拍摄",
+          "condition_type": "游览偏好"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "record_id": "gugong_official_df6c311301c59157:4003",
+      "decision": "不确定",
+      "error_types": [],
+      "evidence": "参观完毕后，在出院前将语音讲解器交至讲解服务处。如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。",
+      "reason": "“如果能参与靠谱的旅行团或者一日游”更像对方案效果的条件评价，是否计为行动建议取决于是否允许把“参与”视作隐含推荐；建议暂不新增。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "gugong_official_df6c311301c59157:792",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "紫禁城的308口大水缸除了它固有的消防功能外，更为故宫平添了无尽的美感。1900年，八国联军攻入北京，在紫禁城中进行大肆掠夺时，有不少侵略者竟用刺刀狂刮鎏金铜缸上的金子，如今在太和殿两侧的大缸上，仍能清晰地看见侵略者当年留下的累累刀痕。",
+      "reason": "历史事实及景观介绍，不构成条件建议。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "gugong_user_generated_c57f5e2b6ca3c3a0:284",
+      "decision": "确认问题",
+      "error_types": [
+        "FN"
+      ],
+      "evidence": "半天逛不全，且下午票11:00进场会赶上一天最热时段。不推荐1-2小时的快速路线",
+      "reason": "前文明确对“第一次来”的访客提出留足一日时间的建议，当前候选遗漏该关系。",
+      "proposed_pairs": [
+        {
+          "condition": "第一次来故宫",
+          "recommendation": "安排一整天游览，不建议仅用1～2小时快速游览",
+          "condition_type": "游客类型"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "record_id": "gugong_user_generated_76dc90f7094090c6:695",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "✔️ 优点：人流量最少，沿途安静能看筒子河风光，避开所有拥挤路段",
+      "reason": "路线优点描述，而非当前窗口内可抽取的条件—建议；完整文档中另有相关具体游客匹配。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "xihu_official_7a3841720cf3aaa6:1801",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "旧时，江浙两地的香客乘船来杭州天竺敬香，自茅家埠登岸，再沿着山路到达天竺诸寺，从而踏出了一条“上香古道”。每到佛事季节，古道上熙熙攘攘，好不热闹。",
+      "reason": "历史叙述无游客行动建议。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "xihu_user_generated_6d86937f2bf70da9:565",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "按船收费，可以找人拼船；花港观鱼、中山公园码头可以坐船去三潭印月",
+      "reason": "“按船收费”说明收费单位；拼船为通用可选行为，没有明确“想省钱”等条件。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "xihu_user_generated_ddcb0707c1791565:207",
+      "decision": "不确定",
+      "error_types": [],
+      "evidence": "推荐乌龟潭路线，人少景美穿桥洞，船工会一路讲故事，大人孩子都听得入迷～",
+      "reason": "“大人孩子都听得入迷”给出适合亲子的理由，但并未明确仅对亲子出行推荐此路线；不作为高置信漏抽。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_official_88ef5cc31789dc71:1287",
+      "decision": "确认问题",
+      "error_types": [
+        "FN"
+      ],
+      "evidence": "第一天的游览时间很宽松，不会感到很疲惫，因此可以体验到丰富的娱乐活动，这里推荐您走进景区外的藏家乐，您能品尝到具有藏羌特色的地道饮食餐品：烤全羊，青稞酒，酥油茶，奶茶，手抓肉，羊排，牦牛肉等，前半场在藏家室内吃喝看表演，后半场在室外跳篝火锅庄，过程趣味十足。",
+      "reason": "“第一天的游览时间很宽松”是明确先行情境，后文因此推荐增加藏家乐体验。",
+      "proposed_pairs": [
+        {
+          "condition": "第一天游览时间宽松",
+          "recommendation": "前往景区外藏家乐体验饮食与表演",
+          "condition_type": "时间约束"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_official_88ef5cc31789dc71:679",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "诺日朗群海→诺日朗中心站（11:30-13:30诺日朗餐厅用餐，用餐和休息时间2个小时，可观赏诺日朗瀑布）",
+      "reason": "时间标签和用餐线路安排属于顺序/行程，不宜单独抽为条件建议。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:774",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "✅ 珍珠滩→珍珠滩瀑布：强烈推荐徒步",
+      "reason": "具体游览路段的徒步推荐虽清晰，但在严格条件—建议标准下属于普通路线段推荐；可选作为扩展任务，不纳入核心FN。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_user_generated_292a4ed7e67255de:621",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "九寨沟的调度果然名不虚传，虽然进入第一次分线是随机的，但是只要把路线分成几大板块，就完全不受影响。",
+      "reason": "分线随机是事实，后续表述是经验评价，不构成明确操作建议。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:370",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "澄澈蓝绿渐变湖水、水下钙化枯木像海底森林、倒影极干净，晴天镜面感强、很出片，有很多鱼🐟",
+      "reason": "晴天镜面感是天气对景色的影响，不是建议行动。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "gugong_official_df6c311301c59157:3943",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "5.建议租解说器在午门与神武门内，设有语音导游租赁服务处。汉语版、粤语版语音导览器租金20元/台，其他语种版40元/台。",
+      "reason": "租讲解器是无明确条件的普通建议。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "D",
+      "record_id": "gugong_official_df6c311301c59157:4027",
+      "decision": "不确定",
+      "error_types": [],
+      "evidence": "如果不能了解这里的历史，来游故宫也就是走马观花而已，了解了历史才能开启紫禁城里尘封已久的故事和记忆，当然如果能参与靠谱的旅行团或者一日游，就能使此行更加生动和真实了。",
+      "reason": "“不能了解历史”对应体验效果，但参与旅行团只描述可能效果而非明确指令；保守不新增。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "E",
+      "record_id": "MG-R00002",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "[{\"id\": \"gugong_official_df6c311301c59157:3594\", \"doc_id\": \"gugong_official_df6c311301c59157\", \"scenic_area\": \"北京故宫\", \"source_type\": \"official\", \"url\": \"https://www.visitbeijing.com.cn/article/47QrSKGCz9N\", \"start\": 3594, \"end\": 3714, \"source_text\": \"故宫平日里排队买票的人非常多，烈日炎炎下排个一小时也不是不可能哦，所以建议旅游旺季参观时可以在网上",
+      "reason": "两条成员条件与建议完全一致，保留R00002且来源可追溯。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "E",
+      "record_id": "MG-R00010",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "[{\"id\": \"gugong_user_generated_c57f5e2b6ca3c3a0:809\", \"doc_id\": \"gugong_user_generated_c57f5e2b6ca3c3a0\", \"scenic_area\": \"北京故宫\", \"source_type\": \"user_generated\", \"url\": \"https://www.xiaohongshu.com/explore/6a75c572000000002c004029\", \"start\": 809, \"end\": 824, \"source_text\": \"❶小电扇/扇子必带！晴天带伞！\", \"rule\":",
+      "reason": "两条成员均为晴天带伞，合并合理。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "E",
+      "record_id": "MG-R00014",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "[{\"id\": \"gugong_user_generated_2641b9750708433f:100\", \"doc_id\": \"gugong_user_generated_2641b9750708433f\", \"scenic_area\": \"北京故宫\", \"source_type\": \"user_generated\", \"url\": \"https://www.xiaohongshu.com/explore/6a7399c6000000000e03c801\", \"start\": 100, \"end\": 171, \"source_text\": \"也别卡着11点去下午场，太和殿广场全是人，拍照全是",
+      "reason": "两条成员预测完全等价，合并操作无问题；但保留结果R00014自身需要关系方向修正。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "E",
+      "record_id": "MG-R00020",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "[{\"id\": \"xihu_user_generated_6d86937f2bf70da9:608\", \"doc_id\": \"xihu_user_generated_6d86937f2bf70da9\", \"scenic_area\": \"杭州西湖\", \"source_type\": \"user_generated\", \"url\": \"https://www.xiaohongshu.com/explore/6a86f445000000002202ca93\", \"start\": 608, \"end\": 652, \"source_text\": \"1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐",
+      "reason": "R00020/R00022重复、合并正确；不应和“分两天慢慢玩”合并。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "E",
+      "record_id": "MG-R00021",
+      "decision": "可接受",
+      "error_types": [],
+      "evidence": "[{\"id\": \"xihu_user_generated_6d86937f2bf70da9:608\", \"doc_id\": \"xihu_user_generated_6d86937f2bf70da9\", \"scenic_area\": \"杭州西湖\", \"source_type\": \"user_generated\", \"url\": \"https://www.xiaohongshu.com/explore/6a86f445000000002202ca93\", \"start\": 608, \"end\": 652, \"source_text\": \"1️⃣全程徒步大概10‑12公里，路程很长！体力一般建议坐",
+      "reason": "R00021/R00023重复、合并正确；来源被保留。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_official_df6c311301c59157:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "故宫是游客到北京必去的地方，不仅在于她的名气，更在于她在每个中国人心中的文化情结。故宫之美，不单美在她无以伦比的建筑和她留下的珍贵古玩，更美在那里曾经住过的人、发生过的事儿，深宫里的人虽然已经不在了，但故事还在，到故宫去，就是为了去寻找紫禁城沉淀的600年记忆。",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_official_df6c311301c59157:1968",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "离开延禧宫就能左转顺着红墙夹道去太上皇的宫殿。乾隆皇帝86岁时禅位给了他的儿子嘉庆皇帝，于是，成了太上皇的他专门给自己修了一座养老院，这就是珍宝馆，曾经的宁寿全宫-一组浓缩的紫禁城。",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_official_7a3841720cf3aaa6:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "“上有天堂，下有苏杭。”",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_official_7a3841720cf3aaa6:1071",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "这期间钱氏治杭70余年，杭州的城垣经历了多次拓展、营建，奠定了城市格局的主轴线；吴越王动用大批的劳动力修筑海塘来保护江边农田不受潮水侵蚀，设“撩湖军”专门负责疏浚治理西湖，烧制秘色瓷上供中原王朝……由此“钱塘富庶盛于东南”。吴越国三代国主统治期间均大力提倡佛教，在杭州西湖沿岸群山兴建寺院、雕刻佛经、建造佛塔经幢、摩崖石窟造像等。",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_official_88ef5cc31789dc71:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "概述",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_official_88ef5cc31789dc71:733",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "【下午】",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_c57f5e2b6ca3c3a0:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "北京故宫博物院，来北京旅游必逛景点！收好这篇本地人攻略，带你逛遍核心景点！",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_c57f5e2b6ca3c3a0:562",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "➠去文华殿看新展",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_ac13633e735a71ff:133",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "-————————————————————————-",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_ac13633e735a71ff:710",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "神武门｜溥仪的告别与新生",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_d927127c74a320bc:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "入口：午门 ➡️ 出口：神武门",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_d927127c74a320bc:328",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "• 园内水和食物偏贵，可自带少量水和零食💧",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_2641b9750708433f:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "之前不信邪，非要去试故宫上午票，结果真被坑惨了！姐妹们听劝，上午场真的不行！",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_2641b9750708433f:379",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "精华全打卡，御花园好机位也能找到。",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_76dc90f7094090c6:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "好不容易蹲到故宫门票，千万别在入园路上浪费时间！",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "gugong_user_generated_76dc90f7094090c6:493",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "ㅤ",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_d439099980d19760:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "终于找到了最轻松不累腿的西湖游玩路线！",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_d439099980d19760:538",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "🪷【绝美荷景：曲院风荷】",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_ddcb0707c1791565:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "逛西湖，千万别想着一天打卡全部景点！挑精华深度玩，一家出行的都轻松",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_ddcb0707c1791565:319",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "#西湖",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_059807848ba2b4a5:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "🚇交通",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_059807848ba2b4a5:366",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "🌿南部小众",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_6d86937f2bf70da9:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "🗺一日路线",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_6d86937f2bf70da9:382",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "✅太子湾公园",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_6322b1ddadb1b801:79",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "🚴【交通方式】",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "xihu_user_generated_6322b1ddadb1b801:430",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "5️⃣茅家埠（p8-10",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "特种兵暴走3万步，早上8:00进的景区，下午16:00出沟。",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_0ed001d738cb93a5:399",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "五花海→珍珠滩→珍珠滩瀑布→镜海。",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "一天能不能玩完九寨沟？",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_653f517e7ecb42a0:611",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "④ 树正沟｜一路玩到出口",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_585b83f4b8f6452f:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "节奏轻松舒适，精华景点全覆盖，下午五点半从容出园🌿",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_585b83f4b8f6452f:554",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "再走1km左右绝美栈道",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_292a4ed7e67255de:0",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "10.17出行，目测叶子已红40%。",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_292a4ed7e67255de:363",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "16：30 诺日朗下车，⭐步行诺日朗瀑布",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:190",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "右线*日则沟从上往下：",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    },
+    {
+      "group": "C",
+      "record_id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:540",
+      "decision": "未发现",
+      "error_types": [],
+      "evidence": "📍长海（必去✅）",
+      "reason": "所抽查的规则未命中窗口文本自身未提供有证据的条件—行动建议关系；相邻内容不自动计入当前窗口。",
+      "proposed_pairs": []
+    }
+  ],
+  "counts": {
+    "A_可接受": 22,
+    "A_确认问题": 10,
+    "B_未发现": 6,
+    "B_确认问题": 9,
+    "D_未发现": 13,
+    "D_确认问题": 4,
+    "D_不确定": 3,
+    "E_可接受": 5,
+    "C_未发现": 36
+  },
+  "limitations": [
+    "C为固定规则外样本，不能估计总体漏抽率",
+    "审核为独立LLM辅助，不是人类人工金标准",
+    "部分恢复记录属于跨句语义归一化，需保留原文和审核依据",
+    "不能使用本次记录通过率冒称人工Precision或F1"
+  ]
+}

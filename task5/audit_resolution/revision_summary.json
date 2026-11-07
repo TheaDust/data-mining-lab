@@ -1,0 +1,33 @@
+{
+  "before_pairs": 32,
+  "after_pairs": 41,
+  "modified_baseline_pairs": 9,
+  "deleted_baseline_pairs": 3,
+  "restored_candidates": 9,
+  "restored_net_new_pairs": 7,
+  "added_from_D": 5,
+  "reviewed_before_dedup": 43,
+  "review_merge_operations": 2,
+  "audit_items_resolved": 108,
+  "uncertain_not_added": 3,
+  "audit_type": "独立LLM辅助语义审核",
+  "new_network_calls": 0,
+  "categories_before": {
+    "游客类型": 4,
+    "天气环境": 4,
+    "时间约束": 11,
+    "体力与健康": 6,
+    "交通条件": 3,
+    "游览偏好": 4,
+    "其他条件": 0
+  },
+  "categories_after": {
+    "游客类型": 7,
+    "天气环境": 3,
+    "时间约束": 13,
+    "体力与健康": 6,
+    "交通条件": 5,
+    "游览偏好": 4,
+    "其他条件": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "json_valid": true,
+  "excel_rows": 41,
+  "excel_cells_equal": true,
+  "stats_equal": true,
+  "evidence_offsets_valid": true,
+  "png_valid": true,
+  "human_review": "pending",
+  "review_type": "independent_llm_assisted",
+  "human_gold": false
+}

@@ -1,0 +1,56 @@
+{
+  "pairs": [
+    {
+      "id": "xihu_user_generated_ddcb0707c1791565:243",
+      "condition": "下午3点后",
+      "recommendation": "记得上午去",
+      "evidence_span": "记得上午去，下午3点后船工基本不接这个路线了",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "xihu_user_generated_ddcb0707c1791565:297",
+      "condition": "周末节假日",
+      "recommendation": "自驾记得查政策",
+      "evidence_span": "周末节假日有单双号限行，自驾记得查政策",
+      "condition_type": "交通条件"
+    },
+    {
+      "id": "xihu_user_generated_059807848ba2b4a5:322",
+      "condition": "修缮中，11 月后再来",
+      "recommendation": "财👼庙（⚠️修缮中，11 月后再来）",
+      "evidence_span": "财👼庙（⚠️修缮中，11 月后再来）",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "xihu_user_generated_6d86937f2bf70da9:70",
+      "condition": "周末人挤人的话",
+      "recommendation": "🉑选凤起路出站，人流会少点",
+      "evidence_span": "周末人挤人的话，🉑选凤起路出站，人流会少点",
+      "condition_type": "交通条件"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 637,
+    "completion_tokens": 286,
+    "total_tokens": 923,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 509
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

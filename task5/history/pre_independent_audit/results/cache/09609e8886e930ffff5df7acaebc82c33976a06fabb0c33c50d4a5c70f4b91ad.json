@@ -1,0 +1,42 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_official_df6c311301c59157:3867",
+      "condition": "故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来",
+      "recommendation": "游玩的时候一定安排好路线，尽量不要走冤枉路",
+      "evidence_span": "故宫博物院实行单向参观所有游客只能从南侧午门进入,经北侧神武门出来，所以游玩的时候一定安排好路线，尽量不要走冤枉路",
+      "condition_type": "交通条件"
+    },
+    {
+      "id": "xihu_official_7a3841720cf3aaa6:1237",
+      "condition": "漫步群山之余",
+      "recommendation": "千万注意脚下安全",
+      "evidence_span": "漫步群山之余千万注意脚下安全",
+      "condition_type": "体力与健康"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 927,
+    "completion_tokens": 166,
+    "total_tokens": 1093,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 927
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v2",
+  "attempts": 1
+}

@@ -1,0 +1,63 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:874",
+      "condition": "提前看好未来一周的天气预报，哪天晴天选哪天",
+      "recommendation": "虽然晒，但蓝天配黄瓦红墙拍照才好看",
+      "evidence_span": "提前看好未来一周的天气预报，哪天晴天选哪天！虽然晒，但蓝天配黄瓦红墙拍照才好看",
+      "condition_type": "天气环境"
+    },
+    {
+      "id": "gugong_user_generated_ac13633e735a71ff:271",
+      "condition": "带娃",
+      "recommendation": "驻足可以告诉他：这里不是刑场，是六百年皇权的开端，也是溥仪一生浮沉的起点",
+      "evidence_span": "带娃驻足可以告诉他：这里不是刑场，是六百年皇权的开端，也是溥仪一生浮沉的起点",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_user_generated_ac13633e735a71ff:429",
+      "condition": "带孩子",
+      "recommendation": "摸一摸殿外的栏杆、看一看层层台阶，告诉孩子：极致的尊贵，往往藏着极致的孤独",
+      "evidence_span": "带孩子摸一摸殿外的栏杆、看一看层层台阶，告诉孩子：极致的尊贵，往往藏着极致的孤独",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_user_generated_ac13633e735a71ff:497",
+      "condition": "带娃",
+      "recommendation": "可以细讲：这里是皇帝的办公室，看似自由的皇权，实则被规矩牢牢束缚",
+      "evidence_span": "带娃可以细讲：这里是皇帝的办公室，看似自由的皇权，实则被规矩牢牢束缚",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "gugong_user_generated_ac13633e735a71ff:607",
+      "condition": "亲子",
+      "recommendation": "这里最适合亲子慢逛，没有拥挤人潮，能静静感受皇家生活的平淡与束缚",
+      "evidence_span": "这里最适合亲子慢逛，没有拥挤人潮，能静静感受皇家生活的平淡与束缚",
+      "condition_type": "游客类型"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 709,
+    "completion_tokens": 435,
+    "total_tokens": 1144,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 581
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

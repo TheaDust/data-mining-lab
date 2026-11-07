@@ -1,0 +1,35 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_c57f5e2b6ca3c3a0:184",
+      "condition": "时间有限",
+      "recommendation": "选珍宝馆",
+      "evidence_span": "没约上可到展馆门口买（时间有限选珍宝馆！",
+      "condition_type": "时间约束"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 896,
+    "completion_tokens": 72,
+    "total_tokens": 968,
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    },
+    "prompt_cache_hit_tokens": 256,
+    "prompt_cache_miss_tokens": 640
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v2",
+  "attempts": 1
+}

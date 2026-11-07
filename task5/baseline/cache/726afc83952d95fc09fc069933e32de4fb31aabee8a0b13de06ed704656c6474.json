@@ -1,0 +1,56 @@
+{
+  "pairs": [
+    {
+      "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:0",
+      "condition": "先走右线是因为右线景点较多，整体走下来花费的时长比较多～正好在有体力的时候先走完",
+      "recommendation": "先走右线",
+      "evidence_span": "先走右线是因为右线景点较多，整体走下来花费的时长比较多～正好在有体力的时候先走完",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:867",
+      "condition": "看个人体力",
+      "recommendation": "芦苇海没有停车站点，路过双龙海后要徒步2.4公里才能走到最后一个上车点盆景台",
+      "evidence_span": "芦苇海没有停车站点，路过双龙海后要徒步2.4公里才能走到最后一个上车点盆景台～看个人体力",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:867",
+      "condition": "不赶时间",
+      "recommendation": "慢慢走也可以",
+      "evidence_span": "不赶时间慢慢走也可以",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "jiuzhaigou_user_generated_aa7e68d694fcc6a7:867",
+      "condition": "下午的话",
+      "recommendation": "一定做好防晒，太阳很大，会比较晒",
+      "evidence_span": "下午的话一定做好防晒，太阳很大，会比较晒",
+      "condition_type": "时间约束"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 860,
+    "completion_tokens": 331,
+    "total_tokens": 1191,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 732
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

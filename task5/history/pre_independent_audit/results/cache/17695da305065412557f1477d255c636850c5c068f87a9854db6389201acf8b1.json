@@ -1,0 +1,49 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_d927127c74a320bc:309",
+      "condition": "拍照",
+      "recommendation": "可去两侧宫殿",
+      "evidence_span": "拍照可去两侧宫殿",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "gugong_user_generated_2641b9750708433f:100",
+      "condition": "下午1点左右进场",
+      "recommendation": "慢慢逛、随便拍",
+      "evidence_span": "下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍",
+      "condition_type": "时间约束"
+    },
+    {
+      "id": "gugong_user_generated_2641b9750708433f:129",
+      "condition": "下午1点左右进场",
+      "recommendation": "慢慢逛、随便拍",
+      "evidence_span": "下午1点左右进场才舒服，上午的人散了，早逛的也累了，这时候慢慢逛、随便拍",
+      "condition_type": "时间约束"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 887,
+    "completion_tokens": 199,
+    "total_tokens": 1086,
+    "prompt_tokens_details": {
+      "cached_tokens": 384
+    },
+    "prompt_cache_hit_tokens": 384,
+    "prompt_cache_miss_tokens": 503
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v2",
+  "attempts": 1
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "A_final_pairs.json": "20dfac4b0a5ff95080ba18f2d950901e2d0505f0cb59a35618ffe8035b6720fe",
+    "B_quarantined.json": "4b84bb6790d9a0feff95b79ada06ce77e4666b2e32e6f6670905c077803538f5",
+    "C_rule_missed.json": "4fddebd5e94738315026eae24853d5f21bb459367c6fb26a549f71687761cfaa",
+    "D_llm_rejected.json": "11768ce88f96e25840f33d3aeae1c7785af5fac290d92f7f23d86627dcca37c9",
+    "E_dedup_merges.json": "c3b689dbfc92e54cd594438f1d74d97e305486618acb78066ca5320da3c865af",
+    "F_source_documents.json": "8dc6a5d034c6b9c9a4eefcf2c2ba46652cfa3f86a1b14161b6a7eb4242d13709",
+    "G_near_duplicates.json": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+    "integrity_checks.json": "54c8008465b3d626aba804c45f43d83d436bc26da5c26d9edc67c3fbf13b0fb0",
+    "README.md": "77670a4ae839f93ddbd1079a621a2825f06e98c9fce365a739db8a05906198f4",
+    "review_all.xlsx": "c896e2cb43f6074e6033add05ed63a626379c82834ef80c421ee60c940d7c014",
+    "review_protocol.md": "df3821aeec22684f145f8320aacfa407c8cf98c89078beea07497a4b98216f7f"
+  }
+}

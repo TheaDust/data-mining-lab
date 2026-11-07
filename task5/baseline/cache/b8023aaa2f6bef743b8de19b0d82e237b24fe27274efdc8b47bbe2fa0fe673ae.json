@@ -1,0 +1,49 @@
+{
+  "pairs": [
+    {
+      "id": "gugong_user_generated_76dc90f7094090c6:766",
+      "condition": "赶时间想省腿",
+      "recommendation": "选路线 3",
+      "evidence_span": "✅ 赶时间想省腿→选路线 3",
+      "condition_type": "游览偏好"
+    },
+    {
+      "id": "xihu_user_generated_d439099980d19760:37",
+      "condition": "新手、亲子、懒人",
+      "recommendation": "直接抄作业",
+      "evidence_span": "新手、亲子、懒人直接抄作业",
+      "condition_type": "游客类型"
+    },
+    {
+      "id": "xihu_user_generated_d439099980d19760:827",
+      "condition": "老人小孩",
+      "recommendation": "随上随下，短途接驳超方便",
+      "evidence_span": "随上随下，短途接驳超方便，老人小孩完全无压力",
+      "condition_type": "游客类型"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 565,
+    "completion_tokens": 190,
+    "total_tokens": 755,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 437
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v1",
+  "attempts": 1
+}

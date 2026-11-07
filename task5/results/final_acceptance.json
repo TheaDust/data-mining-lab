@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "final_pairs": 41,
+  "resolution_items": 108,
+  "json_valid": true,
+  "excel_json_cells_equal": true,
+  "category_csv_equal": true,
+  "scenic_counts_equal": true,
+  "png_valid": true,
+  "original_outputs_preserved": true,
+  "snapshot_and_review_package_unchanged": true,
+  "report_sections_consistent": true,
+  "actual_default_entry_replay_idempotent": true,
+  "core_sha256": {
+    "D:\\Jack_s_file\\learning\\课内学习\\大三上课内\\数据挖掘\\数据挖掘实验\\code\\data-mining-lab\\task5\\results\\final_mapping.json": "4510800c6bafc4b8098fe5bd2b5b1f034dc64a08eb492cee41708c50f5b42ece",
+    "D:\\Jack_s_file\\learning\\课内学习\\大三上课内\\数据挖掘\\数据挖掘实验\\code\\data-mining-lab\\task5\\results\\summary.json": "cf19eaa9ae72fb4d18025cdf625f8b3295247beb64ba4c3ff9a6e9ccbbfe96c6",
+    "D:\\Jack_s_file\\learning\\课内学习\\大三上课内\\数据挖掘\\数据挖掘实验\\code\\data-mining-lab\\task5\\results\\review_dedup_log.json": "762b5f1e657dd9159232af80daf8e1544f35542a256048550c5780f7c119e8eb",
+    "D:\\Jack_s_file\\learning\\课内学习\\大三上课内\\数据挖掘\\数据挖掘实验\\code\\data-mining-lab\\task5\\audit_resolution\\resolution_log.json": "0ac3fd89a9bde23406339b3fdf3913cd3662fa3577780f7250bed7ca3c6afc82"
+  },
+  "new_model_calls": 0,
+  "human_gold": false,
+  "human_review": "待真实人工确认"
+}

@@ -1,0 +1,42 @@
+{
+  "pairs": [
+    {
+      "id": "jiuzhaigou_official_88ef5cc31789dc71:1134",
+      "condition": "初入高原的朋友",
+      "recommendation": "第一日尽量不进行剧烈的运动",
+      "evidence_span": "初入高原的朋友，建议第一日尽量不进行剧烈的运动",
+      "condition_type": "体力与健康"
+    },
+    {
+      "id": "jiuzhaigou_official_88ef5cc31789dc71:1633",
+      "condition": "如果您时间充足",
+      "recommendation": "三天的时间您可以把九寨沟县城、九寨沟神仙池景区一并游览完",
+      "evidence_span": "如果您时间充足，那么三天的时间您可以把九寨沟县城、九寨沟神仙池景区一并游览完",
+      "condition_type": "时间约束"
+    }
+  ],
+  "model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 1136,
+    "completion_tokens": 159,
+    "total_tokens": 1295,
+    "prompt_tokens_details": {
+      "cached_tokens": 384
+    },
+    "prompt_cache_hit_tokens": 384,
+    "prompt_cache_miss_tokens": 752
+  },
+  "config": {
+    "model": "deepseek-flash",
+    "temperature": 0,
+    "max_tokens": 6000,
+    "thinking": {
+      "type": "disabled"
+    },
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "prompt_version": "v2",
+  "attempts": 1
+}
