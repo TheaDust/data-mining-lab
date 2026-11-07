@@ -1,0 +1,76 @@
+{
+  "inputs": {
+    "task1/data/final/documents.jsonl": "a00d04703a53c515a39a39a74582f1e6d00f7098474460eec7ecb93a722c3a65",
+    "task2/results/v2/entities.json": "ba18804ef40693ea6cd676a8facab9e97f598c9e74a2c0d842b3a732578fe87e",
+    "task3/results/official_routes.json": "346622109f987cf8a1fb6a8ce3eb040f00378a6802bd12956e1c68c746af6e9b",
+    "task3/results/visitor_routes.json": "1e183da757d17b5e7334eb69905f7cbee4020135f91b4be1da1300fc472dd372",
+    "task5/results/final_mapping.json": "4510800c6bafc4b8098fe5bd2b5b1f034dc64a08eb492cee41708c50f5b42ece"
+  },
+  "node_count": 583,
+  "edge_count": 1751,
+  "node_types": {
+    "Activity": 12,
+    "Condition": 41,
+    "ConditionType": 18,
+    "Document": 18,
+    "POI": 215,
+    "Route": 23,
+    "ScenicSpot": 3,
+    "Step": 250,
+    "TimePeriod": 3
+  },
+  "edge_types": {
+    "AT_TIME": 31,
+    "DESCRIBES": 23,
+    "ENDS_AT": 21,
+    "FROM_DOC": 41,
+    "HAS_ACTIVITY": 272,
+    "HAS_CONDITION": 41,
+    "HAS_ROUTE": 23,
+    "HAS_STEP": 250,
+    "HAS_TYPE": 41,
+    "MENTIONS": 436,
+    "NEXT": 227,
+    "RELATES_TO": 30,
+    "STARTS_AT": 21,
+    "VISITS": 294
+  },
+  "per_scenic_spot": {
+    "北京故宫": {
+      "nodes": 138,
+      "edges": 374,
+      "routes": 6,
+      "steps": 37,
+      "pois": 59,
+      "conditions": 18
+    },
+    "杭州西湖": {
+      "nodes": 253,
+      "edges": 647,
+      "routes": 12,
+      "steps": 101,
+      "pois": 111,
+      "conditions": 12
+    },
+    "九寨沟": {
+      "nodes": 192,
+      "edges": 730,
+      "routes": 5,
+      "steps": 112,
+      "pois": 45,
+      "conditions": 11
+    }
+  },
+  "filters": {
+    "excluded_low_frequency_pois": 125,
+    "non_poi_route_labels": 4,
+    "route_poi_mentions": 298
+  },
+  "alignment": {
+    "route_poi_entity_refs": 291,
+    "route_poi_entity_refs_aligned": 291,
+    "route_poi_without_entity_ref": 3
+  },
+  "excluded_poi_count": 125,
+  "condition_poi_links": 30
+}

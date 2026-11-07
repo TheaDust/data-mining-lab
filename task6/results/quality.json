@@ -1,0 +1,565 @@
+{
+  "all_passed": true,
+  "checks": [
+    {
+      "name": "节点 ID 唯一",
+      "passed": true,
+      "detail": "583 个节点",
+      "value": 583
+    },
+    {
+      "name": "边 ID 唯一",
+      "passed": true,
+      "detail": "1751 条边",
+      "value": 1751
+    },
+    {
+      "name": "边端点均存在",
+      "passed": true,
+      "detail": "悬空边 0 条",
+      "value": 0
+    },
+    {
+      "name": "路线数量与 task3 一致",
+      "passed": true,
+      "detail": "23 条（官方 17 + 游客 6）",
+      "value": 23
+    },
+    {
+      "name": "步骤数量与 task3 一致",
+      "passed": true,
+      "detail": "250 步",
+      "value": 250
+    },
+    {
+      "name": "条件数量与 task5 一致",
+      "passed": true,
+      "detail": "41 条",
+      "value": 41
+    },
+    {
+      "name": "文档数量与 task1 一致",
+      "passed": true,
+      "detail": "18 篇",
+      "value": 18
+    },
+    {
+      "name": "路线步骤序号连续",
+      "passed": true,
+      "detail": "所有路线均为 1..N",
+      "value": true
+    },
+    {
+      "name": "NEXT 链完整",
+      "passed": true,
+      "detail": "缺失 0 处",
+      "value": 0
+    },
+    {
+      "name": "步骤-POI 访问边",
+      "passed": true,
+      "detail": "294 条（298 个提及，4 个边界动作被过滤）",
+      "value": 294
+    },
+    {
+      "name": "task2/task3 实体对齐",
+      "passed": true,
+      "detail": "291/291 个 entity_ref 精确命中 task2",
+      "value": 291
+    },
+    {
+      "name": "起终点边",
+      "passed": true,
+      "detail": "STARTS_AT 21，ENDS_AT 21；2 条路线首/尾步骤是边界动作，未强行补点",
+      "value": 21
+    },
+    {
+      "name": "低频 POI 过滤策略",
+      "passed": true,
+      "detail": "保留：路线节点或提及 ≥2；其余 125 个候选进入 excluded_pois.csv",
+      "value": 0
+    },
+    {
+      "name": "弱连通分量",
+      "passed": true,
+      "detail": "3 个分量（三个景区各自连通）",
+      "value": 3
+    },
+    {
+      "name": "无孤立节点",
+      "passed": true,
+      "detail": "孤立节点 0 个",
+      "value": 0
+    },
+    {
+      "name": "各景区子图连通",
+      "passed": true,
+      "detail": "{\"九寨沟\": true, \"北京故宫\": true, \"杭州西湖\": true}",
+      "value": {
+        "九寨沟": true,
+        "北京故宫": true,
+        "杭州西湖": true
+      }
+    },
+    {
+      "name": "条件类型",
+      "passed": true,
+      "detail": "7 类",
+      "value": 7
+    },
+    {
+      "name": "文档来源可追溯",
+      "passed": true,
+      "detail": "18/18 篇文档至少连接一条路线或条件",
+      "value": 18
+    }
+  ],
+  "counts": {
+    "nodes": 583,
+    "edges": 1751,
+    "routes": 23,
+    "steps": 250,
+    "pois": 215,
+    "conditions": 41,
+    "documents": 18
+  },
+  "analysis": {
+    "top_pois": {
+      "九寨沟": [
+        {
+          "name": "原始森林",
+          "route_count": 5,
+          "mention_count": 22,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "箭竹海",
+          "route_count": 5,
+          "mention_count": 18,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "五彩池",
+          "route_count": 5,
+          "mention_count": 17,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "五花海",
+          "route_count": 5,
+          "mention_count": 16,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "长海",
+          "route_count": 5,
+          "mention_count": 16,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "双龙海",
+          "route_count": 5,
+          "mention_count": 15,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "天鹅海",
+          "route_count": 5,
+          "mention_count": 14,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "犀牛海",
+          "route_count": 5,
+          "mention_count": 12,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        }
+      ],
+      "北京故宫": [
+        {
+          "name": "御花园",
+          "route_count": 5,
+          "mention_count": 16,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "午门",
+          "route_count": 3,
+          "mention_count": 22,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "神武门",
+          "route_count": 3,
+          "mention_count": 18,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "乾清宫",
+          "route_count": 3,
+          "mention_count": 8,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "珍宝馆",
+          "route_count": 2,
+          "mention_count": 16,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "太和殿",
+          "route_count": 2,
+          "mention_count": 12,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "钟表馆",
+          "route_count": 2,
+          "mention_count": 10,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "保和殿",
+          "route_count": 2,
+          "mention_count": 8,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        }
+      ],
+      "杭州西湖": [
+        {
+          "name": "柳浪闻莺",
+          "route_count": 3,
+          "mention_count": 12,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "三潭印月",
+          "route_count": 3,
+          "mention_count": 10,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "曲院风荷",
+          "route_count": 3,
+          "mention_count": 10,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "花港观鱼",
+          "route_count": 3,
+          "mention_count": 10,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "断桥残雪",
+          "route_count": 3,
+          "mention_count": 9,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "平湖秋月",
+          "route_count": 3,
+          "mention_count": 7,
+          "source_types": [
+            "official",
+            "user_generated"
+          ]
+        },
+        {
+          "name": "东岳庙",
+          "route_count": 2,
+          "mention_count": 2,
+          "source_types": [
+            "official"
+          ]
+        },
+        {
+          "name": "大井巷",
+          "route_count": 2,
+          "mention_count": 2,
+          "source_types": [
+            "official"
+          ]
+        }
+      ]
+    },
+    "route_lengths": {
+      "九寨沟": {
+        "count": 5,
+        "official": 3,
+        "visitor": 2,
+        "min_steps": 15,
+        "max_steps": 30,
+        "avg_steps": 22.4
+      },
+      "北京故宫": {
+        "count": 6,
+        "official": 4,
+        "visitor": 2,
+        "min_steps": 1,
+        "max_steps": 9,
+        "avg_steps": 6.2
+      },
+      "杭州西湖": {
+        "count": 12,
+        "official": 10,
+        "visitor": 2,
+        "min_steps": 4,
+        "max_steps": 22,
+        "avg_steps": 8.4
+      }
+    },
+    "shared_pois": [
+      {
+        "spot": "九寨沟",
+        "count": 24,
+        "examples": [
+          "原始森林",
+          "箭竹海",
+          "五彩池",
+          "五花海",
+          "长海",
+          "双龙海",
+          "天鹅海",
+          "犀牛海"
+        ]
+      },
+      {
+        "spot": "北京故宫",
+        "count": 11,
+        "examples": [
+          "御花园",
+          "午门",
+          "神武门",
+          "乾清宫",
+          "珍宝馆",
+          "太和殿",
+          "钟表馆",
+          "保和殿"
+        ]
+      },
+      {
+        "spot": "杭州西湖",
+        "count": 10,
+        "examples": [
+          "柳浪闻莺",
+          "三潭印月",
+          "曲院风荷",
+          "花港观鱼",
+          "断桥残雪",
+          "平湖秋月",
+          "东岳庙",
+          "大井巷"
+        ]
+      }
+    ],
+    "sample_routes": [
+      {
+        "spot": "九寨沟",
+        "route_id": "jiuzhaigou_official_88ef5cc31789dc71_route_03",
+        "route_name": "三日多彩游",
+        "source_type": "official",
+        "step_count": 30,
+        "sequence": [
+          "九寨沟县城",
+          "九寨沟神仙池景区",
+          "漳扎镇",
+          "沟口",
+          "长海",
+          "五彩池",
+          "诺日朗中心站",
+          "诺日朗瀑布",
+          "犀牛海",
+          "树正瀑布",
+          "树正群海",
+          "双龙海",
+          "芦苇海",
+          "盆景滩",
+          "游客中心",
+          "原始森林",
+          "芳草海",
+          "天鹅海",
+          "箭竹海",
+          "熊猫海",
+          "珍珠滩",
+          "五花海",
+          "诺日朗中心站",
+          "诺日朗瀑布",
+          "犀牛海",
+          "树正瀑布",
+          "树正群海",
+          "双龙海",
+          "芦苇海",
+          "盆景滩"
+        ]
+      },
+      {
+        "spot": "北京故宫",
+        "route_id": "gugong_official_df6c311301c59157_route_01",
+        "route_name": "路线一(图中黄箭头)",
+        "source_type": "official",
+        "step_count": 9,
+        "sequence": [
+          "午门",
+          "太和殿",
+          "中和殿",
+          "保和殿",
+          "乾清宫",
+          "交泰殿",
+          "坤宁宫",
+          "御花园",
+          "神武门"
+        ]
+      },
+      {
+        "spot": "杭州西湖",
+        "route_id": "xihu_official_7a3841720cf3aaa6_route_09",
+        "route_name": "“寻觅失落的文化遗珍”清波之旅",
+        "source_type": "official",
+        "step_count": 22,
+        "sequence": [
+          "柳浪闻莺",
+          "勾山樵舍",
+          "林徽因故居",
+          "杨皇后宅院园林遗址",
+          "修女院",
+          "郭璞井",
+          "浙江体育会摩崖题记",
+          "吴山第一峰",
+          "城隍庙",
+          "药王庙",
+          "有美堂",
+          "东岳庙",
+          "伍公庙",
+          "城隍山瞭望塔",
+          "鼓楼",
+          "叶种德堂",
+          "清河坊四拐角",
+          "河坊街",
+          "胡庆余堂",
+          "大井巷",
+          "钱塘第一井",
+          "河坊街西门"
+        ]
+      }
+    ],
+    "conditions": {
+      "total": 41,
+      "by_type": {
+        "其他条件": 3,
+        "游览偏好": 4,
+        "游客类型": 7,
+        "时间约束": 13,
+        "体力与健康": 6,
+        "交通条件": 5,
+        "天气环境": 3
+      },
+      "by_spot": {
+        "北京故宫": 18,
+        "杭州西湖": 12,
+        "九寨沟": 11
+      },
+      "linked_to_poi": 20,
+      "unlinked_to_poi": 21
+    },
+    "temporal": {
+      "steps": 250,
+      "with_time_period": 31,
+      "with_day": 125,
+      "with_clock": 31,
+      "with_visit_duration": 12,
+      "with_travel_duration": 14,
+      "without_poi": 7
+    },
+    "node_types": {
+      "Activity": 12,
+      "Condition": 41,
+      "ConditionType": 18,
+      "Document": 18,
+      "POI": 215,
+      "Route": 23,
+      "ScenicSpot": 3,
+      "Step": 250,
+      "TimePeriod": 3
+    },
+    "edge_types": {
+      "AT_TIME": 31,
+      "DESCRIBES": 23,
+      "ENDS_AT": 21,
+      "FROM_DOC": 41,
+      "HAS_ACTIVITY": 272,
+      "HAS_CONDITION": 41,
+      "HAS_ROUTE": 23,
+      "HAS_STEP": 250,
+      "HAS_TYPE": 41,
+      "MENTIONS": 436,
+      "NEXT": 227,
+      "RELATES_TO": 30,
+      "STARTS_AT": 21,
+      "VISITS": 294
+    }
+  }
+}
