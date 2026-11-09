@@ -1,0 +1,30 @@
+[
+  {
+    "cardsBottom": 726.40625,
+    "cardsHeight": 243,
+    "documentHeight": 900,
+    "height": 900,
+    "width": 1440
+  },
+  {
+    "cardsBottom": 685.390625,
+    "cardsHeight": 207.359375,
+    "documentHeight": 768,
+    "height": 768,
+    "width": 1366
+  },
+  {
+    "cardsBottom": 580,
+    "cardsHeight": 190,
+    "documentHeight": 600,
+    "height": 600,
+    "width": 1280
+  },
+  {
+    "cardsBottom": 600.5,
+    "cardsHeight": 190,
+    "documentHeight": 664,
+    "height": 664,
+    "width": 839
+  }
+]

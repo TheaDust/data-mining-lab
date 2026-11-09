@@ -1,0 +1,141 @@
+{
+  "mode": "live_deepseek",
+  "created_at": "2026-11-08T06:37:24.425307+00:00",
+  "model": "deepseek-flash",
+  "graph_sha256": "f8ef4fdd9ef75d932fa15943b84e7dca3cb740bc16c1dca059945b89d7f28b00",
+  "passed": 9,
+  "total": 9,
+  "cases": [
+    {
+      "case": "elder",
+      "input": "带老人去九寨沟玩一天，希望轻松一些",
+      "expected": "ready",
+      "actual": "ready",
+      "passed": true,
+      "checks": {
+        "status": true,
+        "real_tools": true,
+        "nonempty_steps": true,
+        "source_quotes": true,
+        "no_inferred_high_altitude_experience": true
+      },
+      "request_id": "a69424d77dd84433b801255d375cdebd",
+      "steps": 15,
+      "message": "为你选了九寨沟官方“一日精华游”（15步，均为第1天），按原文顺序完整保留：沟口乘车→原始森林→芳草海→天鹅海→箭竹海→熊猫海→五花海→镜海→诺日朗群海→诺日朗中心站（用餐休息2小时）→长海→五彩池→犀牛海→树正沟各点→双龙海→盆景滩→沟口。原文未标注该路线总时长，也未提供距离或体力等级，因此不能承诺“轻松”或一天一定走完；带老人可参考原文“初入高原第一日尽量不剧烈运动”的建议，多利用观光车、按体力删减步行段。另注意原文第14、15步时间区间有重叠，此处保留原文时刻未作改动。"
+    },
+    {
+      "case": "family",
+      "input": "带孩子去故宫玩半天，必须去太和殿，不去珍宝馆",
+      "expected": "ready",
+      "actual": "ready",
+      "passed": true,
+      "checks": {
+        "status": true,
+        "real_tools": true,
+        "nonempty_steps": true,
+        "source_quotes": true,
+        "required_poi": true,
+        "excluded_poi": true
+      },
+      "request_id": "a87474b9a75f45b9aa6eb34fd60a3677",
+      "steps": 5,
+      "message": "为你选了「游客攻略：半天精华线」（原文标注2.5～3小时，适合带娃/赶时间）。已保留午门→太和殿/中和殿/保和殿→乾清门/乾清宫/交泰殿/坤宁宫→御花园→神武门，删去第5步珍宝馆/钟表馆，符合“不去珍宝馆”且太和殿在第2步。注意：原文未给出各段步行距离与具体时刻，半天能否走完请以现场为准；故宫为单向参观，只能午门进、神武门出。"
+    },
+    {
+      "case": "couple",
+      "input": "情侣去西湖玩一天，喜欢拍照",
+      "expected": "ready",
+      "actual": "ready",
+      "passed": true,
+      "checks": {
+        "status": true,
+        "real_tools": true,
+        "nonempty_steps": true,
+        "source_quotes": true
+      },
+      "request_id": "53e9781f58cc4241902c4de19c2391a0",
+      "steps": 10,
+      "message": "为你们情侣一日游选了官方“西湖十景”文化之旅（约3小时，10个景点），按原顺序保留全部步骤，覆盖柳浪闻莺、雷峰夕照、花港观鱼、苏堤春晓、断桥残雪等经典取景地，适合拍照。注意：该路线原文只标注约3小时，未给出各点停留时长、步行距离和时刻，一天内如何安排休息与用餐需你们自行掌握；三潭印月、双峰插云在原文为远眺。另附一条拍照相关建议：柳浪闻莺早上人少更适合拍照。"
+    },
+    {
+      "case": "missing_spot",
+      "input": "我和孩子想玩一天",
+      "expected": "clarification",
+      "actual": "clarification",
+      "passed": true,
+      "checks": {
+        "status": true
+      },
+      "request_id": "fd074fbf6f0d487c81cf0e81d204a380",
+      "steps": 0,
+      "message": "你想去哪个景区？目前支持北京故宫、杭州西湖和九寨沟。"
+    },
+    {
+      "case": "missing_duration",
+      "input": "想去西湖游玩",
+      "expected": "clarification",
+      "actual": "clarification",
+      "passed": true,
+      "checks": {
+        "status": true
+      },
+      "request_id": "b55ba9cd793c4ecc8b2f0887528a9059",
+      "steps": 0,
+      "message": "准备在杭州西湖游览多久？可以告诉我半天、一天或两天。"
+    },
+    {
+      "case": "unsupported",
+      "input": "去黄山玩一天",
+      "expected": "no_match",
+      "actual": "no_match",
+      "passed": true,
+      "checks": {
+        "status": true
+      },
+      "request_id": "42cc9f4bcf8143518cd5d67167f029f6",
+      "steps": 0,
+      "message": "目前的图谱只覆盖北京故宫、杭州西湖和九寨沟。请选择其中一个景区。"
+    },
+    {
+      "case": "conflict",
+      "input": "故宫玩一天，太和殿必须去，也必须避开太和殿",
+      "expected": "clarification",
+      "actual": "clarification",
+      "passed": true,
+      "checks": {
+        "status": true
+      },
+      "request_id": "59c5d08e86eb4a91b2e7c955b8222bce",
+      "steps": 0,
+      "message": "这些景点同时被列为必去和避开：太和殿。请明确希望保留还是去掉。"
+    },
+    {
+      "case": "unknown_poi",
+      "input": "故宫玩一天，必须去火星博物馆",
+      "expected": "no_match",
+      "actual": "no_match",
+      "passed": true,
+      "checks": {
+        "status": true
+      },
+      "request_id": "563458c2d9aa436f9c215d50169fd748",
+      "steps": 0,
+      "message": "故宫现有路线资料中未出现“火星博物馆”，无法满足“必须去火星博物馆”的要求，因此不提交路线方案。若可放宽该必去项，可考虑故宫中轴线常规路线（午门—太和殿—中和殿—保和殿—乾清宫—交泰殿—坤宁宫—御花园—神武门）。"
+    },
+    {
+      "case": "followup",
+      "input": "改成两天，想安安静静欣赏风景",
+      "expected": "ready",
+      "actual": "ready",
+      "passed": true,
+      "checks": {
+        "status": true,
+        "spot_retained": true,
+        "duration_updated": true
+      },
+      "request_id": "f7f37786611b4d8ea03868149cc1a9cc",
+      "steps": 5,
+      "message": "按你们“两天、安静欣赏风景、喜欢拍照”的诉求，选了官方“孤山雅赏”文化之旅（5步，原文未标注时长与天数，也未标注各步属于第几天）。它集中在孤山一带，以平湖秋月、文澜阁、西泠印社等为主，步骤少、节奏可放缓，适合慢慢看景拍照；但原文没有时长、距离和开放信息，无法承诺一天走完或具体安排到第1/2天。另附一条明确适用于“想安安静静欣赏风景的人”的建议：可考虑茅家埠（上香古道），该建议来自游客分享，非官方线路。"
+    }
+  ]
+}

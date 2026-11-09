@@ -1,0 +1,22 @@
+{
+  "request_id": "a6cea9a0720d4a7ca72e2a4d6ff28d15",
+  "status": "ready",
+  "graph_stages": [
+    {
+      "label": "已聚焦目的地，正在查找候选路线",
+      "nodes": 138
+    },
+    {
+      "label": "正在比较已读取路线的步骤与依据",
+      "nodes": 25
+    },
+    {
+      "label": "已定位最终行程及其原文依据",
+      "nodes": 26
+    }
+  ],
+  "original_nodes": 583,
+  "original_edges": 1751,
+  "browser_errors": [],
+  "tests_passed": 33
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "cardsBottom": 788.3984375,
+    "cardsTop": 534.3984375,
+    "documentHeight": 900,
+    "documentWidth": 1440,
+    "formBottom": 462.3984375,
+    "height": 900,
+    "overlap": false,
+    "width": 1440
+  },
+  {
+    "cardsBottom": 706.9453125,
+    "cardsTop": 478.9453125,
+    "documentHeight": 768,
+    "documentWidth": 1366,
+    "formBottom": 406.9453125,
+    "height": 768,
+    "overlap": false,
+    "width": 1366
+  },
+  {
+    "cardsBottom": 564.5,
+    "cardsTop": 380.5,
+    "documentHeight": 600,
+    "documentWidth": 1280,
+    "formBottom": 316.5,
+    "height": 600,
+    "overlap": false,
+    "width": 1280
+  },
+  {
+    "cardsBottom": 628.25,
+    "cardsTop": 444.25,
+    "documentHeight": 664,
+    "documentWidth": 839,
+    "formBottom": 381.75,
+    "height": 664,
+    "overlap": false,
+    "width": 839
+  },
+  {
+    "cardsBottom": 580,
+    "cardsTop": 396,
+    "documentHeight": 600,
+    "documentWidth": 839,
+    "formBottom": 366,
+    "height": 600,
+    "overlap": false,
+    "width": 839
+  },
+  {
+    "cardsBottom": 768.7578125,
+    "cardsTop": 594.09375,
+    "documentHeight": 844,
+    "documentWidth": 390,
+    "formBottom": 510.59375,
+    "height": 844,
+    "overlap": false,
+    "width": 390
+  }
+]

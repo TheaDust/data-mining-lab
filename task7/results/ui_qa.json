@@ -1,0 +1,37 @@
+{
+  "mode": "manual_browser_and_http",
+  "date": "2026-11-08",
+  "desktop_viewport": [
+    1440,
+    1000
+  ],
+  "mobile_viewport": [
+    390,
+    844
+  ],
+  "mobile_document_width": 390,
+  "checks": {
+    "home_served": true,
+    "live_family_plan": true,
+    "source_quote_opened": true,
+    "followup_removed_treasure_and_clock_galleries": true,
+    "required_taihe_preserved": true,
+    "history_restored_after_reload": true,
+    "mobile_tabs": true,
+    "mobile_no_document_overflow": true,
+    "export_http_200_and_attachment": true,
+    "final_stream_progress_before_result": true
+  },
+  "limitations": [
+    "内置浏览器未提供Blob下载完成事件；已改为服务端附件并验证HTTP响应及JSON内容，未以下载事件宣称文件落盘。"
+  ],
+  "final_smoke": {
+    "event_types": [
+      "session",
+      "progress",
+      "result"
+    ],
+    "status": "clarification",
+    "request_id": "68cee68e8f2e462198698499a204334f"
+  }
+}

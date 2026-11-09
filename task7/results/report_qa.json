@@ -1,0 +1,23 @@
+{
+  "chapters_1_to_6_xml_unchanged": true,
+  "preserved_styles_and_sections": true,
+  "changed_parts": [
+    "[Content_Types].xml",
+    "word/_rels/document.xml.rels",
+    "word/document.xml"
+  ],
+  "member_c_contribution_added": true,
+  "group_percentages_unmodified": true,
+  "offline_tests_passed": 33,
+  "live_functional_cases_passed": 9,
+  "natural_language_limitation_recorded": true,
+  "member_report_pages": 8,
+  "group_report_pages": 57,
+  "member_report_figures": 3,
+  "chapter_sections": 7,
+  "reflection_failure_cases": 3,
+  "chapter_1_to_6_xml_comparison": "passed",
+  "render_font_configuration": "task-local fontconfig with system CJK fonts; document fonts preserved",
+  "member_docx": "report/房立志_实验7与系统集成.docx",
+  "group_docx": "report/第8组_卢满江_《数据挖掘》探索性实验报告-提交版.docx"
+}

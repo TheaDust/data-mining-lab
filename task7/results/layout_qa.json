@@ -1,0 +1,31 @@
+{
+  "scope": "desktop_home",
+  "current": {
+    "width": 839,
+    "height": 664,
+    "documentHeight": 664
+  },
+  "tested": [
+    {
+      "cardCount": 3,
+      "documentHeight": 768,
+      "footerBottom": 750,
+      "height": 768,
+      "width": 1366
+    },
+    {
+      "cardCount": 3,
+      "documentHeight": 900,
+      "footerBottom": 882,
+      "height": 900,
+      "width": 1440
+    },
+    {
+      "cardCount": 3,
+      "documentHeight": 600,
+      "footerBottom": 588,
+      "height": 600,
+      "width": 1280
+    }
+  ]
+}
